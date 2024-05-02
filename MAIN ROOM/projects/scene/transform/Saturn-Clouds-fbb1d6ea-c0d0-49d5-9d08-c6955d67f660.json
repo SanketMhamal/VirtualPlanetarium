@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		0,
+		0,
+		0
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.540557086,
+		-0.455848664,
+		-0.455848694,
+		-0.540557086
+	],
+	"scaling": [
+		100.999992,
+		100.999992,
+		101
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Saturn-Clouds",
+	"id": "fbb1d6ea-c0d0-49d5-9d08-c6955d67f660",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 3722,
+	"parentId": "02c4180e-7fe2-4c44-86d2-c64d60fd27c5",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

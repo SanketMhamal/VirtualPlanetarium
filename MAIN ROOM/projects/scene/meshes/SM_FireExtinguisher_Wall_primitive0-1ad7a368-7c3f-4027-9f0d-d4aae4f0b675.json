@@ -1,0 +1,163 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "SM_FireExtinguisher_Wall_primitive0",
+			"id": "1ad7a368-7c3f-4027-9f0d-d4aae4f0b675",
+			"uniqueId": 2608,
+			"type": "Mesh",
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "a3e4fe58-f9ba-4de9-b00e-75123e8519ca",
+			"isUnIndexed": false,
+			"geometryId": "f02ce7fd-3352-462f-ad7c-e1bba3b417ed",
+			"subMeshes": null,
+			"materialId": "e5a2e90c-973b-47cf-9873-f2b5fd0ecb86",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": -15,
+					"13": -1.899999976158142,
+					"14": -30.399999618530273,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "SM_FireExtinguisher_Wall_primitive0",
+					"name": "SM_FireExtinguisher_Wall_primitive0",
+					"sceneFileName": "TELESCOPE/oBSERVATORY.glb"
+				},
+				"isPickable": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/f02ce7fd-3352-462f-ad7c-e1bba3b417ed.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				0.1465734839439392,
+				0.3662266433238983,
+				0.33348971605300903
+			],
+			"boundingBoxMinimum": [
+				-0.1465594470500946,
+				-0.3677511513233185,
+				-0.0005242920015007257
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 1536,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 1536,
+					"stride": 3,
+					"offset": 6144,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 1024,
+					"stride": 2,
+					"offset": 12288,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 1024,
+					"stride": 2,
+					"offset": 16384,
+					"dataType": 1
+				},
+				"tangetsAttrDesc": {
+					"count": 2048,
+					"stride": 3,
+					"offset": 20480,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 2517,
+					"stride": 1,
+					"offset": 28672,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 38740,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"tangents": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		0,
+		9.19999981,
+		0
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.12480472,
+		-0.00120866694,
+		-0.514017522,
+		0.848650992
+	],
+	"scaling": [
+		2.5,
+		2.5,
+		2.5
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "DirectionalLight",
+	"id": "17f0d812-acfe-488a-a069-228d37247d58",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 3695,
+	"parentId": "27a4641d-3b0a-4789-a2d0-435e9d4671cb",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

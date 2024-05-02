@@ -1,0 +1,164 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Mars5",
+			"id": "6375e927-a973-41cd-84d2-03e44e5f5d66",
+			"uniqueId": 3784,
+			"type": "Mesh",
+			"position": [
+				-18.6999989,
+				3.69999981,
+				-7
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				0.0199999996,
+				0.0199999996,
+				0.0199999996
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "27a4641d-3b0a-4789-a2d0-435e9d4671cb",
+			"isUnIndexed": false,
+			"geometryId": "7ab7f738-7541-4304-981c-e89e3c1abcb0",
+			"subMeshes": null,
+			"materialId": "634c91cb-35d6-402c-ae05-ff97688d7541",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -50,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 50,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 50,
+					"11": 0,
+					"12": 934.9999389648438,
+					"13": -185,
+					"14": 350,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Mars5",
+					"name": "Mars5",
+					"sceneFileName": "SOLAR SYSTEM/solarsystem.glb"
+				},
+				"isPickable": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/7ab7f738-7541-4304-981c-e89e3c1abcb0.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				99.99994659423828,
+				100.00001525878906,
+				99.99990844726562
+			],
+			"boundingBoxMinimum": [
+				-99.99986267089844,
+				-100.00001525878906,
+				-99.99983978271484
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 35310,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 35310,
+					"stride": 3,
+					"offset": 141240,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 23540,
+					"stride": 2,
+					"offset": 282480,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 23540,
+					"stride": 2,
+					"offset": 376640,
+					"dataType": 1
+				},
+				"tangetsAttrDesc": {
+					"count": 47080,
+					"stride": 3,
+					"offset": 470800,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 17664,
+					"stride": 1,
+					"offset": 659120,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 729776,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"tangents": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

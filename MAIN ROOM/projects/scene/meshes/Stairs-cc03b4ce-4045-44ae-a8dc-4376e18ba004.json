@@ -1,0 +1,421 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Stairs",
+			"id": "cc03b4ce-4045-44ae-a8dc-4376e18ba004",
+			"uniqueId": 2024,
+			"type": "Mesh",
+			"position": [
+				6.5,
+				1.79999995,
+				0.599999964
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				-0.445650786,
+				0.895206869
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": true,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+			"isUnIndexed": false,
+			"geometryId": "d96e26ed-473a-4c40-b1f7-bd614009ecfd",
+			"subMeshes": null,
+			"materialId": "f72c3524-9d90-4dd5-8390-575563a16276",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -0.6027907729148865,
+					"1": -0.7978993058204651,
+					"2": 0,
+					"3": 0,
+					"4": -0.7978993058204651,
+					"5": 0.6027907729148865,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": -2.4819211959838867,
+					"13": -6.271368503570557,
+					"14": -0.5999999642372131,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Stairs",
+					"name": "Stairs",
+					"sceneFileName": "AUDITORIUM/aUDITORIUM.glb"
+				},
+				"isPickable": false,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [
+				{
+					"name": "Stairs2",
+					"id": "49f0c324-3ab9-4580-a74f-4b0b9741e6cc",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						-2.79999995,
+						3.5,
+						0.599999964
+					],
+					"scaling": [
+						1,
+						1,
+						1
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						-0.521977365,
+						0.852959335
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.6027907729148865,
+							"1": 0.7978993058204651,
+							"2": 0,
+							"3": 0,
+							"4": -0.7978993058204651,
+							"5": 0.6027907729148865,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 1,
+							"11": 0,
+							"12": -2.4819211959838867,
+							"13": -6.271368503570557,
+							"14": -0.5999999642372131,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "Stairs3",
+					"id": "e62ceb8f-1672-497f-a277-1b9ba15a8e0b",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						1.29999995,
+						2.79999995,
+						0.599999964
+					],
+					"scaling": [
+						1,
+						1,
+						1
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						-0.521977365,
+						0.852959335
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.6027907729148865,
+							"1": 0.7978993058204651,
+							"2": 0,
+							"3": 0,
+							"4": -0.7978993058204651,
+							"5": 0.6027907729148865,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 1,
+							"11": 0,
+							"12": -2.4819211959838867,
+							"13": -6.271368503570557,
+							"14": -0.5999999642372131,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "Stairs4",
+					"id": "ce09540e-eec6-4453-85d8-9ba5965b6d8d",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						1.29999995,
+						2.70000005,
+						-11
+					],
+					"scaling": [
+						1,
+						1,
+						1
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						-0.521977365,
+						0.852959335
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.6027907729148865,
+							"1": 0.7978993058204651,
+							"2": 0,
+							"3": 0,
+							"4": -0.7978993058204651,
+							"5": 0.6027907729148865,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 1,
+							"11": 0,
+							"12": -2.4819211959838867,
+							"13": -6.271368503570557,
+							"14": -0.5999999642372131,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "Stairs5",
+					"id": "b67b3a8a-30c2-4aea-a07e-5f0f3190ac2c",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						6.5,
+						1.79999995,
+						-10.8999996
+					],
+					"scaling": [
+						1,
+						1,
+						1
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						-0.445650786,
+						0.895206869
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.6027907729148865,
+							"1": 0.7978993058204651,
+							"2": 0,
+							"3": 0,
+							"4": -0.7978993058204651,
+							"5": 0.6027907729148865,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 1,
+							"11": 0,
+							"12": -2.4819211959838867,
+							"13": -6.271368503570557,
+							"14": -0.5999999642372131,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "Stairs6",
+					"id": "0eb7fb48-be92-488e-a919-09cd09402889",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						-2.89999986,
+						3.5,
+						-11
+					],
+					"scaling": [
+						1,
+						1,
+						1
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						-0.521977365,
+						0.852959335
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.6027907729148865,
+							"1": 0.7978993058204651,
+							"2": 0,
+							"3": 0,
+							"4": -0.7978993058204651,
+							"5": 0.6027907729148865,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 1,
+							"11": 0,
+							"12": -2.4819211959838867,
+							"13": -6.271368503570557,
+							"14": -0.5999999642372131,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				}
+			],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/d96e26ed-473a-4c40-b1f7-bd614009ecfd.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				1.1999999284744263,
+				1.5999999046325684,
+				0.75
+			],
+			"boundingBoxMinimum": [
+				-1.1999999284744263,
+				0,
+				-0.75
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 618,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 618,
+					"stride": 3,
+					"offset": 2472,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 412,
+					"stride": 2,
+					"offset": 4944,
+					"dataType": 1
+				},
+				"tangetsAttrDesc": {
+					"count": 824,
+					"stride": 3,
+					"offset": 6592,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 624,
+					"stride": 1,
+					"offset": 9888,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 12384,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"tangents": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

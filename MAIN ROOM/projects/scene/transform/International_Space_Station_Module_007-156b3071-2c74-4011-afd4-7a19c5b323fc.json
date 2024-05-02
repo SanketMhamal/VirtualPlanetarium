@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		-2.49010491,
+		-9.72359943,
+		5.35552597
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.249297217,
+		-0.155985579,
+		0.0400931202,
+		0.954940915
+	],
+	"scaling": [
+		1,
+		1,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "International_Space_Station_Module_007",
+	"id": "156b3071-2c74-4011-afd4-7a19c5b323fc",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 667,
+	"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

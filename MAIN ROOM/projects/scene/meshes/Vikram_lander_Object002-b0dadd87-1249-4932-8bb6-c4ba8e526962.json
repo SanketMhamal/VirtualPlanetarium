@@ -1,0 +1,164 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Vikram_lander_Object002",
+			"id": "b0dadd87-1249-4932-8bb6-c4ba8e526962",
+			"uniqueId": 941,
+			"type": "Mesh",
+			"position": [
+				-21.5,
+				3.70004559,
+				-20.480999
+			],
+			"rotationQuaternion": [
+				0.707106829,
+				0,
+				0,
+				0.707106829
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+			"isUnIndexed": false,
+			"geometryId": "42fc9123-1951-4d6c-b491-a2c76533ef53",
+			"subMeshes": null,
+			"materialId": "dea517df-ee10-4ccd-926a-f489acb64fd2",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": -1.3523684572191996e-7,
+					"6": -0.9999998807907104,
+					"7": 0,
+					"8": 0,
+					"9": 0.9999998807907104,
+					"10": -1.3523684572191996e-7,
+					"11": 0,
+					"12": 21.5,
+					"13": 20.48099708557129,
+					"14": 3.700042486190796,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Vikram_lander_Object002",
+					"name": "Vikram_lander_Object002",
+					"sceneFileName": "SATELLITE/satelite.glb"
+				},
+				"isPickable": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/42fc9123-1951-4d6c-b491-a2c76533ef53.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				-0.6935959458351135,
+				-0.4172159731388092,
+				-0.12466899305582047
+			],
+			"boundingBoxMinimum": [
+				-0.6935959458351135,
+				-0.5587089657783508,
+				-0.2331800013780594
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 12,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 12,
+					"stride": 3,
+					"offset": 48,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 8,
+					"stride": 2,
+					"offset": 96,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 8,
+					"stride": 2,
+					"offset": 128,
+					"dataType": 1
+				},
+				"tangetsAttrDesc": {
+					"count": 16,
+					"stride": 3,
+					"offset": 160,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 6,
+					"stride": 1,
+					"offset": 224,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 248,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"tangents": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

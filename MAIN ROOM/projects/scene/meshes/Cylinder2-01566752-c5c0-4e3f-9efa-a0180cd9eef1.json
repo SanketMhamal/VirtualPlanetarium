@@ -1,0 +1,421 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Cylinder2",
+			"id": "01566752-c5c0-4e3f-9efa-a0180cd9eef1",
+			"uniqueId": 961,
+			"type": "Mesh",
+			"position": [
+				-21.6000004,
+				1.89999998,
+				-20.6000004
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				6.25,
+				0.5,
+				6.75
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": true,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+			"isUnIndexed": false,
+			"geometryId": "01e77bff-0fdd-43db-9ea0-bc72703767d4",
+			"subMeshes": null,
+			"materialId": "e4105145-dab0-4a47-8766-7b5b57ceabfc",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -0.1599999964237213,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 2,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 0.14814814925193787,
+					"11": 0,
+					"12": 3.4560000896453857,
+					"13": -3.799999952316284,
+					"14": 3.051851987838745,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Cylinder2",
+					"name": "Cylinder2",
+					"sceneFileName": "SATELLITE/satelite.glb"
+				},
+				"isPickable": false,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [
+				{
+					"name": "Cylinder4",
+					"id": "b1a463f6-4332-4133-bd3c-57d63ce53d70",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						27.8368206,
+						1.60062242,
+						27.182682
+					],
+					"scaling": [
+						6.25,
+						0.5,
+						6.75
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.1599999964237213,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 2,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.14814814925193787,
+							"11": 0,
+							"12": 3.4560000896453857,
+							"13": -3.799999952316284,
+							"14": 3.051851987838745,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "Cylinder6",
+					"id": "0e8e3923-7cfa-482f-8a99-dc67d2931864",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						42.3999977,
+						1.89999998,
+						14.8999996
+					],
+					"scaling": [
+						6.25,
+						0.5,
+						6.75
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.1599999964237213,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 2,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.14814814925193787,
+							"11": 0,
+							"12": 3.4560000896453857,
+							"13": -3.799999952316284,
+							"14": 3.051851987838745,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "Cylinder8",
+					"id": "dcdb76ab-205a-4955-9b85-bf2f0b5e9c77",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						42.5999985,
+						1.39999998,
+						-5.19999981
+					],
+					"scaling": [
+						6.25,
+						0.5,
+						6.75
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.1599999964237213,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 2,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.14814814925193787,
+							"11": 0,
+							"12": 3.4560000896453857,
+							"13": -3.799999952316284,
+							"14": 3.051851987838745,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "Cylinder10",
+					"id": "4139e319-386c-4696-a247-ce385c1b1788",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						-18.6999989,
+						1.19999993,
+						-5.0999999
+					],
+					"scaling": [
+						6.25,
+						0.5,
+						6.75
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.1599999964237213,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 2,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.14814814925193787,
+							"11": 0,
+							"12": 3.4560000896453857,
+							"13": -3.799999952316284,
+							"14": 3.051851987838745,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "Cylinder12",
+					"id": "0cf511f8-3ef4-4fd3-9f20-9abff0b86d88",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						40.8999977,
+						1.89999998,
+						-21
+					],
+					"scaling": [
+						6.25,
+						0.5,
+						6.75
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.1599999964237213,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 2,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.14814814925193787,
+							"11": 0,
+							"12": 3.4560000896453857,
+							"13": -3.799999952316284,
+							"14": 3.051851987838745,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				}
+			],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/01e77bff-0fdd-43db-9ea0-bc72703767d4.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				0.5,
+				2,
+				0.5
+			],
+			"boundingBoxMinimum": [
+				-0.5,
+				0,
+				-0.5
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 204,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 204,
+					"stride": 3,
+					"offset": 816,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 136,
+					"stride": 2,
+					"offset": 1632,
+					"dataType": 1
+				},
+				"tangetsAttrDesc": {
+					"count": 272,
+					"stride": 3,
+					"offset": 2176,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 192,
+					"stride": 1,
+					"offset": 3264,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 4032,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"tangents": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}
