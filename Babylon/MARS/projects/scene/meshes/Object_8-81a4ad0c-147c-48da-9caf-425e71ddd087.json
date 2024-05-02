@@ -1,0 +1,157 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Object_8",
+			"id": "81a4ad0c-147c-48da-9caf-425e71ddd087",
+			"uniqueId": 1063,
+			"type": "Mesh",
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "f3f4a76a-a86f-478d-9b53-9419f4c2800c",
+			"isUnIndexed": false,
+			"geometryId": "412aa101-8d03-4140-95c7-ae2edaeb20fa",
+			"subMeshes": null,
+			"materialId": "843201f3-bbca-4bb1-a82a-12f137339ec0",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": -1.062891960144043,
+					"13": -0.24909445643424988,
+					"14": -1.0950909852981567,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Object_8",
+					"name": "Object_8",
+					"sceneFileName": "rover/curiosity_mars_rover.glb"
+				},
+				"isPickable": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/412aa101-8d03-4140-95c7-ae2edaeb20fa.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				0.10903836786746979,
+				1.7030216455459595,
+				1.1456164121627808
+			],
+			"boundingBoxMinimum": [
+				-2.2262465953826904,
+				-0.03890356421470642,
+				-2.754337787628174
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 26661,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 26661,
+					"stride": 3,
+					"offset": 106644,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 17774,
+					"stride": 2,
+					"offset": 213288,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 17774,
+					"stride": 2,
+					"offset": 284384,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 26454,
+					"stride": 1,
+					"offset": 355480,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 461296,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

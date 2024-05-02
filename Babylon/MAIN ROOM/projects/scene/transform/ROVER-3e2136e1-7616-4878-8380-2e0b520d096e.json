@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		-19.5,
+		0.799999952,
+		-5
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+	"scaling": [
+		2.36999989,
+		2.36999989,
+		2.36999989
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "ROVER",
+	"id": "3e2136e1-7616-4878-8380-2e0b520d096e",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 621,
+	"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

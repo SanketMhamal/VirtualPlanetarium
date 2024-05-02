@@ -1,0 +1,59 @@
+{
+	"tags": null,
+	"position": [
+		-0.1688060760498047,
+		12.364473342895508,
+		16.336503982543945
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.7071067811865475,
+		0,
+		0,
+		0.7071067811865476
+	],
+	"scaling": [
+		0.11658447235822678,
+		0.11658447980880737,
+		0.15799756348133087
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "RootNode (gltf orientation matrix).001_8",
+	"id": "e436549f-9be4-4021-b2ec-8fc090fd3f4a",
+	"state": "",
+	"metadata": {
+		"script": {
+			"name": "None"
+		}
+	},
+	"type": "TransformNode",
+	"uniqueId": 429,
+	"parentId": "78340d1b-cff5-4a74-8c62-190639fb8358",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

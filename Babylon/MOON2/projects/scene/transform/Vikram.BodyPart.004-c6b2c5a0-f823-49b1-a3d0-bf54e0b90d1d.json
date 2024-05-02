@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		0,
+		2.405351400375366,
+		0
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		1.410649872468639e-7,
+		0,
+		0,
+		1
+	],
+	"scaling": [
+		1,
+		1.0000000000000397,
+		1.0000000000000397
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Vikram.BodyPart.004",
+	"id": "c6b2c5a0-f823-49b1-a3d0-bf54e0b90d1d",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 602,
+	"parentId": "8ec77214-f9e4-4165-a4b6-e4e79e99e53b",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

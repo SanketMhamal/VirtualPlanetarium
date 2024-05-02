@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		-0.9409942626953125,
+		9.368966102600098,
+		2.2165756225585938
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.7314579079149869,
+		-0.029293992146248407,
+		0.027261657857544815,
+		0.680711399769298
+	],
+	"scaling": [
+		0.1890846120901691,
+		0.23951605503974344,
+		0.19477950254633306
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Circle011",
+	"id": "7d99fca1-84af-44e3-88d8-6911f88ff3b2",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 119,
+	"parentId": "19e05be4-8993-4d08-8ee3-4fce900ac426",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

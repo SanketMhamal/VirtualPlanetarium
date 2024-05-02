@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		-0.0199310295,
+		0.466114253,
+		-0.101506956
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0,
+		-0.258819371,
+		0,
+		0.965925753
+	],
+	"scaling": [
+		1,
+		1,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "SM_Statue_Abstract1",
+	"id": "4ab1c087-e8e5-4e38-9f19-ea5ceccdf229",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 250,
+	"parentId": "8f388c95-e628-43bd-9935-108f2d9106cd",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

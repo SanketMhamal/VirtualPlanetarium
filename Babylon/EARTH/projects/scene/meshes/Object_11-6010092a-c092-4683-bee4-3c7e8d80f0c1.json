@@ -1,0 +1,149 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Object_11",
+			"id": "6010092a-c092-4683-bee4-3c7e8d80f0c1",
+			"uniqueId": 441,
+			"type": "Mesh",
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "010c7079-3a36-4cb7-b5c3-6d76f9630ffd",
+			"isUnIndexed": false,
+			"geometryId": "81d37aa9-d98d-4c8f-8a70-1c1fc2c98914",
+			"subMeshes": null,
+			"materialId": "43512a0d-692a-4b7a-883d-8178a83f66e0",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -6.87254524230957,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1.5260113813997953e-15,
+					"6": 3.3768653869628906,
+					"7": 0,
+					"8": 0,
+					"9": -6.872544288635254,
+					"10": 7.49814740733188e-16,
+					"11": 0,
+					"12": 1.1601274013519287,
+					"13": 112.27335357666016,
+					"14": -41.28257751464844,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Object_11",
+					"name": "Object_11",
+					"sceneFileName": "earth/bear_doing_jungle_camping.glb"
+				},
+				"isPickable": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/81d37aa9-d98d-4c8f-8a70-1c1fc2c98914.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				2.9100279808044434,
+				3.3575119972229004,
+				1.3639309406280518
+			],
+			"boundingBoxMinimum": [
+				-3.433197021484375,
+				-3.047456979751587,
+				-0.06366600096225739
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 6630,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 6630,
+					"stride": 3,
+					"offset": 26520,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 4420,
+					"stride": 2,
+					"offset": 53040,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 8736,
+					"stride": 1,
+					"offset": 70720,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 105664,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

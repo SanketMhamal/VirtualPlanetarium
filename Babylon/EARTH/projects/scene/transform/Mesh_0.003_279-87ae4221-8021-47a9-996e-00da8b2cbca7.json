@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		-7.53557825088501,
+		-2.626476526260376,
+		0
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+	"scaling": [
+		1,
+		1,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Mesh_0.003_279",
+	"id": "87ae4221-8021-47a9-996e-00da8b2cbca7",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 504,
+	"parentId": "d874b425-3a14-4572-ac16-45e57351213b",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		-0.1572430431842804,
+		12.443204879760742,
+		16.425874710083008
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.5679066090125848,
+		0.42128621570848884,
+		-0.42128621570848884,
+		0.567906609012585
+	],
+	"scaling": [
+		0.12262361713639593,
+		0.12262361713639593,
+		0.12262361496686935
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "WhatsApp Image 2022-01-23 at 4.43.21 PM.001_337",
+	"id": "eee974f6-26a3-4f40-b8aa-550dd8165a95",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 627,
+	"parentId": "78340d1b-cff5-4a74-8c62-190639fb8358",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

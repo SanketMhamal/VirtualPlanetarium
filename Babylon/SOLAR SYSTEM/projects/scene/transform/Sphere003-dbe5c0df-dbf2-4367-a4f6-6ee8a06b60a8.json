@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		0.6801553964614868,
+		11.820796966552734,
+		20.940196990966797
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.7340351869680664,
+		0,
+		0,
+		0.6791114558458424
+	],
+	"scaling": [
+		0.045692551881074905,
+		0.04569255296294392,
+		0.04569255296294392
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Sphere003",
+	"id": "dbe5c0df-dbf2-4367-a4f6-6ee8a06b60a8",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 76,
+	"parentId": "19e05be4-8993-4d08-8ee3-4fce900ac426",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

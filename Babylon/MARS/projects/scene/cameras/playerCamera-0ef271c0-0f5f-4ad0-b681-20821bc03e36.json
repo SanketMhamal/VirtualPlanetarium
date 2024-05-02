@@ -1,0 +1,127 @@
+{
+	"tags": "modified",
+	"alpha": 4.939519341656814,
+	"beta": 1.2801705851417857,
+	"radius": 50.00000000000007,
+	"target": [
+		-1.4939506152471986,
+		23.93946395028642,
+		0.7468553691055738
+	],
+	"inertialAlphaOffset": 0,
+	"inertialBetaOffset": 0,
+	"inertialRadiusOffset": 0,
+	"lowerBetaLimit": 0.01,
+	"upperBetaLimit": 3.1315926535897933,
+	"lowerRadiusLimit": 50,
+	"upperRadiusLimit": 80,
+	"inertialPanningX": 0,
+	"inertialPanningY": 0,
+	"pinchToPanMaxDistance": 20,
+	"panningOriginTarget": [
+		0,
+		0,
+		0
+	],
+	"panningInertia": 0.9,
+	"zoomToMouseLocation": false,
+	"zoomOnFactor": 1,
+	"targetScreenOffset": [
+		0,
+		0
+	],
+	"allowUpsideDown": true,
+	"useInputToRestoreState": true,
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"speed": 10,
+	"position": [
+		9.293021084691397,
+		38.2670530597756,
+		-45.92606431516507
+	],
+	"upVector": [
+		0,
+		1,
+		0
+	],
+	"fov": 0.64,
+	"projectionPlaneTilt": 0,
+	"minZ": 1,
+	"maxZ": 10000,
+	"inertia": 0,
+	"mode": 0,
+	"layerMask": 268435455,
+	"fovMode": 0,
+	"cameraRigMode": 0,
+	"name": "playerCamera",
+	"id": "0ef271c0-0f5f-4ad0-b681-20821bc03e36",
+	"state": "",
+	"metadata": {
+		"script": {
+			"name": "src/scenes/scene/playerCamera.ts",
+			"properties": {
+				"_myProperty": {
+					"type": "number",
+					"value": 0
+				}
+			}
+		}
+	},
+	"uniqueId": 113,
+	"type": "ArcRotateCamera",
+	"parentId": "078c2d5d-b690-4f72-bfb1-614c5eb90ad3",
+	"inputsmgr": {
+		"ArcRotateCameraKeyboardMoveInput": {
+			"tags": null,
+			"keysUp": [
+				38
+			],
+			"keysDown": [
+				40
+			],
+			"keysLeft": [
+				37
+			],
+			"keysRight": [
+				39
+			],
+			"keysReset": [
+				220
+			],
+			"panningSensibility": 50,
+			"zoomingSensibility": 25,
+			"useAltToZoom": true,
+			"angularSpeed": 0.01
+		},
+		"ArcRotateCameraMouseWheelInput": {
+			"tags": null,
+			"wheelPrecision": 10,
+			"zoomToMouseLocation": false,
+			"wheelDeltaPercentage": 0
+		},
+		"ArcRotateCameraPointersInput": {
+			"tags": null,
+			"buttons": [
+				0,
+				1,
+				2
+			],
+			"angularSensibilityX": 500,
+			"angularSensibilityY": 500,
+			"pinchPrecision": 12,
+			"pinchDeltaPercentage": 0,
+			"useNaturalPinchZoom": false,
+			"pinchZoom": true,
+			"panningSensibility": 1000,
+			"multiTouchPanning": true,
+			"multiTouchPanAndZoom": true
+		}
+	},
+	"animations": [],
+	"ranges": [],
+	"isEnabled": true
+}

@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		2.9701080322265625,
+		4.440892098500626e-16,
+		-8.881784197001252e-16
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		2.1073418565720203e-8,
+		0,
+		0,
+		-1
+	],
+	"scaling": [
+		1,
+		1,
+		0.9999999403953552
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Bip01-L-Toe11_45",
+	"id": "c8d28dd4-0a52-43e4-b971-e15a7d388f5e",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 1891,
+	"parentId": "997454ef-3e54-4918-bb28-769705c5b04d",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

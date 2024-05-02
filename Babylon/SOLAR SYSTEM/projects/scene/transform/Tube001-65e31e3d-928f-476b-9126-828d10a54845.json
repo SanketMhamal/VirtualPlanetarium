@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		-0.007814407348632812,
+		-0.00769805908203125,
+		-0.06144523620605469
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.08682410971342129,
+		0.08682409845200723,
+		-0.0075960402821137534,
+		0.9924038703664819
+	],
+	"scaling": [
+		0.9999999782506394,
+		0.9999999823959456,
+		1.0000001325053904
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Tube001",
+	"id": "65e31e3d-928f-476b-9126-828d10a54845",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 156,
+	"parentId": "11ce210b-494a-4714-abcb-8eff2907830e",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

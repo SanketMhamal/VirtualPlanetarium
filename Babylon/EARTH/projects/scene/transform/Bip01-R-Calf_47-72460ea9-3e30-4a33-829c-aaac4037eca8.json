@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		6.771627426147461,
+		1.7763568394002505e-15,
+		9.5367431640625e-7
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-5.317734164123067e-8,
+		-3.223621902748164e-8,
+		-0.17626142501831055,
+		0.984343409538269
+	],
+	"scaling": [
+		1,
+		1,
+		0.9999999403953552
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Bip01-R-Calf_47",
+	"id": "72460ea9-3e30-4a33-829c-aaac4037eca8",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 1893,
+	"parentId": "632012da-11f6-4b45-afe4-25f824cc2d37",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		-0.061769999563694,
+		1.2417500019073486,
+		4.05456018447876
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.10232209050533306,
+		0,
+		0,
+		0.9947513136077283
+	],
+	"scaling": [
+		1,
+		0.9999996072433757,
+		0.9999996072433757
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Hemi",
+	"id": "74cde597-2491-4cc2-89ad-901ae2b9f1c2",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 2047,
+	"parentId": "edfdf9d9-1f93-45af-bf30-cc3fb4145ded",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		0.6354310512542725,
+		12.325530052185059,
+		20.61498260498047
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.6059393286705017,
+		0.18535032868385315,
+		-0.5419362783432007,
+		0.5520761013031006
+	],
+	"scaling": [
+		3.076246738433838,
+		3.076246976852417,
+		3.076247453689575
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Plane_338",
+	"id": "ba8fba48-2e48-48f7-9044-079f322cca6f",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 630,
+	"parentId": "78340d1b-cff5-4a74-8c62-190639fb8358",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

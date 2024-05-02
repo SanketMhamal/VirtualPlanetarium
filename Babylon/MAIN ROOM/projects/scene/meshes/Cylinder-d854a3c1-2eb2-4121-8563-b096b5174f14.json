@@ -1,0 +1,149 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Cylinder",
+			"id": "d854a3c1-2eb2-4121-8563-b096b5174f14",
+			"uniqueId": 22277,
+			"type": "Mesh",
+			"position": [
+				-0.017137043178081512,
+				2.1752779483795166,
+				0.015470616519451141
+			],
+			"rotationQuaternion": [
+				0,
+				1,
+				0,
+				0
+			],
+			"scaling": [
+				0.16509930789470673,
+				1.1448402404785156,
+				0.16509930789470673
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "1caafa67-695c-4731-ac14-42fdd9cb24f3",
+			"isUnIndexed": false,
+			"geometryId": "3075ce8a-64d0-47c2-97ee-93c60c08547f",
+			"subMeshes": null,
+			"materialId": "a986c3b3-db53-48f4-bf50-d834a4df853d",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 6.056960582733154,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 0.8734843134880066,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": -6.056960582733154,
+					"11": 0,
+					"12": -0.10379839688539505,
+					"13": -1.900071144104004,
+					"14": 0.09370491653680801,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Cylinder",
+					"name": "Cylinder",
+					"sceneFileName": "planet sign/planetssign.glb"
+				},
+				"isPickable": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/3075ce8a-64d0-47c2-97ee-93c60c08547f.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				1,
+				1,
+				1
+			],
+			"boundingBoxMinimum": [
+				-1,
+				-1,
+				-1
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 576,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 576,
+					"stride": 3,
+					"offset": 2304,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 384,
+					"stride": 2,
+					"offset": 4608,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 372,
+					"stride": 1,
+					"offset": 6144,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 7632,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		-9.88315678,
+		-7.15255624e-7,
+		-11.2788353
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.707106888,
+		0,
+		0,
+		-0.707106709
+	],
+	"scaling": [
+		99.9999847,
+		100.000015,
+		100.000015
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Sphere-Mimas",
+	"id": "e5d0f0a2-5323-4a46-86d4-2aa6d59ed67a",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 3724,
+	"parentId": "02c4180e-7fe2-4c44-86d2-c64d60fd27c5",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

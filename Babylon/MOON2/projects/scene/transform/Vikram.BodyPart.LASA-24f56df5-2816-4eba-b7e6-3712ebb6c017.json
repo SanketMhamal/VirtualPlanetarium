@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		1.0082457065582275,
+		1.3134620189666748,
+		0.7864899039268494
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.3043967828776522,
+		-0.4486805643341092,
+		-0.4921311459158139,
+		0.6810545437514272
+	],
+	"scaling": [
+		0.9999999949931535,
+		1.0000000092002324,
+		0.9999999435610867
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Vikram.BodyPart.LASA",
+	"id": "24f56df5-2816-4eba-b7e6-3712ebb6c017",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 608,
+	"parentId": "8ec77214-f9e4-4165-a4b6-e4e79e99e53b",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

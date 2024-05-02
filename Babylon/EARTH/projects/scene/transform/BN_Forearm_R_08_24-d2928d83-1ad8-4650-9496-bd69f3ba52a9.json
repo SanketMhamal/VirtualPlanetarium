@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		8.114376068115234,
+		0.000003814697265625,
+		-0.0000057220458984375
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.03684542328119278,
+		0.1580103486776352,
+		0.07329662144184113,
+		0.9840237498283386
+	],
+	"scaling": [
+		1,
+		1.0000001192092896,
+		0.9999999403953552
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "BN_Forearm_R_08_24",
+	"id": "d2928d83-1ad8-4650-9496-bd69f3ba52a9",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 1871,
+	"parentId": "16d43db2-3eb9-47e8-8e79-bb3883418ffc",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

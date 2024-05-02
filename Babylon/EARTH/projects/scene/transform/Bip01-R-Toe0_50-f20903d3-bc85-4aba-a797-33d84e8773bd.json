@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		2.3679511547088623,
+		0.5935039520263672,
+		1.1110484600067139
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.2256556749343872,
+		0.15234389901161194,
+		-0.5383999943733215,
+		-0.7974937558174133
+	],
+	"scaling": [
+		1.0000001192092896,
+		0.9999997019767761,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Bip01-R-Toe0_50",
+	"id": "f20903d3-bc85-4aba-a797-33d84e8773bd",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 1896,
+	"parentId": "75af9061-d3af-450e-b115-42698c94a93c",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

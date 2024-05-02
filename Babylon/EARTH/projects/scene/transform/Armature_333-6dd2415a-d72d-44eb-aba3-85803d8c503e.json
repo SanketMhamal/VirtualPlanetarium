@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		-9.186334609985352,
+		12.224068641662598,
+		15.300694465637207
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.5078203627707579,
+		0.43724873326568375,
+		-0.492055467443375,
+		0.5557098395494153
+	],
+	"scaling": [
+		0.00128841455405458,
+		0.001288414618761608,
+		0.0012884144663914895
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Armature_333",
+	"id": "6dd2415a-d72d-44eb-aba3-85803d8c503e",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 527,
+	"parentId": "78340d1b-cff5-4a74-8c62-190639fb8358",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

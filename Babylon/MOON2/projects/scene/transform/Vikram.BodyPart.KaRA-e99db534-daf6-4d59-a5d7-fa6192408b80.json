@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		0.637401282787323,
+		1.30201256275177,
+		1.0261424779891968
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		8.146033536604591e-8,
+		0,
+		0,
+		1
+	],
+	"scaling": [
+		1,
+		1.0000000000000133,
+		1.0000000000000133
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Vikram.BodyPart.KaRA",
+	"id": "e99db534-daf6-4d59-a5d7-fa6192408b80",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 611,
+	"parentId": "8ec77214-f9e4-4165-a4b6-e4e79e99e53b",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}
