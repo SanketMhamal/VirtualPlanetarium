@@ -12,3 +12,4 @@ Welcome to the Space Explorer web application! This project aims to provide an i
 
 - **React Three Fiber**: Utilized for building the front end, providing a robust and efficient UI.
 - **Babylon.js**: Used to create interactive 3D experiences, powering the virtual planetarium feature.
+- **Tailwind CSS**: Employed for styling and design, ensuring a responsive and visually appealing user interface.
