@@ -1,0 +1,149 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Cube",
+			"id": "cda31d0d-0271-4d61-9dd2-fa840f215b61",
+			"uniqueId": 24196,
+			"type": "Mesh",
+			"position": [
+				0.004622951149940491,
+				1.0988390445709229,
+				0.17829258739948273
+			],
+			"rotationQuaternion": [
+				0,
+				-0.1655413806438446,
+				-0.9862028360366821,
+				7.445624561341901e-8
+			],
+			"scaling": [
+				-0.4997135400772095,
+				-0.294024258852005,
+				-0.008802194148302078
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "25e68311-8c96-4b11-85dc-a10c73cfbb7d",
+			"isUnIndexed": false,
+			"geometryId": "1f5b9a60-8f5f-42ee-9e99-71e0b5c07b1d",
+			"subMeshes": null,
+			"materialId": "45d614cd-ca1f-4e9b-a94c-aa9f2494c25a",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -2.0011465549468994,
+					"1": 4.994755613552115e-7,
+					"2": -0.000002800572246997035,
+					"3": 0,
+					"4": 2.938842555977317e-7,
+					"5": 3.2146739959716797,
+					"6": -37.09469985961914,
+					"7": 0,
+					"8": -4.933062669465471e-8,
+					"9": -1.11050283908844,
+					"10": -107.38141632080078,
+					"11": 0,
+					"12": -0.009251517243683338,
+					"13": -3.3344149589538574,
+					"14": 59.90641784667969,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Cube",
+					"name": "Cube",
+					"sceneFileName": "sign/aquarius/aquarius.glb"
+				},
+				"isPickable": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/1f5b9a60-8f5f-42ee-9e99-71e0b5c07b1d.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				1,
+				1,
+				1
+			],
+			"boundingBoxMinimum": [
+				-1,
+				-1,
+				-1
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 72,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 72,
+					"stride": 3,
+					"offset": 288,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 48,
+					"stride": 2,
+					"offset": 576,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 36,
+					"stride": 1,
+					"offset": 768,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 912,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

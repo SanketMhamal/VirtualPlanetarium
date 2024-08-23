@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		0,
+		0,
+		0
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.707106829,
+		0,
+		0,
+		0.707106709
+	],
+	"scaling": [
+		0.469241381,
+		0.46924141,
+		0.46924141
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Sketchfab_model",
+	"id": "4789167f-2a05-4ce0-b514-38aad79f614f",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 3714,
+	"parentId": "7e301014-81f7-431b-ad3a-c1ee8dbf6ccf",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

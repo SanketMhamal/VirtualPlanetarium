@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		6.10351549e-7,
+		0.425478965,
+		0
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-3.76627924e-7,
+		-3.76627924e-7,
+		0.707106829,
+		0.707106829
+	],
+	"scaling": [
+		1,
+		1,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "SpotLight",
+	"id": "9babefd9-c41c-425b-bfa7-dbfc53d9a707",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 262,
+	"parentId": "8a2c5510-1317-4ae4-a2fd-6476d35d0a05",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

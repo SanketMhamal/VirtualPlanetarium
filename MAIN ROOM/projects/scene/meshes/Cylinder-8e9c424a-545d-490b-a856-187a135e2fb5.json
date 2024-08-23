@@ -1,0 +1,421 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Cylinder",
+			"id": "8e9c424a-545d-490b-a856-187a135e2fb5",
+			"uniqueId": 958,
+			"type": "Mesh",
+			"position": [
+				-21.6000004,
+				1,
+				-20.6000004
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				9.5,
+				0.5,
+				9.5
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": true,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+			"isUnIndexed": false,
+			"geometryId": "bdddd5dc-8353-4877-8217-b8b33e139de4",
+			"subMeshes": null,
+			"materialId": "e4105145-dab0-4a47-8766-7b5b57ceabfc",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -0.10526315867900848,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 2,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 0.10526315867900848,
+					"11": 0,
+					"12": 2.27368426322937,
+					"13": -2,
+					"14": 2.1684210300445557,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Cylinder",
+					"name": "Cylinder",
+					"sceneFileName": "SATELLITE/satelite.glb"
+				},
+				"isPickable": false,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [
+				{
+					"name": "Cylinder3",
+					"id": "0edb0324-753c-4ece-9214-3902de667fa6",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						27.8368206,
+						0.70062238,
+						27.182682
+					],
+					"scaling": [
+						9.5,
+						0.5,
+						9.5
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.10526315867900848,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 2,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.10526315867900848,
+							"11": 0,
+							"12": 2.27368426322937,
+							"13": -2,
+							"14": 2.1684210300445557,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "Cylinder5",
+					"id": "b9c5975d-0508-4223-b244-2791d02643eb",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						42.3999977,
+						1,
+						14.8999996
+					],
+					"scaling": [
+						9.5,
+						0.5,
+						9.5
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.10526315867900848,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 2,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.10526315867900848,
+							"11": 0,
+							"12": 2.27368426322937,
+							"13": -2,
+							"14": 2.1684210300445557,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "Cylinder7",
+					"id": "f72e0144-64dd-4f8f-87bc-92158dd0391a",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						42.5999985,
+						0.5,
+						-5.19999981
+					],
+					"scaling": [
+						9.5,
+						0.5,
+						9.5
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.10526315867900848,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 2,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.10526315867900848,
+							"11": 0,
+							"12": 2.27368426322937,
+							"13": -2,
+							"14": 2.1684210300445557,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "Cylinder9",
+					"id": "bba4a0db-50d4-4692-8ab4-e701a0dacc01",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						-18.6999989,
+						0.299999982,
+						-5.0999999
+					],
+					"scaling": [
+						9.5,
+						0.5,
+						9.5
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.10526315867900848,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 2,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.10526315867900848,
+							"11": 0,
+							"12": 2.27368426322937,
+							"13": -2,
+							"14": 2.1684210300445557,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "Cylinder11",
+					"id": "86b9a202-170f-4acc-8a1e-4e5199440a84",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						40.8999977,
+						1,
+						-21
+					],
+					"scaling": [
+						9.5,
+						0.5,
+						9.5
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.10526315867900848,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 2,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.10526315867900848,
+							"11": 0,
+							"12": 2.27368426322937,
+							"13": -2,
+							"14": 2.1684210300445557,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				}
+			],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/bdddd5dc-8353-4877-8217-b8b33e139de4.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				0.5,
+				2,
+				0.5
+			],
+			"boundingBoxMinimum": [
+				-0.5,
+				0,
+				-0.5
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 204,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 204,
+					"stride": 3,
+					"offset": 816,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 136,
+					"stride": 2,
+					"offset": 1632,
+					"dataType": 1
+				},
+				"tangetsAttrDesc": {
+					"count": 272,
+					"stride": 3,
+					"offset": 2176,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 192,
+					"stride": 1,
+					"offset": 3264,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 4032,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"tangents": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

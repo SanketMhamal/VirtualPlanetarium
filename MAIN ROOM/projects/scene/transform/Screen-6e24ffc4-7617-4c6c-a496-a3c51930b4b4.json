@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		0,
+		16.146873474121094,
+		0.08472824096679688
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+	"scaling": [
+		1,
+		1,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Screen",
+	"id": "6e24ffc4-7617-4c6c-a496-a3c51930b4b4",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 23875,
+	"parentId": "7e712839-5ffc-46a2-aab6-477ef2ad5b3b",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

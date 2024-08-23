@@ -1,0 +1,3040 @@
+{
+	"animationGroups": [
+		"Armature!mixamo.com!Layer0.json",
+		"Armature!mixamo.com!Layer0.001.json"
+	],
+	"cameras": [
+		"playerCamera-0ef271c0-0f5f-4ad0-b681-20821bc03e36.json"
+	],
+	"materials": [
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "materials/sky.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "materials/ground.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "materials/player-body.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "materials/player-joints.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "materials/obstacle.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "char/2-2.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "char/1-1.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"42d0385d-4fb7-409c-a26e-0cbf406a4ccd",
+				"28c922d4-c09b-455d-b244-fa0adc65f829",
+				"f3505fea-2f39-4587-851e-bfa63841ef52",
+				"ef072b98-351b-4f7d-bcf7-111326074346",
+				"5f068501-8751-4b0e-9877-ce794dfbe708",
+				"e4ff61da-9ffc-4a7e-b591-b0990db9fbda",
+				"604866ef-d606-4159-ac42-39db3a81951e",
+				"64d8e905-4c55-4c0a-a855-f3df949ac3ee",
+				"b616ca4d-8a6b-4f30-af2a-ad6ac112667f",
+				"9c2955ba-22b5-4d74-b984-bdebe3dd33c2",
+				"43c92c50-5e6a-496f-8dae-eb20ad512f4d"
+			],
+			"json": "MAIN/MI_Floor_01_Box-MI_Floor_01_Box.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"e35d2863-05fc-4f09-98bc-e7c6379b69d3"
+			],
+			"json": "MAIN/leonardo-sanches-ttgvum3OWII-unsplash_Mat-leonardo-sanches-ttgvum3OWII-unsplash_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"20693abb-a1fd-4306-a8ea-3ccafef3ce66",
+				"a57b763d-31a5-4f23-af04-16dfa9833dd8"
+			],
+			"json": "MAIN/Alpha_Joints_MAT-Alpha_Joints_MAT.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"27894e80-fbd1-473a-b657-7e0a0534d7e9"
+			],
+			"json": "MAIN/Material_001_Base_color_Mat-Material_001_Base_color_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"0f586ff9-84f6-4ce3-8303-8fbd4b9a64de"
+			],
+			"json": "MAIN/MI_Wall_Plaster_Painted_FurnitureMesh-MI_Wall_Plaster_Painted_FurnitureMesh.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"f7c26a65-0c28-490d-997e-e9e44bf33e49"
+			],
+			"json": "MAIN/MaterialInstanceDynamic_0_FurnitureMesh-MaterialInstanceDynamic_0_FurnitureMesh.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"6c1e1318-6159-4163-847f-710c78af620e"
+			],
+			"json": "MAIN/MI_Wall_Plaster_Painted_SM_Statue_Abstract1-MI_Wall_Plaster_Painted_SM_Statue_Abstract1.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"e9f602ed-bc2b-4ca7-8bae-9255ba36872a"
+			],
+			"json": "MAIN/MI_Fake_Glass_Form_SM_Statue_Abstract1-MI_Fake_Glass_Form_SM_Statue_Abstract1.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"c50406b9-f0a0-4b7e-bc02-801dff4f053b"
+			],
+			"json": "MAIN/MI_Wall_Plaster_Painted_FurnitureMesh-MI_Wall_Plaster_Painted_FurnitureMesh.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"65bbc6c4-4628-46d3-af8c-249905ec74d4"
+			],
+			"json": "MAIN/MaterialInstanceDynamic_0_FurnitureMesh-MaterialInstanceDynamic_0_FurnitureMesh.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"f54ae62f-92a5-4c2b-9970-c3eaedf5e577"
+			],
+			"json": "MAIN/MI_Wall_Plaster_Painted_SM_Statue_Abstract1-MI_Wall_Plaster_Painted_SM_Statue_Abstract1.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"9aa74760-8966-4f75-99e6-a43d49bea58c"
+			],
+			"json": "MAIN/MI_Fake_Glass_Form_SM_Statue_Abstract1-MI_Fake_Glass_Form_SM_Statue_Abstract1.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"6a7eb387-dab1-4e21-a428-a1440364f1a4"
+			],
+			"json": "MAIN/LOW_POLY_ASTRONAUGHT_lambert1_BaseColor_Mat-LOW_POLY_ASTRONAUGHT_lambert1_BaseColor_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"c361e272-4c11-4785-95aa-6e065ae411d2"
+			],
+			"json": "MAIN/body-body.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"7b673835-d87c-4940-b956-52d05b7832cf"
+			],
+			"json": "MAIN/Material_002-Material_002.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"7e0b0498-2b53-46ff-9a56-6fed6748d10f"
+			],
+			"json": "MAIN/MI_Trim_Plastic_SM_Vending_Machine1-MI_Trim_Plastic_SM_Vending_Machine1.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"692b36dd-07ed-44ca-a6b6-7bc8f107af4d"
+			],
+			"json": "MAIN/M_Light_SM_Vending_Machine1-M_Light_SM_Vending_Machine1.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"187bbcde-d466-4850-9302-5d6f02e6c050"
+			],
+			"json": "MAIN/MI_Sign_Decals-MI_Sign_Decals.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"4dd81e1a-a147-4f37-aa07-1d8e1a4e3d11"
+			],
+			"json": "SATELLITE/WorldGridMaterial-WorldGridMaterial.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"03d86ab1-8424-4a23-af9a-f16024497266"
+			],
+			"json": "SATELLITE/jeremy-perkins-uhjiu8FjnsQ-unsplash_Mat-jeremy-perkins-uhjiu8FjnsQ-unsplash_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"66277117-f433-460a-8260-9ed04d2ff3a5"
+			],
+			"json": "SATELLITE/Topex-MainBody-Gold-fl-Topex-MainBody-Gold-fl.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"392f42c3-5cb0-4301-b098-23e2893d0ff4"
+			],
+			"json": "SATELLITE/Topex-Gold2-fl-Topex-Gold2-fl.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"071a2c6d-1795-4e65-9be6-445579fbe10d"
+			],
+			"json": "SATELLITE/Topex-MainBody-White-fl-Topex-MainBody-White-fl.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"a02f5f8c-cfa0-42f7-986d-8705283299ba"
+			],
+			"json": "SATELLITE/Topex-Silver-Topex-Silver.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"0207ebd0-3bf6-450e-a8ec-32c57f9e39d8"
+			],
+			"json": "SATELLITE/Topex-Gold3-sm-Topex-Gold3-sm.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"0b70f9e8-e074-4220-9542-c6add54e81fb"
+			],
+			"json": "SATELLITE/Topex-Gold-endcap-Topex-Gold-endcap.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"346766c5-455a-4aca-bde7-0ef141928e62"
+			],
+			"json": "SATELLITE/Topex-Silver-sm-Topex-Silver-sm.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"4d311d1b-fb0d-4add-99aa-f84ce5301a6a"
+			],
+			"json": "SATELLITE/Topex-Black-sm-Topex-Black-sm.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"018c3b93-158e-4309-9492-a87573617507"
+			],
+			"json": "SATELLITE/Topex-Grey-fl-Topex-Grey-fl.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"944c0ad8-1896-48c9-a595-6307d46cbc52"
+			],
+			"json": "SATELLITE/Topex-Black-Topex-Black.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"17f142d7-7405-4703-9c38-c77ed0420f3f"
+			],
+			"json": "SATELLITE/Topex-White-sm-Topex-White-sm.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"e79e0783-3ced-4234-bb40-7dbdca70cb8a"
+			],
+			"json": "SATELLITE/Topex-White-fl-Topex-White-fl.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"30b7d60f-4f3c-4876-b8f4-6c6caf6b255c"
+			],
+			"json": "SATELLITE/GPMcore-SolarFaces8-GPMcore-SolarFaces8.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"4203b6db-af50-453e-88bd-10cd6ccd9037"
+			],
+			"json": "SATELLITE/GPMcore-SolarFaces7-GPMcore-SolarFaces7.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"a2e5ed23-d2ef-4191-abb7-c2dad7021910"
+			],
+			"json": "SATELLITE/GPMcore-SolarFaces6-GPMcore-SolarFaces6.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"db6ae951-236d-4011-b974-b693050a56dd"
+			],
+			"json": "SATELLITE/GPMcore-SolarFaces3-GPMcore-SolarFaces3.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"183eb82d-28fb-4514-949d-4858b42ee5fb"
+			],
+			"json": "SATELLITE/GPMcore-SolarFaces5-GPMcore-SolarFaces5.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"798908cb-0024-4ab5-a110-dd969f9693b2"
+			],
+			"json": "SATELLITE/GPMcore-SolarFaces2-GPMcore-SolarFaces2.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"f97ec6e4-8aa2-4ccb-a20c-2b4cf71d1399"
+			],
+			"json": "SATELLITE/GPMcore-SolarFaces1-GPMcore-SolarFaces1.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"8347b612-5e53-4114-8a2c-5587ed4119a9"
+			],
+			"json": "SATELLITE/GPMcore-SolarFaces4-GPMcore-SolarFaces4.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"ef8a8251-e133-4d7b-a7d7-037f0db03988"
+			],
+			"json": "SATELLITE/Topex-Gold4-solar-Topex-Gold4-solar.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"5757d28c-c6eb-4a64-8d9d-cee4324ef757"
+			],
+			"json": "SATELLITE/Topex-solar-bak-Topex-solar-bak.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"2cc87227-078a-4f8e-9c1a-694a71ec4daf"
+			],
+			"json": "SATELLITE/SWAS-DetailYellow-SWAS-DetailYellow.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"7f91e05f-5db1-445c-b7b8-fc0a3bf46fae"
+			],
+			"json": "SATELLITE/SWAS-TopSidesSmoothSilver-SWAS-TopSidesSmoothSilver.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"43bc6f9f-f794-4056-afee-4cd512bf43a8"
+			],
+			"json": "SATELLITE/SWAS-flatblack-SWAS-flatblack.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"d767f316-e053-456d-a756-7a1fbe3b8953"
+			],
+			"json": "SATELLITE/SWAS-mainScopeTubes-SWAS-mainScopeTubes.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"c7444f11-ccbb-42ae-b017-623e17c88a63"
+			],
+			"json": "SATELLITE/SWAS-mainsidesSilver-SWAS-mainsidesSilver.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"2077f38b-20d1-4264-8f9f-7e388d546771"
+			],
+			"json": "SATELLITE/SWAS-mainTop-n-BottomSilver-SWAS-mainTop-n-BottomSilver.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"c52c9a6d-b1d4-4d06-80c4-5cc9ac86b5bf"
+			],
+			"json": "SATELLITE/SWAS-greysmooth-SWAS-greysmooth.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"9d25ccaf-0c61-4ae7-8a5d-4f2f7182ec45"
+			],
+			"json": "SATELLITE/SWAS-sidepanelGrids-SWAS-sidepanelGrids.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"3e530420-b603-437f-a96a-716be86a44bb"
+			],
+			"json": "SATELLITE/SWAS-solarpanelBack-SWAS-solarpanelBack.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"ff4affd2-ffd7-4cfe-bd15-790241d73671"
+			],
+			"json": "SATELLITE/SWAS-solarpanelFace-SWAS-solarpanelFace.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"a7d36851-d0db-464e-aed3-6be658ae3e96"
+			],
+			"json": "SATELLITE/SWAS-solarpanGrids-SWAS-solarpanGrids.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"771c900e-21ff-4910-9989-3e4fdcc82ed1"
+			],
+			"json": "SATELLITE/SWAS-MainbodyDetailPnls-SWAS-MainbodyDetailPnls.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"cc4cc68e-23b6-401d-8479-b3c7db8880e9"
+			],
+			"json": "SATELLITE/SWAS-mainTop-n-Bottom-SWAS-mainTop-n-Bottom.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"4fc11f5b-2612-4703-98a3-cab8c65f110c"
+			],
+			"json": "SATELLITE/SWAS-BigScopeCover-SWAS-BigScopeCover.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"7baee800-9afd-4614-92ca-fce6a0c1a58f"
+			],
+			"json": "SATELLITE/SWAS-mainScopeInside-SWAS-mainScopeInside.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"8c6b4dfc-df6b-40b2-8a1f-4a6af6e24686"
+			],
+			"json": "SATELLITE/SWAS-mainScopeTubesFlat-SWAS-mainScopeTubesFlat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"187f9168-0f83-4719-a955-2d42dde84e18"
+			],
+			"json": "SATELLITE/SWAS-mainsidesSmooth-SWAS-mainsidesSmooth.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"ee9257cf-b697-4e61-9061-fbe1bc72e2ed"
+			],
+			"json": "SATELLITE/SWAS-TopSidesSmooth-SWAS-TopSidesSmooth.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"c7784fd9-d6b4-46c9-a823-b1470e709220"
+			],
+			"json": "SATELLITE/SWAS-mainsides-SWAS-mainsides.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"79c1e8a8-7ed0-4c89-9ddd-bfb3979f2c5f"
+			],
+			"json": "SATELLITE/Default_001-Default_001.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"ecdc8291-c56b-4169-b771-5e5e1b62cf7d"
+			],
+			"json": "SATELLITE/shiny_panel_left-shiny_panel_left.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"98651f8b-a2fa-4c6a-84a1-ccaf4989eb10"
+			],
+			"json": "SATELLITE/shiny_panel_right-shiny_panel_right.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"24b4ccfe-6941-465a-b79c-148385a46151"
+			],
+			"json": "SATELLITE/tex_black-tex_black.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"dbfc4bbf-7483-440c-b12f-e22ffe47b011"
+			],
+			"json": "SATELLITE/tex_02-tex_02.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"b31fae52-ddd7-4194-91c6-55a28fc9a206"
+			],
+			"json": "SATELLITE/AO_dish_dep-AO_dish_dep.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"559c7b31-805b-4779-8e88-b47ef48ed5f4"
+			],
+			"json": "SATELLITE/foil_gold-foil_gold.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"86772e2a-33e6-4fb0-8d1f-2d8f53ee94fe"
+			],
+			"json": "SATELLITE/foil_silver_001-foil_silver_001.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"fe5ed34f-9004-49af-b2a4-0f586a98b92f"
+			],
+			"json": "SATELLITE/tex_01-tex_01.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"be485751-87f0-438b-8f94-08cd2e948a63"
+			],
+			"json": "SATELLITE/AO_other_dep-AO_other_dep.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"8fafa14d-28c4-4da5-8f4b-a6d658760bf3"
+			],
+			"json": "SATELLITE/MI_Furniture_Metal_nasa_transiting_exoplanet_survey_sat_tess_BUS_0-MI_Furniture_Metal_nasa_transitin"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"1a4514fb-dbcc-4e0b-b934-a0fb7bce09b8"
+			],
+			"json": "SATELLITE/TESS-TESS.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"f7d08123-42ef-4725-9fa4-a40d8c70b2a3",
+				"b43c1e96-c724-46b5-bcf4-f4dbd195d7e8"
+			],
+			"json": "SATELLITE/gold_001-gold_001.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"1d1c80ee-e6bf-45c4-a079-e43e6b7760b7"
+			],
+			"json": "SATELLITE/metal_001-metal_001.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"e7a8af92-4f4d-4bae-96f0-1d17dc9cc95c"
+			],
+			"json": "SATELLITE/reflector-reflector.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"7d34ffcd-5f15-4d41-833c-131a3077a7df"
+			],
+			"json": "SATELLITE/tex_03-tex_03.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"2520f747-1e60-41a6-9306-6b3cb695d423"
+			],
+			"json": "SATELLITE/wheels-wheels.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"b97d95fc-7622-4c43-b456-96f9019c2c86"
+			],
+			"json": "SATELLITE/tex_02-tex_02.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"85ed563c-8fd9-4336-899f-7e9740eaa275"
+			],
+			"json": "SATELLITE/tex_01-tex_01.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"5c8344de-8d20-4751-bc5c-717569c83eb7"
+			],
+			"json": "SATELLITE/parts_AO-parts_AO.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"bda108a9-b10d-4bf7-845a-e0db8c79d9dc"
+			],
+			"json": "SATELLITE/tex_04-tex_04.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"895fff5b-000a-4889-a65f-3656d0b6ab6b"
+			],
+			"json": "SATELLITE/tex_03a-tex_03a.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"18df56f5-4a49-4f42-8f7a-db036c251210"
+			],
+			"json": "SATELLITE/internals-internals.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"d7e51291-40bf-455a-80c5-3955e600a1e5",
+				"efa88238-84c4-4ae4-a4d5-b47b6d1165c3",
+				"8da806dc-b53e-42e7-af63-a78c38511dc9",
+				"d09ee89c-7849-4c4c-9308-f598ac36d9f8",
+				"9ac846a9-ed9d-4668-9768-a55aa3c2871a",
+				"085572b5-35d8-40e1-b96f-688f9af892f6"
+			],
+			"json": "SATELLITE/Metal_Brushed-Metal_Brushed.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"f56611e3-1234-4c7e-92e0-d0428531b5ea",
+				"d04ea448-272d-4c46-bedd-7afdb7282289",
+				"240a7506-0067-4830-bd56-a42f1897ad38",
+				"1e2019ec-8d3f-4add-9b70-ca59c6459009",
+				"36b7e9e1-dab9-47b8-be5d-ea8be110d935",
+				"e6a8e4ba-4586-47e8-9fdd-60d1993ba130",
+				"e8a7dff7-1e06-4d1b-a464-e389ab33d52c",
+				"f946fe7b-b7b2-40a8-b602-be71dccaaf32",
+				"66c2d245-de5e-4580-bf27-34bf54a3e879",
+				"0ddca3c0-974f-41ca-8e72-368d1714789b",
+				"a37929c6-ffaf-4235-a571-0244969ec2b4",
+				"089a8a4c-b0be-441e-bc51-4039899ffded",
+				"07cd7006-8a9f-4bf3-ae33-5e696580f3ab"
+			],
+			"json": "SATELLITE/Solar_Cell-Solar_Cell.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"480da3c2-973d-4dfb-aacf-bf9d0b2ec473",
+				"46ee14a8-11e5-4580-8edf-45bf694027c6",
+				"eecbeede-3105-4790-af09-5b51de360660",
+				"645f1aca-f811-4a0d-88f7-47f101d8cfc2",
+				"12c68027-6261-422b-b68e-35cc48a760ef",
+				"874fe285-0223-483a-b05d-3ecf390a4249",
+				"814c973c-ad7f-4466-8d95-922ea4809b73",
+				"0ea67d71-7089-4374-a388-336f52832415",
+				"bd55792d-bed7-4702-ac4c-452b4260759b",
+				"d9e87034-1920-4d9f-81d7-16bfe5933461",
+				"4caf57a6-03a5-4dc5-b202-b5f0cd37e7b3",
+				"1a64e6ee-fdc4-42d2-bd87-702526395279",
+				"b424f7cf-615c-4ffe-8c80-a08d59295f3d"
+			],
+			"json": "SATELLITE/Metal_Matte-Metal_Matte.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"38c3603b-dd31-4455-84d3-6104ce84e8aa",
+				"1a23bdf5-43b3-41eb-8e67-a98f454e0e35",
+				"c9179a84-2594-413e-838e-a48bfb0c6a5b",
+				"fe8583b4-ea71-4c63-8caa-5dfdd3d32866",
+				"22a5944b-afaf-4916-9863-3f5489fc200f",
+				"c3d0f6b5-31fb-4e77-ad1c-45fb18f4fe3e",
+				"41c9c78b-bec7-4c52-8c9e-f160664a7ddb",
+				"5acda739-743f-4988-a03e-262d1033870e",
+				"8f414faf-6b7e-4e24-a1f5-b91535525a83",
+				"18c36291-2652-413e-8430-1674240b51f1",
+				"6fff350e-27af-4e87-9147-0892b7950158"
+			],
+			"json": "SATELLITE/White_Panel-White_Panel.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"9769ff7c-137e-4925-875d-ce797d65c166",
+				"664cd6f7-1eef-4a09-a1f5-a0205b440d6b",
+				"58d867de-a3d9-41e1-a608-b3e7f2d8dc86",
+				"6747312a-2516-417e-8167-be74b151591a",
+				"cbdffb88-e61b-4402-b302-8f293fe3b10a",
+				"40b0a9a5-1edf-4ff6-9a9a-bc0465a52a1a"
+			],
+			"json": "SATELLITE/White_Gloss-White_Gloss.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"8d51c96f-04fa-4439-99a4-cf67d1c50058",
+				"9cb66696-8b3a-4927-833c-5bab64e93078",
+				"8f3b16c3-5b5d-4bdc-b468-072c82b3b70d",
+				"5d925736-7d91-4d55-b285-34bab44793b4",
+				"e78a5442-c41c-4394-94ab-ca6bbbd0e9d0",
+				"ef30abb7-9523-44ed-89c2-4463cf9e4c30"
+			],
+			"json": "SATELLITE/Metal_Chrome-Metal_Chrome.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"d66a0fc8-b02f-4df3-be16-fc60a3a791ca",
+				"c6d59348-c879-4355-b9e7-07dc0b864433",
+				"0c3e4473-4118-43d7-85c6-40e499ad0331",
+				"8b1b59ad-782f-4cc1-b977-06dd68dd4f2c",
+				"ebc6fdf1-b474-45b2-b8ea-979c9a233516",
+				"468fa1c0-264f-42eb-9497-1a2f15aaf963",
+				"5e22e353-11ba-4944-8b09-8cbcff872c35",
+				"7cffc3ee-4986-47b7-b422-0d2dd0502b55",
+				"ef5e9055-7607-4f39-a1db-5872e94c9e83",
+				"8ae8d95e-8487-42d5-8a21-b85ed146bb87"
+			],
+			"json": "SATELLITE/Strut_Small-Strut_Small.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"6f8fea78-e21a-4b01-897d-0330d5f42e8e",
+				"18ef0275-880d-41b4-8a89-be9bcbd58d06",
+				"fff1e08c-62ac-4c09-ba9a-8430bd6dc653",
+				"488e39ac-56c3-4b2b-a152-0fc3abacc46e",
+				"27c1fc4f-c6bd-4853-97de-dc4d4bddfa67",
+				"f836da8e-42ea-462f-b8d3-cd9010f94b02",
+				"c3c37ce7-6f4b-48c7-b22d-e6fe55517736",
+				"e1aa5377-e45d-422e-a429-dcf6c69290fe"
+			],
+			"json": "SATELLITE/Solar_Rear-Solar_Rear.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"2ef902bd-ca1f-4656-a925-87cf17cb175a"
+			],
+			"json": "SATELLITE/Box003Mat-Box003Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"8b89e421-5fc3-45f4-b6f1-8bdf2efa0490"
+			],
+			"json": "SATELLITE/Box004Mat-Box004Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"aa6a1204-7b09-40c1-b33e-240b9d1005b7"
+			],
+			"json": "SATELLITE/Box005Mat-Box005Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"5f3ce7be-0014-414e-b7b5-8b4b12139c24"
+			],
+			"json": "SATELLITE/Box006Mat-Box006Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"2f92e736-f332-4db4-8ab6-c093649ad56c"
+			],
+			"json": "SATELLITE/Box007Mat-Box007Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"ad0664a0-9c72-4869-ad1c-ab85f6cdc0a4"
+			],
+			"json": "SATELLITE/Box008Mat-Box008Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"157765f6-271d-4517-97b5-bb55a07bb5e8"
+			],
+			"json": "SATELLITE/Cylinder001Mat-Cylinder001Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"d98c69eb-8137-4dc5-a82f-0b3cba5ddca4"
+			],
+			"json": "SATELLITE/Cylinder002Mat-Cylinder002Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"1cb7d754-c427-4100-b5a5-0607abf0face",
+				"c049aab1-8110-44ae-a457-7adf98170146"
+			],
+			"json": "SATELLITE/M_GreyBall-M_GreyBall.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"4caafa2e-c178-45a5-aa1d-efa49f99044c"
+			],
+			"json": "SATELLITE/Cylinder005Mat-Cylinder005Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"e8cb5916-9c93-43cd-8f12-7c126722e1a2"
+			],
+			"json": "SATELLITE/Cylinder006Mat-Cylinder006Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"73b48bcc-cd23-41ce-8788-ee38c8a78b7d"
+			],
+			"json": "SATELLITE/Cylinder007Mat-Cylinder007Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"a7d2f14b-3559-4839-8b3d-dc9ee746709e"
+			],
+			"json": "SATELLITE/Cylinder008Mat-Cylinder008Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"503a129e-8576-4074-a752-ea00e7edf090"
+			],
+			"json": "SATELLITE/Cylinder010Mat-Cylinder010Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"764c18c9-db37-4059-a88b-6c5c32301230"
+			],
+			"json": "SATELLITE/Cylinder011Mat-Cylinder011Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"5212b8c9-b6cc-436e-8a29-cac74119946c"
+			],
+			"json": "SATELLITE/Cylinder012Mat-Cylinder012Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"36d563d5-eb06-42dd-92a9-33d39afcd101"
+			],
+			"json": "SATELLITE/Cylinder013Mat-Cylinder013Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"dbdca26a-b88a-4429-8144-4fff642c5705"
+			],
+			"json": "SATELLITE/Cylinder014Mat-Cylinder014Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"0b59a1d9-6887-41f7-b616-d1e016d5af02"
+			],
+			"json": "SATELLITE/Cylinder015Mat-Cylinder015Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"f0f11577-fc2a-444c-8791-54ca95885efc"
+			],
+			"json": "SATELLITE/Cylinder019Mat-Cylinder019Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"c5f9f12b-e2d9-45fd-8abe-57c2bb2ca417"
+			],
+			"json": "SATELLITE/Cylinder020Mat-Cylinder020Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"d517e3ce-58fe-4193-b92e-5b2ce2f028d4"
+			],
+			"json": "SATELLITE/Cylinder021Mat-Cylinder021Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"fb053898-dd59-4ebb-8b76-9cc6ae69f598"
+			],
+			"json": "SATELLITE/Cylinder022Mat-Cylinder022Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"29dca424-223a-446b-a208-3fa512623b76"
+			],
+			"json": "SATELLITE/Cylinder023Mat-Cylinder023Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"01060081-19c9-49f2-b7f3-ece480dcf7ff"
+			],
+			"json": "SATELLITE/Cylinder024Mat-Cylinder024Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"9ec0b286-53ae-46fc-af15-772955da45f6"
+			],
+			"json": "SATELLITE/Cylinder025Mat-Cylinder025Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"bdc20a89-a3ae-4eb6-bfac-3b5413113c94"
+			],
+			"json": "SATELLITE/Cylinder026Mat-Cylinder026Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"4c9daa5d-12ab-4697-97c2-8a6215f96097"
+			],
+			"json": "SATELLITE/DoorMat-DoorMat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"a0d7283d-6680-4847-97b4-af555f888f4f"
+			],
+			"json": "SATELLITE/Door001Mat-Door001Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"1f4ec9c4-46e0-4a28-9952-f1783b479af2"
+			],
+			"json": "SATELLITE/legMat-legMat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"918d49d6-14c5-481b-b591-3ef131b880bd"
+			],
+			"json": "SATELLITE/leg001Mat-leg001Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"951590ee-6c70-4269-880d-5885b3f72275"
+			],
+			"json": "SATELLITE/leg002Mat-leg002Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"b564d1db-4bf7-4c35-90f2-4cd4102d11a0"
+			],
+			"json": "SATELLITE/leg003Mat-leg003Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"b614dbf1-a709-44b1-ace7-1d0100d46e7e"
+			],
+			"json": "SATELLITE/leg006Mat-leg006Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"b09f8c36-20bc-44c6-ad1b-e8e4144d4c39"
+			],
+			"json": "SATELLITE/leg007Mat-leg007Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"f5121afc-ae15-4357-9c43-b2135fab6096"
+			],
+			"json": "SATELLITE/leg008Mat-leg008Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"504db3e2-4ce5-4ac0-9ec8-8515930d6505"
+			],
+			"json": "SATELLITE/Object001Mat-Object001Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"b0dadd87-1249-4932-8bb6-c4ba8e526962"
+			],
+			"json": "SATELLITE/Object002Mat-Object002Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"3cef5987-eb8c-4d4f-a034-78e075d4454f"
+			],
+			"json": "SATELLITE/Object003Mat-Object003Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"803f9213-c9d2-47a7-af8b-2442b1c9f3ef"
+			],
+			"json": "SATELLITE/Plane001Mat-Plane001Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "SATELLITE/M_MS_Glass_Material-M_MS_Glass_Material.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"8e9c424a-545d-490b-a856-187a135e2fb5",
+				"01566752-c5c0-4e3f-9efa-a0180cd9eef1"
+			],
+			"json": "SATELLITE/Alpha_Joints_MAT-Alpha_Joints_MAT.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"f16a21fd-2be8-469a-8d77-29e2c624e63a"
+			],
+			"json": "SATELLITE/MI_Floor_Carpet_Box2-MI_Floor_Carpet_Box2.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"948ba33e-fa21-4664-9b9a-144458ada5bb"
+			],
+			"json": "SATELLITE/LOW_POLY_ASTRONAUGHT_lambert1_BaseColor_Mat-LOW_POLY_ASTRONAUGHT_lambert1_BaseColor_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"50117fd7-21bc-4f30-a6a1-d201a2a3dcf2"
+			],
+			"json": "TELESCOPE/Gradient_Star-Gradient_Star.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"604504ef-480d-4539-9cdf-0ab92c7836f3"
+			],
+			"json": "TELESCOPE/MI_Scaffolding_ladder2-MI_Scaffolding_ladder2.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"368c853e-cc97-46d1-802c-6e4da55f5799"
+			],
+			"json": "TELESCOPE/MI_Scaffolding_ladder-MI_Scaffolding_ladder.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "TELESCOPE/M_Frame-M_Frame.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"195b2c3b-0b02-4b9d-bbf5-bb63f66f283c"
+			],
+			"json": "TELESCOPE/grey-grey.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"090dd54a-626d-4c47-9634-9c1afbd9ad54"
+			],
+			"json": "TELESCOPE/blinn4-blinn4.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"300c2dd1-c322-48e5-ac6d-abc89e9579a2"
+			],
+			"json": "TELESCOPE/grey1-grey1.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"c30d7de8-4daa-47b1-ac0c-e04e4f145538"
+			],
+			"json": "TELESCOPE/lambert1-lambert1.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"4bd09572-425e-4516-a023-a48639d247aa"
+			],
+			"json": "TELESCOPE/blinn6-blinn6.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"61a73c30-b892-46ed-a67d-85b07b417fcf"
+			],
+			"json": "TELESCOPE/blinn7-blinn7.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"8f32e8c8-7431-41a1-bde1-ea1ec90ada6e"
+			],
+			"json": "TELESCOPE/grey2-grey2.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"03ef2a7e-39e7-4e18-a4b1-d560d8370257"
+			],
+			"json": "TELESCOPE/blinn5-blinn5.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"1ad7a368-7c3f-4027-9f0d-d4aae4f0b675"
+			],
+			"json": "TELESCOPE/MI_Trim_Plastic_SM_FireExtinguisher_Wall-MI_Trim_Plastic_SM_FireExtinguisher_Wall.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"8a128670-f3f0-414d-80f3-e845505c7f0b",
+				"19bb9773-2aae-464c-a537-84fdb1f6f8ee"
+			],
+			"json": "TELESCOPE/MI_FIre_Extinguisher-MI_FIre_Extinguisher.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"b74edb70-1cbb-4fcf-94b1-b4a5ad84c377"
+			],
+			"json": "TELESCOPE/MI_Scaffold_Mesh_SM_Scaf_Roof-MI_Scaffold_Mesh_SM_Scaf_Roof.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"0c221669-6213-4925-a334-77b4d71ac685"
+			],
+			"json": "TELESCOPE/MI_Scaffolding_SM_Scaf_Wall_Middle_Top2-MI_Scaffolding_SM_Scaf_Wall_Middle_Top2.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"d6762fc1-131c-49b8-b6ae-e5c565c86bbc"
+			],
+			"json": "TELESCOPE/MI_Electric_Box-MI_Electric_Box.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"777b56c5-bd4c-435d-9e18-b14430f17706"
+			],
+			"json": "TELESCOPE/WorldGridMaterial-WorldGridMaterial.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"ba6d5e00-ab14-4b8d-ad7e-98af3037cda3"
+			],
+			"json": "TELESCOPE/MI_Scaffolding_SM_Scaf_Wall_Middle_Top3-MI_Scaffolding_SM_Scaf_Wall_Middle_Top3.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"71701394-483c-4a9e-bb1f-281c755bbe81"
+			],
+			"json": "TELESCOPE/MI_Furniture_Metal_SM_Rect_Sofa1-MI_Furniture_Metal_SM_Rect_Sofa1.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"3cafb4f4-764f-4c1b-b747-a3c654a1bb6a"
+			],
+			"json": "TELESCOPE/MI_Rect_Chair_Pad_SM_Rect_Sofa1-MI_Rect_Chair_Pad_SM_Rect_Sofa1.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"ea496239-03d4-46a6-97ea-474178bd710c"
+			],
+			"json": "TELESCOPE/MI_Trash_Can_SM_Trash_Can-MI_Trash_Can_SM_Trash_Can.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "TELESCOPE/SimplePivotPainterExampleMat_StaticMesh-SimplePivotPainterExampleMat_StaticMesh.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "TELESCOPE/VivePreControllerMaterial-VivePreControllerMaterial.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"d3c36ca6-6f31-40a1-888b-bb6dc89dbea9"
+			],
+			"json": "TELESCOPE/MI_Scaffolding_SM_Scaf_Wall_Middle_Top_Corner2-MI_Scaffolding_SM_Scaf_Wall_Middle_Top_Corner2.materi"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"626f3924-f146-4355-88e3-6b1b6156576a"
+			],
+			"json": "TELESCOPE/M_Concrete_Tiles-M_Concrete_Tiles.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"b1358045-65b2-4d51-b9f9-c8d59c318655",
+				"de741f48-9cc3-47f2-a65f-c95fad4c8a38"
+			],
+			"json": "TELESCOPE/MI_Mop_Bucket-MI_Mop_Bucket.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"bb9848ec-44a5-45c0-8cba-ba7b2d13ac2b"
+			],
+			"json": "TELESCOPE/MI_Scaffolding_ladder3-MI_Scaffolding_ladder3.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"a6fc6e82-5c53-40a0-a72d-774b3e478709"
+			],
+			"json": "TELESCOPE/MI_IndustryLights-MI_IndustryLights.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"d35a41b5-d7ac-4e08-8955-6e70f1e41cfe"
+			],
+			"json": "TELESCOPE/Alpha_Joints_MAT-Alpha_Joints_MAT.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"4ece15e5-f02f-4b69-ad39-348acb3e7b96"
+			],
+			"json": "TELESCOPE/MI_Scaffolding_SM_Scaf_Wall_Middle_Top_Corner1-MI_Scaffolding_SM_Scaf_Wall_Middle_Top_Corner1.materi"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"dfbdeeac-98fc-4be8-8a11-086855e9671b"
+			],
+			"json": "TELESCOPE/Material_001-Material_001.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"a5011226-9ed4-4d2c-875e-817db660f96a"
+			],
+			"json": "TELESCOPE/MI_Merged_Build1-MI_Merged_Build1.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"aa28ecee-2e95-4f6e-8423-3dcc52a3a35b"
+			],
+			"json": "SOLAR SYSTEM/MI_Floor_Carpet_Box-MI_Floor_Carpet_Box.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"9304562b-2187-4b9d-a438-128c06b00fe8"
+			],
+			"json": "SOLAR SYSTEM/jeremy-perkins-uhjiu8FjnsQ-unsplash_Mat-jeremy-perkins-uhjiu8FjnsQ-unsplash_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"d279eed7-79e9-4214-8583-b0ff8917a5a4"
+			],
+			"json": "SOLAR SYSTEM/mars_Mat-mars_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"515ef8dc-ba54-40c5-bbdc-0ea80e24ba7c"
+			],
+			"json": "SOLAR SYSTEM/Material_63-Material_63.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"dd6dfa7a-0470-46a9-a044-8c9d9c65f082"
+			],
+			"json": "SOLAR SYSTEM/Material_50-Material_50.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"8bc859a5-baed-4b9e-b048-6626cc1cf8cf"
+			],
+			"json": "SOLAR SYSTEM/Image_1_Mat-Image_1_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"b6bfea0d-1e83-49bb-bbf3-74b2c6844827"
+			],
+			"json": "SOLAR SYSTEM/Material_64-Material_64.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"a6cf3e16-a343-42d9-b5a1-658836d24df7"
+			],
+			"json": "SOLAR SYSTEM/Material_003-Material_003.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"8f65807f-8838-4f83-9c17-85a0cfc88358"
+			],
+			"json": "SOLAR SYSTEM/Image_0_004_Mat-Image_0_004_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"fb44fd35-d5c3-4c66-91a7-594173df46e7"
+			],
+			"json": "SOLAR SYSTEM/urns_Mat-urns_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"6375e927-a973-41cd-84d2-03e44e5f5d66"
+			],
+			"json": "SOLAR SYSTEM/neptune_Mat-neptune_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"a5298c6f-26df-425b-aff7-ae5de418c483"
+			],
+			"json": "SOLAR SYSTEM/Image_0_006_Mat-Image_0_006_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"f395683c-a51f-4231-95ca-2dcbc27da0c4"
+			],
+			"json": "SOLAR SYSTEM/Image_0_Mat-Image_0_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"4b538763-af27-4ac7-84cf-48d6f36bab89"
+			],
+			"json": "SOLAR SYSTEM/LinearColorPicker_MATInst-LinearColorPicker_MATInst.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"7fc9ae45-5f11-4090-b44c-6ed6fd9b4a40"
+			],
+			"json": "SOLAR SYSTEM/MI_Scaffold_Mesh_Path2-MI_Scaffold_Mesh_Path2.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"ed207fd6-afba-497e-932d-cab3e773ed97",
+				"eb3b6d7d-43b9-4688-8abf-df29f181842a"
+			],
+			"json": "AUDITORIUM/M_SimpleSkyDome-M_SimpleSkyDome.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"71a2382d-8c29-4666-b84a-cf1d0efe20c0",
+				"2db251a8-2a11-4b25-9e47-eb880018de43"
+			],
+			"json": "AUDITORIUM/scott-webb-PkJOP7JfVfk-unsplash_Mat-scott-webb-PkJOP7JfVfk-unsplash_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"6dbc828d-0996-4d92-a3a0-3cb5a89c2763",
+				"655c122d-2b1f-431f-917b-f37dea1b6c08"
+			],
+			"json": "AUDITORIUM/M_Tech_Panel-M_Tech_Panel.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"cc03b4ce-4045-44ae-a8dc-4376e18ba004",
+				"3e71eda3-9fec-417b-8334-4a11c84236cd"
+			],
+			"json": "AUDITORIUM/M_Basic_Floor-M_Basic_Floor.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"6090a8c8-5abe-45a7-a05c-916677ae84c9",
+				"0b458772-88c7-4414-8fea-6aaae013b85c",
+				"8f015f89-6bff-4ffb-b4ad-6400a07e273e"
+			],
+			"json": "AUDITORIUM/couch_lambert1_Emissive_Mat-couch_lambert1_Emissive_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"f0917741-2ffe-4629-908c-7bd9a2d6a2f6",
+				"922048bb-b1df-4259-8799-940b00fdeada"
+			],
+			"json": "AUDITORIUM/bryan-goff-f7YQo-eYHdM-unsplash_Mat-bryan-goff-f7YQo-eYHdM-unsplash_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"bea078fd-553e-4114-aece-43590db7436e"
+			],
+			"json": "AUDITORIUM/1_The_Submillimeter_Wave_Astronomy_Satellite__SWAS___a_NASA_space_mission__was_dedicated_to_explorin"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"df5328b9-8b9d-4ecf-ade5-4efe116fd0d4",
+				"3b874842-05ea-43b8-8ea9-7c5d71f4aa02"
+			],
+			"json": "AUDITORIUM/jake-weirick-Q_RBVFFXR_g-unsplash_Mat-jake-weirick-Q_RBVFFXR_g-unsplash_Mat.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"fdbcc197-59a9-4940-9340-4544f4b90f1a"
+			],
+			"json": "textures/screen_auditorium.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"18b3d26b-05ed-494e-b908-9d795df06ff5"
+			],
+			"json": "textures/skyyy.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"a44b2f21-aebc-48aa-a4b9-9dd29f2705b3",
+				"c25a2427-86a3-4f15-b99c-fcbb564cb4d1",
+				"e16d1b72-eb11-44a5-9eaa-620dccf56eaf",
+				"b1987e8f-3324-4afb-963d-e6305f75784c"
+			],
+			"json": "sign boards/Material-Material.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"7b9d65ac-06ea-499c-b9f5-18f434503888",
+				"96f29146-1c52-4971-aaf2-8832a96d8d48",
+				"7dd2798e-112e-4142-ade7-be0a0a9c5d49",
+				"14bcc755-466a-4380-bc8a-3fcf9f23cfcb"
+			],
+			"json": "sign boards/Material.001-Material.001.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"9eb61d55-945b-4671-9627-7845faf8865d"
+			],
+			"json": "obs sign/Material-Material.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"f77ff4c0-b435-4c55-829e-9b6694dc1a6a"
+			],
+			"json": "obs sign/Material.001-Material.001.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"80344643-c029-40c7-b3db-e600ece11184"
+			],
+			"json": "planet sign/Material-Material.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"d854a3c1-2eb2-4121-8563-b096b5174f14"
+			],
+			"json": "planet sign/Material.001-Material.001.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"f24ff174-87ec-426b-8ff0-42035cd93a1b"
+			],
+			"json": "satellite sign/Material-Material.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"f625f42c-2e2c-40a1-942b-d24ec861daef"
+			],
+			"json": "satellite sign/Material.001-Material.001.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "sign/vikram/Material.004-Material.004.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"9ddcf792-ca58-40f6-a004-dab267ef1f40"
+			],
+			"json": "sign/vikram/body.003-body.003.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"4e611d3c-855a-463f-99a1-284d1ef81464"
+			],
+			"json": "sign/vikram/screen.003-screen.003.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"778dfce9-c710-45d3-bb0b-8f8e0068b5ee"
+			],
+			"json": "sign/vikram/VK.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "sign/curosity/Material.004-Material.004.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"c7133097-a134-4f93-9d23-4b4c64ba8052"
+			],
+			"json": "sign/curosity/body.003-body.003.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"86c5e870-ea0c-4843-bcd2-2ed548966fe8"
+			],
+			"json": "sign/curosity/screen.003-screen.003.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"476bd7a6-2242-41c1-851b-773b2e7d82c5"
+			],
+			"json": "sign/curosity/CUROO.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "sign/iss/Material.004-Material.004.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"757c848b-324c-4247-bfbc-54f6084b3103"
+			],
+			"json": "sign/iss/body.003-body.003.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"74eb0afa-762d-4737-9a1a-a4cad24ca7ae"
+			],
+			"json": "sign/iss/screen.003-screen.003.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"decaa2fe-c440-4d93-8286-4d14fa764aaa"
+			],
+			"json": "sign/iss/ISSS.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "sign/topex/Material.001-Material.001.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"4b83274b-3a2c-4302-b10c-fddfb7466bca"
+			],
+			"json": "sign/topex/body.001-body.001.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"02080dec-2b4c-4756-a853-c4b89d95f9b8"
+			],
+			"json": "sign/topex/screen.001-screen.001.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"c65879d9-ae62-4290-a3e2-f2961e0c3aa8"
+			],
+			"json": "sign/topex/TOPEXDXX.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "sign/sublim/Material.004-Material.004.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"6a2dd9d9-df33-40aa-bc23-1ac8d4056f29"
+			],
+			"json": "sign/sublim/body.003-body.003.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"88003c7f-6747-4cfa-8b60-e3f3bb311c67"
+			],
+			"json": "sign/sublim/screen.003-screen.003.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"cc023672-5e80-4654-8fe6-e140fb360893"
+			],
+			"json": "sign/sublim/SUBLIII.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "sign/aquarius/Material.002-Material.002.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"78581d0a-35df-478b-9936-8314ea79f4ff"
+			],
+			"json": "sign/aquarius/body-body.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"6b1142a0-7605-4f52-b18a-9d0c902477c6"
+			],
+			"json": "sign/aquarius/screen-screen.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"cda31d0d-0271-4d61-9dd2-fa840f215b61"
+			],
+			"json": "sign/aquarius/AQU.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "sign/tess/Material.003-Material.003.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"a76c0f74-d0c8-41c3-8d3e-05a912582a4a"
+			],
+			"json": "sign/tess/body.002-body.002.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"7a4600ba-434c-4581-b983-3a742f0a4c15"
+			],
+			"json": "sign/tess/screen.002-screen.002.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"55947ae1-ba06-40db-8ddb-eb53ff5d0eb5"
+			],
+			"json": "sign/tess/TESS.material"
+		},
+		{
+			"isMultiMaterial": true,
+			"bindedMeshes": [
+				"f57b49d3-e402-417c-9f93-0e1271df67a5"
+			],
+			"json": "player-74789502-a77d-457b-bbb9-4d4565ea8151.json"
+		}
+	],
+	"textures": [
+		"night.env-6e526de2-4a56-464c-b355-bbb92921a811.json",
+		"2 (Base Color).png-10fe7b19-4d8e-4d30-b59b-eb9be503e389.json",
+		"1 (Base Color).png-c4140fd7-2f48-4b9f-a1df-7996a165e842.json",
+		"MI_Floor_01_Box (Metallic Roughness).png-a9b463b8-3433-45df-8f16-ac1f3f37438c.json",
+		"leonardo-sanches-ttgvum3OWII-unsplash_Mat (Base Color).png-58c5fc87-1837-410c-8c74-3e749723614f.json",
+		"Material_001_Base_color_Mat (Base Color).png-5a5910da-0169-47d5-a02d-f2467d06128f.json",
+		"MI_Wall_Plaster_Painted_FurnitureMesh (Base Color).png-b701b7c8-b9c7-468c-8952-6dd25603435f.json",
+		"MI_Wall_Plaster_Painted_FurnitureMesh (Metallic Roughness).png-812d5b3a-70b3-4a58-a44b-992cd4e2ecf9.json",
+		"MI_Wall_Plaster_Painted_FurnitureMesh (Normal).png-c8066deb-7bb4-4e9d-b19c-c86bcc051d38.json",
+		"MaterialInstanceDynamic_0_FurnitureMesh (Base Color).png-873ee183-206e-4b8d-8832-52f67e1809b6.json",
+		"MaterialInstanceDynamic_0_FurnitureMesh (Emissive).png-1a823374-08c8-4fe3-a21e-9850b83307ca.json",
+		"MaterialInstanceDynamic_0_FurnitureMesh (Metallic Roughness).png-5be1e60f-b1a5-424d-9503-aca7bb2a3b3e.json",
+		"MI_Fake_Glass_Form_SM_Statue_Abstract1 (Base Color).png-cd5dc13a-d370-4f8a-8b50-64dd768d5930.json",
+		"MI_Fake_Glass_Form_SM_Statue_Abstract1 (Occlusion).png-29134f00-f8b0-4bbd-84dc-86503f1f1c74.json",
+		"MI_Fake_Glass_Form_SM_Statue_Abstract1 (Metallic Roughness).png-279b612d-afc8-4b8f-90c0-9604af0bdf30.json",
+		"LOW_POLY_ASTRONAUGHT_lambert1_BaseColor_Mat (Base Color).png-73331321-553a-4555-9255-2f1a6b4defd7.json",
+		"Material_002 (Base Color).png-6cf376e9-0a50-445f-8b3a-4e8e6f230886.json",
+		"MI_Trim_Plastic_SM_Vending_Machine1 (Base Color).png-44586187-7de7-425a-b5dd-60a4a061c7e5.json",
+		"MI_Trim_Plastic_SM_Vending_Machine1 (Occlusion).png-1469edb3-ea6c-411f-bf46-1a45e3248eb2.json",
+		"MI_Trim_Plastic_SM_Vending_Machine1 (Metallic Roughness).png-dd576ea9-ba81-4da9-a0e6-365c9392fa58.json",
+		"MI_Trim_Plastic_SM_Vending_Machine1 (Normal).png-b9378002-2586-4d0b-92d6-193b68bdc4a6.json",
+		"M_Light_SM_Vending_Machine1 (Base Color).png-70a5508d-1915-4173-911b-cd5c7c81393d.json",
+		"M_Light_SM_Vending_Machine1 (Emissive).png-9b17a75c-0455-4bc7-9123-a1d9c00956e4.json",
+		"M_Light_SM_Vending_Machine1 (Metallic Roughness).png-228a7697-3d63-4146-8d57-23553373abc7.json",
+		"MI_Sign_Decals (Base Color).png-cc07748c-fcd0-4388-bc2b-f6e579483150.json",
+		"WorldGridMaterial (Base Color).png-07fd3cb1-74d4-4b5a-b021-24730e5282c6.json",
+		"WorldGridMaterial (Metallic Roughness).png-0a3299ab-6f17-4999-964f-4c400f8cc7bf.json",
+		"WorldGridMaterial (Normal).png-8560a94b-5d95-4c8b-bb3e-fce180c6bb1d.json",
+		"jeremy-perkins-uhjiu8FjnsQ-unsplash_Mat (Base Color).png-3ec13a26-3e3e-425b-8d3b-28601087ee97.json",
+		"tex_02 (Base Color).png-6a3b9975-e8a3-4689-a8bc-841ed8374b9c.json",
+		"tex_01 (Base Color).png-742924f8-100b-4c4a-b83b-02466380ac18.json",
+		"MI_Furniture_Metal_nasa_transiting_exoplanet_survey_sat_tess_BUS_0 (Base Color).png-7dce2318-3f5f-42e8-b25a-ccfcf4b256ca.json",
+		"MI_Furniture_Metal_nasa_transiting_exoplanet_survey_sat_tess_BUS_0 (Metallic Roughness).png-e54ecb85-cd0a-4a1c-b606-e9ca1ddb33bf.json",
+		"MI_Furniture_Metal_nasa_transiting_exoplanet_survey_sat_tess_BUS_0 (Normal).png-b8af6604-96fd-4867-9734-65e18fbcb9d3.json",
+		"tex_03 (Base Color).png-7064dba4-81da-44ae-954e-9fa75bb3faac.json",
+		"wheels (Base Color).png-957fb4dd-b67c-4a69-a8c8-40ad097f6ddd.json",
+		"wheels (Normal).png-80352b9f-674c-46b2-9b42-872e76eaa440.json",
+		"parts_AO (Base Color).png-8e707b8f-2761-48aa-8405-a0788b500412.json",
+		"tex_04 (Base Color).png-7095730d-3b58-48a2-bc57-d74ea68c0497.json",
+		"tex_03a (Base Color).png-914ad55a-21de-4817-85f1-65589f0e9c0a.json",
+		"Solar_Cell (Base Color).png-459d0f7e-6e49-4dba-aa8f-47b013d76f2b.json",
+		"Solar_Cell (Metallic Roughness).png-2a0c866c-4311-4be6-bac2-265bedd93bd5.json",
+		"MI_Floor_Carpet_Box2 (Base Color).png-e738ea27-f557-42ee-9e22-c1dfaf213796.json",
+		"MI_Floor_Carpet_Box2 (Metallic Roughness).png-83de6301-a403-4a0c-b3c7-efad78e9c236.json",
+		"MI_Floor_Carpet_Box2 (Normal).png-4bbeb446-51ce-4a7a-9684-90d71bd255ad.json",
+		"Gradient_Star (Emissive).png-551c1e62-2a24-4cd5-9217-587b80a96aae.json",
+		"MI_Scaffolding_ladder2 (Base Color).png-c1d3499f-3fa9-4d36-9b7c-fd82051282b4.json",
+		"MI_Scaffolding_ladder2 (Occlusion).png-7743d129-872f-44ec-a35b-06a993685cde.json",
+		"MI_Scaffolding_ladder2 (Metallic Roughness).png-e5416caa-cc5d-42fc-b3b7-d5f24d926345.json",
+		"MI_Scaffolding_ladder2 (Normal).png-c1cd775a-e0ea-4244-b6fb-fce5c228025d.json",
+		"MI_Scaffolding_ladder (Base Color).png-1155e790-6dd2-40ab-83d9-d7d358e5a5b2.json",
+		"MI_Scaffolding_ladder (Occlusion).png-7c620b77-ec8d-4b76-beed-1c56ebd4bfbd.json",
+		"MI_Scaffolding_ladder (Metallic Roughness).png-7aa47175-68df-405d-aa28-c54a7078ac34.json",
+		"MI_Scaffolding_ladder (Normal).png-707d1fcb-c7ec-4da8-a88e-f20fcbbe2ee8.json",
+		"M_Frame (Base Color).png-d92ae805-330b-4b16-8b10-16b8cde14d10.json",
+		"M_Frame (Metallic Roughness).png-32da4c5b-8bc0-43cf-a98a-77ecc295227e.json",
+		"M_Frame (Normal).png-d8a6418b-3e5e-4342-aef5-76e93a213e00.json",
+		"MI_Trim_Plastic_SM_FireExtinguisher_Wall (Base Color).png-b674d3c5-ab0c-4511-bcda-b9d988234f91.json",
+		"MI_Trim_Plastic_SM_FireExtinguisher_Wall (Occlusion).png-a878989d-2c4a-428b-8cc2-453b82882601.json",
+		"MI_Trim_Plastic_SM_FireExtinguisher_Wall (Metallic Roughness).png-948529ff-9aab-4b67-b98e-0e6954bd5203.json",
+		"MI_Trim_Plastic_SM_FireExtinguisher_Wall (Normal).png-cbcf8bf5-b548-42b9-b8e4-4cff15eec1b3.json",
+		"MI_FIre_Extinguisher (Base Color).png-86433f72-fdfe-4501-b0a5-ba758fd70efa.json",
+		"MI_FIre_Extinguisher (Occlusion).png-fdc11b58-2ffe-4a60-9b41-f5a6a22e2568.json",
+		"MI_FIre_Extinguisher (Metallic Roughness).png-cfecfe94-8144-4864-86b4-a1112568c92e.json",
+		"MI_FIre_Extinguisher (Normal).png-ad63b0f0-ca61-4db4-b402-9a3fc2112082.json",
+		"MI_Scaffold_Mesh_SM_Scaf_Roof (Base Color).png-9b02454f-6c8a-4057-9164-daacff93f282.json",
+		"MI_Scaffold_Mesh_SM_Scaf_Roof (Occlusion).png-f8a6a25a-8065-4d98-89d4-c70bb54a9480.json",
+		"MI_Scaffold_Mesh_SM_Scaf_Roof (Metallic Roughness).png-7636af64-9092-4290-875a-c34ca2aa5973.json",
+		"MI_Scaffold_Mesh_SM_Scaf_Roof (Normal).png-404dba15-b84b-4a5e-9167-75a1fb7afd0d.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top2 (Base Color).png-b214fe84-3f1f-4564-a31d-da74db835579.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top2 (Occlusion).png-db68e88b-28ba-4c08-8e7f-e697ffa352f2.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top2 (Metallic Roughness).png-612fc404-a235-461f-afe5-78f3ef540bef.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top2 (Normal).png-c8b53caa-9265-4dd7-a082-d8e8c7c75efe.json",
+		"MI_Electric_Box (Base Color).png-a8f0759b-36fe-438c-ba4f-36e852df4f63.json",
+		"MI_Electric_Box (Occlusion).png-9ea80277-1d48-428b-a365-001d9a8b82e4.json",
+		"MI_Electric_Box (Metallic Roughness).png-dbb33043-5f52-4e57-b5e4-9f33baf08df3.json",
+		"MI_Electric_Box (Normal).png-6735f983-c72d-428f-8be9-90118808c414.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top3 (Base Color).png-9181d021-3b0c-44d7-bf6e-cd49f63ec03b.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top3 (Occlusion).png-3066ca7a-3e32-46ae-bdf8-f7f58a256aed.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top3 (Metallic Roughness).png-91fad2a2-9427-45b5-b113-ee110c5b8d86.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top3 (Normal).png-a621a987-2e14-4370-9baa-adbf92037713.json",
+		"MI_Furniture_Metal_SM_Rect_Sofa1 (Base Color).png-c970b676-0d96-439c-b135-8f3428190686.json",
+		"MI_Furniture_Metal_SM_Rect_Sofa1 (Metallic Roughness).png-a726dbfc-00cc-4417-b9db-ecd51efa82e2.json",
+		"MI_Furniture_Metal_SM_Rect_Sofa1 (Normal).png-87bd18e5-c47e-4492-a7d3-325304b37432.json",
+		"MI_Rect_Chair_Pad_SM_Rect_Sofa1 (Base Color).png-a77071f3-d9b3-4665-813f-0eb19c039e8b.json",
+		"MI_Rect_Chair_Pad_SM_Rect_Sofa1 (Occlusion).png-7fe0b3a0-9d08-4bb7-a28c-fe1eba75e7ba.json",
+		"MI_Rect_Chair_Pad_SM_Rect_Sofa1 (Metallic Roughness).png-50719a11-2d49-4e15-999b-674da4876fa2.json",
+		"MI_Rect_Chair_Pad_SM_Rect_Sofa1 (Normal).png-8c826f8a-09d6-46e8-a4e1-8243d9b151fc.json",
+		"MI_Trash_Can_SM_Trash_Can (Base Color).png-5a2dcd61-34e8-4b96-aea1-3c1343213438.json",
+		"MI_Trash_Can_SM_Trash_Can (Occlusion).png-31c1dea5-2978-4eec-aec3-00f1c12d267c.json",
+		"MI_Trash_Can_SM_Trash_Can (Metallic Roughness).png-929f8b2c-3042-469c-b46d-53432d89aa23.json",
+		"MI_Trash_Can_SM_Trash_Can (Normal).png-b9aba571-2151-4747-b3ec-66ce08b4d313.json",
+		"VivePreControllerMaterial (Emissive).png-9799065f-6b85-411f-8189-39b1e01bd537.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top_Corner2 (Base Color).png-540e8ad8-b719-44fb-a0b6-dea8febbc0ca.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top_Corner2 (Occlusion).png-b55d28c4-9319-4cc6-97e9-8313a3ad4ab9.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top_Corner2 (Metallic Roughness).png-c641d5a3-0f99-4ae1-81da-052b157f1bcc.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top_Corner2 (Normal).png-2ea787b5-9ea5-4160-b8a4-c7a5fa703418.json",
+		"M_Concrete_Tiles (Base Color).png-4479927b-1dc0-4759-9439-fbaa281202c2.json",
+		"M_Concrete_Tiles (Occlusion).png-69b225cb-212c-4ec9-a3af-a2e03bd8c174.json",
+		"M_Concrete_Tiles (Metallic Roughness).png-87c67e11-f468-4d1e-b2a7-6dc735059e8b.json",
+		"M_Concrete_Tiles (Normal).png-751db3db-66d6-4329-b316-05584ec08cdc.json",
+		"MI_Mop_Bucket (Base Color).png-8082f08d-1d2f-4e50-8cdc-0353b8fc237b.json",
+		"MI_Mop_Bucket (Occlusion).png-4221e9b8-24a7-46c1-a920-b26c7da10dcd.json",
+		"MI_Mop_Bucket (Metallic Roughness).png-c8492ac1-1dd3-4f8c-b2e0-5c1bb15cd303.json",
+		"MI_Mop_Bucket (Normal).png-7eb4fe37-9bae-4622-b7d3-befa85d1a74e.json",
+		"MI_Scaffolding_ladder3 (Base Color).png-6084e6e6-4f95-4922-b437-063393e676f6.json",
+		"MI_Scaffolding_ladder3 (Occlusion).png-ba5e9501-acc6-4207-8324-4173d37fcb7e.json",
+		"MI_Scaffolding_ladder3 (Metallic Roughness).png-120a3277-e146-481e-80fd-a28f7361e47f.json",
+		"MI_Scaffolding_ladder3 (Normal).png-ee366626-25c5-4313-bc13-070d4008d761.json",
+		"MI_IndustryLights (Base Color).png-3aab3bf6-1d08-446a-8132-5825d86a89ab.json",
+		"MI_IndustryLights (Occlusion).png-249e5842-4f1f-4c4c-bb0a-4efc6a93c4c2.json",
+		"MI_IndustryLights (Emissive).png-36c5df26-5964-478d-a1d7-97638549f86a.json",
+		"MI_IndustryLights (Metallic Roughness).png-fcea81c8-6371-4952-923a-0ad350830231.json",
+		"MI_IndustryLights (Normal).png-42630999-e2df-46a9-a92d-090c5458226a.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top_Corner1 (Base Color).png-a8cc5d55-e39c-46fe-a299-70dfb6d1c953.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top_Corner1 (Occlusion).png-c8ad449f-697f-4d40-abc7-41441b943fc8.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top_Corner1 (Metallic Roughness).png-0bfa9866-8f53-4518-b28c-2c819b5a0fb3.json",
+		"MI_Scaffolding_SM_Scaf_Wall_Middle_Top_Corner1 (Normal).png-bdad0111-8f3d-4186-b6ee-4c315f1189b5.json",
+		"Material_001 (Base Color).png-c7012c5a-2cd7-4a55-991a-c73e6183aa4b.json",
+		"MI_Merged_Build1 (Base Color).png-01d275d6-96c9-4caf-8bb1-f4228a5293af.json",
+		"MI_Merged_Build1 (Occlusion).png-246a06b0-3e54-481f-b4c5-597239e61379.json",
+		"MI_Merged_Build1 (Metallic Roughness).png-24481f41-3513-4825-b40a-bf1952ad84a7.json",
+		"MI_Merged_Build1 (Normal).png-927ab5c6-7fd1-4f37-902d-45913f5b89e3.json",
+		"MI_Floor_Carpet_Box (Base Color).png-9a8f6ad9-3349-4ed5-824f-0ddba5354283.json",
+		"MI_Floor_Carpet_Box (Metallic Roughness).png-629ee3e9-ce7e-4cbe-8af7-73a5b7af4ba7.json",
+		"MI_Floor_Carpet_Box (Normal).png-44344cd8-1aba-481b-b820-b9b33f6c779b.json",
+		"mars_Mat (Base Color).png-7e5b8c2e-4f05-4edd-b73b-4d07481eb7e8.json",
+		"Material_63 (Base Color).png-fc2a9f78-21bd-4d76-95ed-a68a9cbb896a.json",
+		"Image_1_Mat (Base Color).png-8af21008-c36c-480d-8bdf-70d5bd812219.json",
+		"Material_003 (Base Color).png-3462a378-655e-4fe7-9abe-9a35190cfd2f.json",
+		"Material_003 (Emissive).png-aaa1bfa4-9b19-4c7d-bb89-a4fc0b81bb9c.json",
+		"Image_0_004_Mat (Base Color).png-3daa23b3-8530-4c71-bde3-e00a1a34b93c.json",
+		"urns_Mat (Base Color).png-a2beca8f-d15b-4163-bb3d-a036fad7d038.json",
+		"neptune_Mat (Base Color).png-7b24fe22-c8ad-4209-92e4-1e894eaa084f.json",
+		"Image_0_006_Mat (Base Color).png-f8557c03-4a08-462d-900f-bf21702f050c.json",
+		"Image_0_Mat (Base Color).png-64cdd889-b60a-4c58-b2e9-3704623bd3b7.json",
+		"MI_Scaffold_Mesh_Path2 (Base Color).png-673dc259-8769-492d-914a-97e2389deea0.json",
+		"MI_Scaffold_Mesh_Path2 (Occlusion).png-55be767c-8708-4d2c-b9f8-bc453f692eb3.json",
+		"MI_Scaffold_Mesh_Path2 (Metallic Roughness).png-5168d407-1287-414b-b1d8-0fee7d4bff7e.json",
+		"MI_Scaffold_Mesh_Path2 (Normal).png-23093886-463c-4359-a175-ac00a00064f3.json",
+		"scott-webb-PkJOP7JfVfk-unsplash_Mat (Base Color).png-82def794-7477-4aaa-b3df-e54482c868a8.json",
+		"M_Tech_Panel (Base Color).png-eea470cf-d01e-4580-8be6-b39e8e39477e.json",
+		"M_Tech_Panel (Occlusion).png-61aeae42-c3f6-4afd-9a28-a7aefab02c64.json",
+		"M_Tech_Panel (Metallic Roughness).png-d9486a2f-2bdd-4240-ad46-f5430c19fe4d.json",
+		"M_Tech_Panel (Normal).png-13442a8e-252e-4f6c-bb9f-0cf5b565947e.json",
+		"couch_lambert1_Emissive_Mat (Base Color).png-470432fd-51e1-452c-ad29-4195a3df6e43.json",
+		"bryan-goff-f7YQo-eYHdM-unsplash_Mat (Base Color).png-809824df-b9ca-4b0a-ac3a-c2a3777631a5.json",
+		"1_The_Submillimeter_Wave_Astronomy_Satellite__SWAS___a_NASA_space_mission__was_dedicated_to_explorin-d280c463-df8d-41ef-99b0-072804ad6e2c.json",
+		"jake-weirick-Q_RBVFFXR_g-unsplash_Mat (Base Color).png-e0cb7246-83e9-477b-99f9-93427a1fbae7.json",
+		"MI_Wall_Plaster_Painted_FurnitureMesh (Normal).png-eff54af8-6bfd-4317-bb68-07ab29d542f7.json",
+		"MI_Wall_Plaster_Painted_FurnitureMesh (Base Color).png-85131f97-77e2-453b-9513-208069a353df.json",
+		"MI_Wall_Plaster_Painted_FurnitureMesh (Metallic Roughness).png-a59bf1f3-3707-41b1-84e3-2e4fcc301f22.json",
+		"MaterialInstanceDynamic_0_FurnitureMesh (Emissive).png-ff10e0a4-118e-4c6c-b5a6-059266cb0a93.json",
+		"MaterialInstanceDynamic_0_FurnitureMesh (Base Color).png-00e8b69e-0c28-4302-8937-ba2f0fb62d0c.json",
+		"MaterialInstanceDynamic_0_FurnitureMesh (Metallic Roughness).png-5d338504-0123-47e4-88a6-5442e35fe25a.json",
+		"MI_Fake_Glass_Form_SM_Statue_Abstract1 (Occlusion).png-7b854282-d652-441d-a974-0d59f889983a.json",
+		"MI_Fake_Glass_Form_SM_Statue_Abstract1 (Base Color).png-69fdaa04-b67e-4100-8d21-582c36ac8f11.json",
+		"MI_Fake_Glass_Form_SM_Statue_Abstract1 (Metallic Roughness).png-95d03864-ce30-4a37-91a9-05049c4ea0cf.json",
+		"LOW_POLY_ASTRONAUGHT_lambert1_BaseColor_Mat (Base Color).png-bf4572ab-b3b3-41f0-9656-d6ed952bf20c.json",
+		"WorldGridMaterial (Normal).png-269be216-0097-4457-bf05-9c934a477f15.json",
+		"WorldGridMaterial (Base Color).png-4f343613-cee3-48b5-a04b-d7161192e398.json",
+		"WorldGridMaterial (Metallic Roughness).png-fd2fe9af-44aa-426b-8509-cfcfc500260c.json",
+		"jeremy-perkins-uhjiu8FjnsQ-unsplash_Mat (Base Color).png-a18bef50-8f7d-402a-aa05-f25e0d0ab885.json",
+		"1.The Submillimeter Wave Astronomy Satellite (SWAS), a NASA space mission, was dedicated to explorin-59d54af3-3fae-4478-a203-7113d153d56f.json",
+		"kai-pilger-Ef6iL87-vOA-unsplash.jpg-4ef68b02-5be0-4ebf-9aaf-0f08a4cad482.json",
+		"Material (Base Color).png-eae4f5d1-184b-4a83-b9fd-8052a4767c3b.json",
+		"Material.001 (Base Color).png-c3373c1c-7b27-4396-a49c-8b7e8594dc26.json",
+		"Material (Base Color).png-c1965a23-88cf-43d2-a8b9-f8ec250ff68a.json",
+		"Material.001 (Base Color).png-2937c637-9f30-4c6b-adca-87f389a21005.json",
+		"Material (Base Color).png-c4047fca-c4b4-4e1b-9b21-76e272b9bb24.json",
+		"Material.001 (Base Color).png-59f70718-dbf0-4f7f-8973-2bc6da4cd0b2.json",
+		"Material (Base Color).png-041e8ca5-8d14-4605-a4a5-64e255933cfa.json",
+		"Material.001 (Base Color).png-17f71bce-8cca-4c17-aaf0-b4fc91614e9b.json",
+		"Material.004 (Base Color).png-22b1e548-7e5b-4d26-a1b2-401800b521c3.json",
+		"body.003 (Normal).png-f00a825a-14db-4e70-83c1-b5637cd23edf.json",
+		"body.003 (Emissive).png-073ab1e5-b1f8-4e27-9bd5-edec12f5a8e5.json",
+		"body.003 (Base Color).png-e9dfdfae-b8d1-4bf0-a49c-6bc82b3e00e0.json",
+		"screen.003 (Emissive).png-28f4becf-4837-4159-a8dd-225f90dfe31d.json",
+		"Material.004 (Base Color).png-3596f7c0-da67-4e73-bd81-d56dfd933747.json",
+		"body.003 (Normal).png-340a62f7-cb8e-4c08-b478-45fc5950407c.json",
+		"body.003 (Emissive).png-4ea1ba72-86fd-4845-ac31-86c1d13d7d0b.json",
+		"body.003 (Base Color).png-d104f206-f8d1-4349-acab-af19c0d981d0.json",
+		"screen.003 (Emissive).png-65be5026-89b2-4303-90fe-2f651ef8dcac.json",
+		"Material.004 (Base Color).png-fc4030f3-6dd2-4f15-aac1-2d690d84e52b.json",
+		"body.003 (Normal).png-f83931fd-d41b-41ba-a37e-55653c89a354.json",
+		"body.003 (Emissive).png-728e0acc-18da-46b6-ac97-a38d0095c3da.json",
+		"body.003 (Base Color).png-1ec119dc-527e-4c18-8c16-4eac1fb9150a.json",
+		"screen.003 (Emissive).png-d05e67bd-22d6-42b0-b985-de5725d46bb1.json",
+		"Material.001 (Base Color).png-84390de8-8f92-43bb-92a8-c7694a10b33f.json",
+		"body.001 (Normal).png-c154e11b-80a6-4c73-a032-15b90e77a3c9.json",
+		"body.001 (Emissive).png-d68a7db0-f5ca-436c-ae4b-28858cb37b97.json",
+		"body.001 (Base Color).png-284d8523-a8ca-4452-8a0f-e836289305cb.json",
+		"screen.001 (Emissive).png-4fd8cd65-3fed-426d-8f21-5e94411ff5f3.json",
+		"Material.004 (Base Color).png-a818b391-8d02-446e-858a-ca97535b0094.json",
+		"body.003 (Normal).png-bf29b7df-f394-460b-97c9-d440e97160fe.json",
+		"body.003 (Emissive).png-7e0fb3cf-43dc-4c37-b7b1-57c372a65431.json",
+		"body.003 (Base Color).png-23a70264-b8ae-4625-8f04-b845bf10bcef.json",
+		"screen.003 (Emissive).png-3fad5705-8a21-4c1c-a138-528cd08c4059.json",
+		"Material.002 (Base Color).png-164e620a-886d-4860-afcf-33d67a9d8059.json",
+		"body (Normal).png-bef3d29d-b603-43b1-bc68-5f2b69a9624d.json",
+		"body (Emissive).png-6e073994-ca52-4c0d-bb86-4c35518dcd35.json",
+		"body (Base Color).png-f4abb825-16bb-4055-8530-946e7724c49c.json",
+		"screen (Emissive).png-5af456fc-03da-4af9-a388-fcd02b44d66e.json",
+		"Material.003 (Base Color).png-6831b943-8af7-4ef6-b105-15e7b9f06376.json",
+		"body.002 (Normal).png-29af4bd6-2de8-4ef7-b51f-4f1287568de0.json",
+		"body.002 (Emissive).png-084400b6-7e57-4e71-8f69-9a34fb367093.json",
+		"body.002 (Base Color).png-643f4b4a-02aa-405f-acea-6a66ca22261e.json",
+		"screen.002 (Emissive).png-4c5a1b43-2f39-4846-82d5-441b17732291.json"
+	],
+	"meshes": [
+		"ground-42d0385d-4fb7-409c-a26e-0cbf406a4ccd.json",
+		"sky-18b3d26b-05ed-494e-b908-9d795df06ff5.json",
+		"player-f57b49d3-e402-417c-9f93-0e1271df67a5.json",
+		"MAIN-5271002f-60ce-445b-a2f7-214f35a49d11.json",
+		"Box-28c922d4-c09b-455d-b244-fa0adc65f829.json",
+		"Path-e35d2863-05fc-4f09-98bc-e7c6379b69d3.json",
+		"Cylinder-20693abb-a1fd-4306-a8ea-3ccafef3ce66.json",
+		"Cylinder2-a57b763d-31a5-4f23-af04-16dfa9833dd8.json",
+		"SpaceShip-27894e80-fbd1-473a-b657-7e0a0534d7e9.json",
+		"FurnitureMesh_primitive0-0f586ff9-84f6-4ce3-8303-8fbd4b9a64de.json",
+		"FurnitureMesh_primitive1-f7c26a65-0c28-490d-997e-e9e44bf33e49.json",
+		"SM_Statue_Abstract1_primitive0-6c1e1318-6159-4163-847f-710c78af620e.json",
+		"SM_Statue_Abstract1_primitive1-e9f602ed-bc2b-4ca7-8bae-9255ba36872a.json",
+		"FurnitureMesh_primitive0-c50406b9-f0a0-4b7e-bc02-801dff4f053b.json",
+		"FurnitureMesh_primitive1-65bbc6c4-4628-46d3-af8c-249905ec74d4.json",
+		"SM_Statue_Abstract1_primitive0-f54ae62f-92a5-4c2b-9970-c3eaedf5e577.json",
+		"SM_Statue_Abstract1_primitive1-9aa74760-8966-4f75-99e6-a43d49bea58c.json",
+		"LOW_POLY_ASTRONAUGHT-6a7eb387-dab1-4e21-a428-a1440364f1a4.json",
+		"topex_poseiden_Body_body_0-c361e272-4c11-4785-95aa-6e065ae411d2.json",
+		"topex_poseiden_Cube-7b673835-d87c-4940-b956-52d05b7832cf.json",
+		"SM_Vending_Machine1_primitive0-7e0b0498-2b53-46ff-9a56-6fed6748d10f.json",
+		"SM_Vending_Machine1_primitive1-692b36dd-07ed-44ca-a6b6-7bc8f107af4d.json",
+		"SM_Location_Sign_Arrow-187bbcde-d466-4850-9302-5d6f02e6c050.json",
+		"SATE-0a6b7be4-2db0-4d3e-8950-feeb9d902670.json",
+		"Box-4dd81e1a-a147-4f37-aa07-1d8e1a4e3d11.json",
+		"Path-03d86ab1-8424-4a23-af9a-f16024497266.json",
+		"nasacnes_topexposeidon_satellite_Object_4-66277117-f433-460a-8260-9ed04d2ff3a5.json",
+		"nasacnes_topexposeidon_satellite_Object_5-392f42c3-5cb0-4301-b098-23e2893d0ff4.json",
+		"nasacnes_topexposeidon_satellite_Object_6-071a2c6d-1795-4e65-9be6-445579fbe10d.json",
+		"nasacnes_topexposeidon_satellite_Object_7-a02f5f8c-cfa0-42f7-986d-8705283299ba.json",
+		"nasacnes_topexposeidon_satellite_Object_8-0207ebd0-3bf6-450e-a8ec-32c57f9e39d8.json",
+		"nasacnes_topexposeidon_satellite_Object_9-0b70f9e8-e074-4220-9542-c6add54e81fb.json",
+		"nasacnes_topexposeidon_satellite_Object_10-346766c5-455a-4aca-bde7-0ef141928e62.json",
+		"nasacnes_topexposeidon_satellite_Object_11-4d311d1b-fb0d-4add-99aa-f84ce5301a6a.json",
+		"nasacnes_topexposeidon_satellite_Object_12-018c3b93-158e-4309-9492-a87573617507.json",
+		"nasacnes_topexposeidon_satellite_Object_13-944c0ad8-1896-48c9-a595-6307d46cbc52.json",
+		"nasacnes_topexposeidon_satellite_Object_14-17f142d7-7405-4703-9c38-c77ed0420f3f.json",
+		"nasacnes_topexposeidon_satellite_Object_15-e79e0783-3ced-4234-bb40-7dbdca70cb8a.json",
+		"nasacnes_topexposeidon_satellite_Object_16-30b7d60f-4f3c-4876-b8f4-6c6caf6b255c.json",
+		"nasacnes_topexposeidon_satellite_Object_17-4203b6db-af50-453e-88bd-10cd6ccd9037.json",
+		"nasacnes_topexposeidon_satellite_Object_18-a2e5ed23-d2ef-4191-abb7-c2dad7021910.json",
+		"nasacnes_topexposeidon_satellite_Object_19-db6ae951-236d-4011-b974-b693050a56dd.json",
+		"nasacnes_topexposeidon_satellite_Object_20-183eb82d-28fb-4514-949d-4858b42ee5fb.json",
+		"nasacnes_topexposeidon_satellite_Object_21-798908cb-0024-4ab5-a110-dd969f9693b2.json",
+		"nasacnes_topexposeidon_satellite_Object_22-f97ec6e4-8aa2-4ccb-a20c-2b4cf71d1399.json",
+		"nasacnes_topexposeidon_satellite_Object_23-8347b612-5e53-4114-8a2c-5587ed4119a9.json",
+		"nasacnes_topexposeidon_satellite_Object_24-ef8a8251-e133-4d7b-a7d7-037f0db03988.json",
+		"nasacnes_topexposeidon_satellite_Object_25-5757d28c-c6eb-4a64-8d9d-cee4324ef757.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_4-2cc87227-078a-4f8e-9c1a-694a71ec4daf.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_5-7f91e05f-5db1-445c-b7b8-fc0a3bf46fae.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_6-43bc6f9f-f794-4056-afee-4cd512bf43a8.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_7-d767f316-e053-456d-a756-7a1fbe3b8953.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_8-c7444f11-ccbb-42ae-b017-623e17c88a63.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_9-2077f38b-20d1-4264-8f9f-7e388d546771.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_10-c52c9a6d-b1d4-4d06-80c4-5cc9ac86b5bf.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_11-9d25ccaf-0c61-4ae7-8a5d-4f2f7182ec45.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_12-3e530420-b603-437f-a96a-716be86a44bb.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_13-ff4affd2-ffd7-4cfe-bd15-790241d73671.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_14-a7d36851-d0db-464e-aed3-6be658ae3e96.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_15-771c900e-21ff-4910-9989-3e4fdcc82ed1.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_16-cc4cc68e-23b6-401d-8479-b3c7db8880e9.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_17-4fc11f5b-2612-4703-98a3-cab8c65f110c.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_18-7baee800-9afd-4614-92ca-fce6a0c1a58f.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_19-8c6b4dfc-df6b-40b2-8a1f-4a6af6e24686.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_20-187f9168-0f83-4719-a955-2d42dde84e18.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_21-ee9257cf-b697-4e61-9061-fbe1bc72e2ed.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_22-c7784fd9-d6b4-46c9-a823-b1470e709220.json",
+		"nasa_swassubmillimeter_wave_astronomy_satellite_Object_23-79c1e8a8-7ed0-4c89-9ddd-bfb3979f2c5f.json",
+		"nasaconae_aquarius_spacecraft_shiny_panel_left_0-ecdc8291-c56b-4169-b771-5e5e1b62cf7d.json",
+		"nasaconae_aquarius_spacecraft_shiny_panel_right_0-98651f8b-a2fa-4c6a-84a1-ccaf4989eb10.json",
+		"nasaconae_aquarius_spacecraft_tex_black_0-24b4ccfe-6941-465a-b79c-148385a46151.json",
+		"nasaconae_aquarius_spacecraft_tex_02_0-dbfc4bbf-7483-440c-b12f-e22ffe47b011.json",
+		"nasaconae_aquarius_spacecraft_AO_dish_dep_0-b31fae52-ddd7-4194-91c6-55a28fc9a206.json",
+		"nasaconae_aquarius_spacecraft_foil_gold_0-559c7b31-805b-4779-8e88-b47ef48ed5f4.json",
+		"nasaconae_aquarius_spacecraft_foil_silver_0-86772e2a-33e6-4fb0-8d1f-2d8f53ee94fe.json",
+		"nasaconae_aquarius_spacecraft_tex_01_0-fe5ed34f-9004-49af-b2a4-0f586a98b92f.json",
+		"nasaconae_aquarius_spacecraft_AO_other_dep_0-be485751-87f0-438b-8f94-08cd2e948a63.json",
+		"nasa_transiting_exoplanet_survey_sat_tess_BUS_0-8fafa14d-28c4-4da5-8f4b-a6d658760bf3.json",
+		"nasa_transiting_exoplanet_survey_sat_tess_instruments_0-1a4514fb-dbcc-4e0b-b934-a0fb7bce09b8.json",
+		"nasa_transiting_exoplanet_survey_sat_tess_instruments_1-f7d08123-42ef-4725-9fa4-a40d8c70b2a3.json",
+		"nasa_transiting_exoplanet_survey_sat_tess_instruments_2-1d1c80ee-e6bf-45c4-a079-e43e6b7760b7.json",
+		"nasa_transiting_exoplanet_survey_sat_tess_reflectors_0-e7a8af92-4f4d-4bae-96f0-1d17dc9cc95c.json",
+		"ROVER_primitive0-7d34ffcd-5f15-4d41-833c-131a3077a7df.json",
+		"ROVER_primitive1-2520f747-1e60-41a6-9306-6b3cb695d423.json",
+		"ROVER_primitive2-b97d95fc-7622-4c43-b456-96f9019c2c86.json",
+		"ROVER_primitive3-85ed563c-8fd9-4336-899f-7e9740eaa275.json",
+		"ROVER_primitive4-5c8344de-8d20-4751-bc5c-717569c83eb7.json",
+		"ROVER_primitive5-bda108a9-b10d-4bf7-845a-e0db8c79d9dc.json",
+		"ROVER_primitive6-895fff5b-000a-4889-a65f-3656d0b6ab6b.json",
+		"ROVER_primitive7-18df56f5-4a49-4f42-8f7a-db036c251210.json",
+		"International_Space_Station_Module_001-d7e51291-40bf-455a-80c5-3955e600a1e5.json",
+		"International_Space_Station_Module_002-efa88238-84c4-4ae4-a4d5-b47b6d1165c3.json",
+		"International_Space_Station_Module_003-8da806dc-b53e-42e7-af63-a78c38511dc9.json",
+		"International_Space_Station_Module_004-d09ee89c-7849-4c4c-9308-f598ac36d9f8.json",
+		"International_Space_Station_Module_005-9ac846a9-ed9d-4668-9768-a55aa3c2871a.json",
+		"International_Space_Station_Module_006-085572b5-35d8-40e1-b96f-688f9af892f6.json",
+		"International_Space_Station_Module_007_primitive0-f56611e3-1234-4c7e-92e0-d0428531b5ea.json",
+		"International_Space_Station_Module_007_primitive1-480da3c2-973d-4dfb-aacf-bf9d0b2ec473.json",
+		"International_Space_Station_Module_007_primitive2-38c3603b-dd31-4455-84d3-6104ce84e8aa.json",
+		"International_Space_Station_Module_008-46ee14a8-11e5-4580-8edf-45bf694027c6.json",
+		"International_Space_Station_Module_009_primitive0-d04ea448-272d-4c46-bedd-7afdb7282289.json",
+		"International_Space_Station_Module_009_primitive1-eecbeede-3105-4790-af09-5b51de360660.json",
+		"International_Space_Station_Module_009_primitive2-1a23bdf5-43b3-41eb-8e67-a98f454e0e35.json",
+		"International_Space_Station_Module_010_primitive0-240a7506-0067-4830-bd56-a42f1897ad38.json",
+		"International_Space_Station_Module_010_primitive1-645f1aca-f811-4a0d-88f7-47f101d8cfc2.json",
+		"International_Space_Station_Module_010_primitive2-c9179a84-2594-413e-838e-a48bfb0c6a5b.json",
+		"International_Space_Station_Radiator_001_primitive0-fe8583b4-ea71-4c63-8caa-5dfdd3d32866.json",
+		"International_Space_Station_Radiator_001_primitive1-9769ff7c-137e-4925-875d-ce797d65c166.json",
+		"International_Space_Station_Radiator_001_primitive2-8d51c96f-04fa-4439-99a4-cf67d1c50058.json",
+		"International_Space_Station_Radiator_002_primitive0-22a5944b-afaf-4916-9863-3f5489fc200f.json",
+		"International_Space_Station_Radiator_002_primitive1-664cd6f7-1eef-4a09-a1f5-a0205b440d6b.json",
+		"International_Space_Station_Radiator_002_primitive2-9cb66696-8b3a-4927-833c-5bab64e93078.json",
+		"International_Space_Station_Radiator_003_primitive0-c3d0f6b5-31fb-4e77-ad1c-45fb18f4fe3e.json",
+		"International_Space_Station_Radiator_003_primitive1-58d867de-a3d9-41e1-a608-b3e7f2d8dc86.json",
+		"International_Space_Station_Radiator_003_primitive2-8f3b16c3-5b5d-4bdc-b468-072c82b3b70d.json",
+		"International_Space_Station_Radiator_004_primitive0-41c9c78b-bec7-4c52-8c9e-f160664a7ddb.json",
+		"International_Space_Station_Radiator_004_primitive1-6747312a-2516-417e-8167-be74b151591a.json",
+		"International_Space_Station_Radiator_004_primitive2-5d925736-7d91-4d55-b285-34bab44793b4.json",
+		"International_Space_Station_Radiator_005_primitive0-5acda739-743f-4988-a03e-262d1033870e.json",
+		"International_Space_Station_Radiator_005_primitive1-cbdffb88-e61b-4402-b302-8f293fe3b10a.json",
+		"International_Space_Station_Radiator_005_primitive2-e78a5442-c41c-4394-94ab-ca6bbbd0e9d0.json",
+		"International_Space_Station_Radiator_006_primitive0-8f414faf-6b7e-4e24-a1f5-b91535525a83.json",
+		"International_Space_Station_Radiator_006_primitive1-40b0a9a5-1edf-4ff6-9a9a-bc0465a52a1a.json",
+		"International_Space_Station_Radiator_006_primitive2-ef30abb7-9523-44ed-89c2-4463cf9e4c30.json",
+		"International_Space_Station_Solar_Array_001_primitive0-1e2019ec-8d3f-4add-9b70-ca59c6459009.json",
+		"International_Space_Station_Solar_Array_001_primitive1-12c68027-6261-422b-b68e-35cc48a760ef.json",
+		"International_Space_Station_Solar_Array_001_primitive2-d66a0fc8-b02f-4df3-be16-fc60a3a791ca.json",
+		"International_Space_Station_Solar_Array_001_primitive3-6f8fea78-e21a-4b01-897d-0330d5f42e8e.json",
+		"International_Space_Station_Solar_Array_002_primitive0-36b7e9e1-dab9-47b8-be5d-ea8be110d935.json",
+		"International_Space_Station_Solar_Array_002_primitive1-874fe285-0223-483a-b05d-3ecf390a4249.json",
+		"International_Space_Station_Solar_Array_002_primitive2-c6d59348-c879-4355-b9e7-07dc0b864433.json",
+		"International_Space_Station_Solar_Array_002_primitive3-18ef0275-880d-41b4-8a89-be9bcbd58d06.json",
+		"International_Space_Station_Solar_Array_003_primitive0-e6a8e4ba-4586-47e8-9fdd-60d1993ba130.json",
+		"International_Space_Station_Solar_Array_003_primitive1-814c973c-ad7f-4466-8d95-922ea4809b73.json",
+		"International_Space_Station_Solar_Array_003_primitive2-0c3e4473-4118-43d7-85c6-40e499ad0331.json",
+		"International_Space_Station_Solar_Array_003_primitive3-fff1e08c-62ac-4c09-ba9a-8430bd6dc653.json",
+		"International_Space_Station_Solar_Array_004_primitive0-e8a7dff7-1e06-4d1b-a464-e389ab33d52c.json",
+		"International_Space_Station_Solar_Array_004_primitive1-0ea67d71-7089-4374-a388-336f52832415.json",
+		"International_Space_Station_Solar_Array_004_primitive2-8b1b59ad-782f-4cc1-b977-06dd68dd4f2c.json",
+		"International_Space_Station_Solar_Array_004_primitive3-488e39ac-56c3-4b2b-a152-0fc3abacc46e.json",
+		"International_Space_Station_Solar_Array_005_primitive0-f946fe7b-b7b2-40a8-b602-be71dccaaf32.json",
+		"International_Space_Station_Solar_Array_005_primitive1-bd55792d-bed7-4702-ac4c-452b4260759b.json",
+		"International_Space_Station_Solar_Array_005_primitive2-ebc6fdf1-b474-45b2-b8ea-979c9a233516.json",
+		"International_Space_Station_Solar_Array_005_primitive3-27c1fc4f-c6bd-4853-97de-dc4d4bddfa67.json",
+		"International_Space_Station_Solar_Array_006_primitive0-66c2d245-de5e-4580-bf27-34bf54a3e879.json",
+		"International_Space_Station_Solar_Array_006_primitive1-d9e87034-1920-4d9f-81d7-16bfe5933461.json",
+		"International_Space_Station_Solar_Array_006_primitive2-468fa1c0-264f-42eb-9497-1a2f15aaf963.json",
+		"International_Space_Station_Solar_Array_006_primitive3-f836da8e-42ea-462f-b8d3-cd9010f94b02.json",
+		"International_Space_Station_Solar_Array_007_primitive0-0ddca3c0-974f-41ca-8e72-368d1714789b.json",
+		"International_Space_Station_Solar_Array_007_primitive1-4caf57a6-03a5-4dc5-b202-b5f0cd37e7b3.json",
+		"International_Space_Station_Solar_Array_007_primitive2-5e22e353-11ba-4944-8b09-8cbcff872c35.json",
+		"International_Space_Station_Solar_Array_007_primitive3-c3c37ce7-6f4b-48c7-b22d-e6fe55517736.json",
+		"International_Space_Station_Solar_Array_008_primitive0-a37929c6-ffaf-4235-a571-0244969ec2b4.json",
+		"International_Space_Station_Solar_Array_008_primitive1-1a64e6ee-fdc4-42d2-bd87-702526395279.json",
+		"International_Space_Station_Solar_Array_008_primitive2-7cffc3ee-4986-47b7-b422-0d2dd0502b55.json",
+		"International_Space_Station_Solar_Array_008_primitive3-e1aa5377-e45d-422e-a429-dcf6c69290fe.json",
+		"International_Space_Station_Strut_Inner_primitive0-b424f7cf-615c-4ffe-8c80-a08d59295f3d.json",
+		"International_Space_Station_Strut_Inner_primitive1-ef5e9055-7607-4f39-a1db-5872e94c9e83.json",
+		"International_Space_Station_Strut_Inner_primitive2-18c36291-2652-413e-8430-1674240b51f1.json",
+		"International_Space_Station_Strut_Outer_primitive0-8ae8d95e-8487-42d5-8a21-b85ed146bb87.json",
+		"International_Space_Station_Strut_Outer_primitive1-6fff350e-27af-4e87-9147-0892b7950158.json",
+		"Vikram_lander_Box001-b43c1e96-c724-46b5-bcf4-f4dbd195d7e8.json",
+		"Vikram_lander_Box003-2ef902bd-ca1f-4656-a925-87cf17cb175a.json",
+		"Vikram_lander_Box004-8b89e421-5fc3-45f4-b6f1-8bdf2efa0490.json",
+		"Vikram_lander_Box005-aa6a1204-7b09-40c1-b33e-240b9d1005b7.json",
+		"Vikram_lander_Box006-5f3ce7be-0014-414e-b7b5-8b4b12139c24.json",
+		"Vikram_lander_Box007-2f92e736-f332-4db4-8ab6-c093649ad56c.json",
+		"Vikram_lander_Box008-ad0664a0-9c72-4869-ad1c-ab85f6cdc0a4.json",
+		"Vikram_lander_Cylinder001-157765f6-271d-4517-97b5-bb55a07bb5e8.json",
+		"Vikram_lander_Cylinder002-d98c69eb-8137-4dc5-a82f-0b3cba5ddca4.json",
+		"Vikram_lander_Cylinder003-1cb7d754-c427-4100-b5a5-0607abf0face.json",
+		"Vikram_lander_Cylinder004-c049aab1-8110-44ae-a457-7adf98170146.json",
+		"Vikram_lander_Cylinder005-4caafa2e-c178-45a5-aa1d-efa49f99044c.json",
+		"Vikram_lander_Cylinder006-e8cb5916-9c93-43cd-8f12-7c126722e1a2.json",
+		"Vikram_lander_Cylinder007-73b48bcc-cd23-41ce-8788-ee38c8a78b7d.json",
+		"Vikram_lander_Cylinder008-a7d2f14b-3559-4839-8b3d-dc9ee746709e.json",
+		"Vikram_lander_Cylinder010-503a129e-8576-4074-a752-ea00e7edf090.json",
+		"Vikram_lander_Cylinder011-764c18c9-db37-4059-a88b-6c5c32301230.json",
+		"Vikram_lander_Cylinder012-5212b8c9-b6cc-436e-8a29-cac74119946c.json",
+		"Vikram_lander_Cylinder013-36d563d5-eb06-42dd-92a9-33d39afcd101.json",
+		"Vikram_lander_Cylinder014-dbdca26a-b88a-4429-8144-4fff642c5705.json",
+		"Vikram_lander_Cylinder015-0b59a1d9-6887-41f7-b616-d1e016d5af02.json",
+		"Vikram_lander_Cylinder019-f0f11577-fc2a-444c-8791-54ca95885efc.json",
+		"Vikram_lander_Cylinder020-c5f9f12b-e2d9-45fd-8abe-57c2bb2ca417.json",
+		"Vikram_lander_Cylinder021-d517e3ce-58fe-4193-b92e-5b2ce2f028d4.json",
+		"Vikram_lander_Cylinder022-fb053898-dd59-4ebb-8b76-9cc6ae69f598.json",
+		"Vikram_lander_Cylinder023-29dca424-223a-446b-a208-3fa512623b76.json",
+		"Vikram_lander_Cylinder024-01060081-19c9-49f2-b7f3-ece480dcf7ff.json",
+		"Vikram_lander_Cylinder025-9ec0b286-53ae-46fc-af15-772955da45f6.json",
+		"Vikram_lander_Cylinder026-bdc20a89-a3ae-4eb6-bfac-3b5413113c94.json",
+		"Vikram_lander_Door-4c9daa5d-12ab-4697-97c2-8a6215f96097.json",
+		"Vikram_lander_Door001-a0d7283d-6680-4847-97b4-af555f888f4f.json",
+		"Vikram_lander_leg-1f4ec9c4-46e0-4a28-9952-f1783b479af2.json",
+		"Vikram_lander_leg001-918d49d6-14c5-481b-b591-3ef131b880bd.json",
+		"Vikram_lander_leg002-951590ee-6c70-4269-880d-5885b3f72275.json",
+		"Vikram_lander_leg003-b564d1db-4bf7-4c35-90f2-4cd4102d11a0.json",
+		"Vikram_lander_leg006-b614dbf1-a709-44b1-ace7-1d0100d46e7e.json",
+		"Vikram_lander_leg007-b09f8c36-20bc-44c6-ad1b-e8e4144d4c39.json",
+		"Vikram_lander_leg008-f5121afc-ae15-4357-9c43-b2135fab6096.json",
+		"Vikram_lander_Object001-504db3e2-4ce5-4ac0-9ec8-8515930d6505.json",
+		"Vikram_lander_Object002-b0dadd87-1249-4932-8bb6-c4ba8e526962.json",
+		"Vikram_lander_Object003-3cef5987-eb8c-4d4f-a034-78e075d4454f.json",
+		"Vikram_lander_Plane001-803f9213-c9d2-47a7-af8b-2442b1c9f3ef.json",
+		"Vikram_lander_Solar_panel-089a8a4c-b0be-441e-bc51-4039899ffded.json",
+		"Vikram_lander_Solar_panel001-07cd7006-8a9f-4bf3-ae33-5e696580f3ab.json",
+		"Path2-6090a8c8-5abe-45a7-a05c-916677ae84c9.json",
+		"Cylinder-8e9c424a-545d-490b-a856-187a135e2fb5.json",
+		"Cylinder2-01566752-c5c0-4e3f-9efa-a0180cd9eef1.json",
+		"Box2-f16a21fd-2be8-469a-8d77-29e2c624e63a.json",
+		"LOW_POLY_ASTRONAUGHT-948ba33e-fa21-4664-9b9a-144458ada5bb.json",
+		"New Cube-f3505fea-2f39-4587-851e-bfa63841ef52.json",
+		"AUDITORIUM-44350a28-5f83-4b5d-b7e8-aad56afd7be7.json",
+		"Box-71a2382d-8c29-4666-b84a-cf1d0efe20c0.json",
+		"Cube-6dbc828d-0996-4d92-a3a0-3cb5a89c2763.json",
+		"Stairs-cc03b4ce-4045-44ae-a8dc-4376e18ba004.json",
+		"couch-0b458772-88c7-4414-8fea-6aaae013b85c.json",
+		"Box4-f0917741-2ffe-4629-908c-7bd9a2d6a2f6.json",
+		"Box6-fdbcc197-59a9-4940-9340-4544f4b90f1a.json",
+		"Box7-df5328b9-8b9d-4ecf-ade5-4efe116fd0d4.json",
+		"New Cube-ef072b98-351b-4f7d-bcf7-111326074346.json",
+		"OBSERVATORY-e1ffa980-3f62-44a9-a281-d74721b4e502.json",
+		"dome2-50117fd7-21bc-4f30-a6a1-d201a2a3dcf2.json",
+		"ladder2-604504ef-480d-4539-9cdf-0ab92c7836f3.json",
+		"ladder-368c853e-cc97-46d1-802c-6e4da55f5799.json",
+		"telescoperemodel_primitive0-195b2c3b-0b02-4b9d-bbf5-bb63f66f283c.json",
+		"telescoperemodel_primitive1-090dd54a-626d-4c47-9634-9c1afbd9ad54.json",
+		"telescoperemodel_primitive2-300c2dd1-c322-48e5-ac6d-abc89e9579a2.json",
+		"telescoperemodel_primitive3-c30d7de8-4daa-47b1-ac0c-e04e4f145538.json",
+		"telescoperemodel_primitive4-4bd09572-425e-4516-a023-a48639d247aa.json",
+		"telescoperemodel_primitive5-61a73c30-b892-46ed-a67d-85b07b417fcf.json",
+		"telescoperemodel_primitive6-8f32e8c8-7431-41a1-bde1-ea1ec90ada6e.json",
+		"telescoperemodel_primitive7-03ef2a7e-39e7-4e18-a4b1-d560d8370257.json",
+		"SM_FireExtinguisher_Wall_primitive0-1ad7a368-7c3f-4027-9f0d-d4aae4f0b675.json",
+		"SM_FireExtinguisher_Wall_primitive1-8a128670-f3f0-414d-80f3-e845505c7f0b.json",
+		"SM_Scaf_Roof-b74edb70-1cbb-4fcf-94b1-b4a5ad84c377.json",
+		"SM_Scaf_Wall_Middle_Top2-0c221669-6213-4925-a334-77b4d71ac685.json",
+		"SM_Electric_Box3-d6762fc1-131c-49b8-b6ae-e5c565c86bbc.json",
+		"Box-777b56c5-bd4c-435d-9e18-b14430f17706.json",
+		"SM_Scaf_Wall_Middle_Top3-ba6d5e00-ab14-4b8d-ad7e-98af3037cda3.json",
+		"SM_Rect_Sofa1_primitive0-71701394-483c-4a9e-bb1f-281c755bbe81.json",
+		"SM_Rect_Sofa1_primitive1-3cafb4f4-764f-4c1b-b747-a3c654a1bb6a.json",
+		"SM_Trash_Can-ea496239-03d4-46a6-97ea-474178bd710c.json",
+		"SM_Scaf_Wall_Middle_Top_Corner2-d3c36ca6-6f31-40a1-888b-bb6dc89dbea9.json",
+		"SM_Cube-626f3924-f146-4355-88e3-6b1b6156576a.json",
+		"SM_Mop-b1358045-65b2-4d51-b9f9-c8d59c318655.json",
+		"ladder3-bb9848ec-44a5-45c0-8cba-ba7b2d13ac2b.json",
+		"SM_Industry_Light3-a6fc6e82-5c53-40a0-a72d-774b3e478709.json",
+		"SM_FireExtinguisher-19bb9773-2aae-464c-a537-84fdb1f6f8ee.json",
+		"SCREENTERMINAL-d35a41b5-d7ac-4e08-8955-6e70f1e41cfe.json",
+		"SM_Scaf_Wall_Middle_Top_Corner1-4ece15e5-f02f-4b69-ad39-348acb3e7b96.json",
+		"L-dfbdeeac-98fc-4be8-8a11-086855e9671b.json",
+		"Path-a5011226-9ed4-4d2c-875e-817db660f96a.json",
+		"SM_Mop_Bucket-de741f48-9cc3-47f2-a65f-c95fad4c8a38.json",
+		"New Cube-5f068501-8751-4b0e-9877-ce794dfbe708.json",
+		"New Cube-e4ff61da-9ffc-4a7e-b591-b0990db9fbda.json",
+		"SOLAR SYSTEM-27a4641d-3b0a-4789-a2d0-435e9d4671cb.json",
+		"Box-aa28ecee-2e95-4f6e-8423-3dcc52a3a35b.json",
+		"Path-9304562b-2187-4b9d-a438-128c06b00fe8.json",
+		"Mars2-d279eed7-79e9-4214-8583-b0ff8917a5a4.json",
+		"saturn_primitive0-515ef8dc-ba54-40c5-bbdc-0ea80e24ba7c.json",
+		"saturn_primitive1-dd6dfa7a-0470-46a9-a044-8c9d9c65f082.json",
+		"saturn_primitive2-8bc859a5-baed-4b9e-b048-6626cc1cf8cf.json",
+		"saturn_primitive3-b6bfea0d-1e83-49bb-bbf3-74b2c6844827.json",
+		"earth_EARTH_0-a6cf3e16-a343-42d9-b5a1-658836d24df7.json",
+		"Mars3-8f65807f-8838-4f83-9c17-85a0cfc88358.json",
+		"Mars4-fb44fd35-d5c3-4c66-91a7-594173df46e7.json",
+		"Mars5-6375e927-a973-41cd-84d2-03e44e5f5d66.json",
+		"Mars6-a5298c6f-26df-425b-aff7-ae5de418c483.json",
+		"Mars9-f395683c-a51f-4231-95ca-2dcbc27da0c4.json",
+		"Mars7-4b538763-af27-4ac7-84cf-48d6f36bab89.json",
+		"Path2-7fc9ae45-5f11-4090-b44c-6ed6fd9b4a40.json",
+		"New Cube-604866ef-d606-4159-ac42-39db3a81951e.json",
+		"New Cube-64d8e905-4c55-4c0a-a855-f3df949ac3ee.json",
+		"New Cube-b616ca4d-8a6b-4f30-af2a-ad6ac112667f.json",
+		"cube 1-43c92c50-5e6a-496f-8dae-eb20ad512f4d.json",
+		"audi sign-5ba9a25f-f21c-438b-ac55-de3b9d54a6cf.json",
+		"Cube-a44b2f21-aebc-48aa-a4b9-9dd29f2705b3.json",
+		"Cylinder-7b9d65ac-06ea-499c-b9f5-18f434503888.json",
+		"obs-0d104533-881e-4753-ac21-aa1f867396c5.json",
+		"Cube-9eb61d55-945b-4671-9627-7845faf8865d.json",
+		"Cylinder-f77ff4c0-b435-4c55-829e-9b6694dc1a6a.json",
+		"planet sign-1caafa67-695c-4731-ac14-42fdd9cb24f3.json",
+		"Cube-80344643-c029-40c7-b3db-e600ece11184.json",
+		"Cylinder-d854a3c1-2eb2-4121-8563-b096b5174f14.json",
+		"sate sign-a8e488bc-6048-4ca2-9af3-d83fdd807109.json",
+		"Cube-f24ff174-87ec-426b-8ff0-42035cd93a1b.json",
+		"Cylinder-f625f42c-2e2c-40a1-942b-d24ec861daef.json",
+		"VIKRAM-be70f620-65fc-4c9d-b511-8d89637891d1.json",
+		"Cube-778dfce9-c710-45d3-bb0b-8f8e0068b5ee.json",
+		"Body_body_0-9ddcf792-ca58-40f6-a004-dab267ef1f40.json",
+		"Screen_screen_0-4e611d3c-855a-463f-99a1-284d1ef81464.json",
+		"CUROSITY-30193411-508e-46de-a187-3a47b2b490c0.json",
+		"Cube-476bd7a6-2242-41c1-851b-773b2e7d82c5.json",
+		"Body_body_0-c7133097-a134-4f93-9d23-4b4c64ba8052.json",
+		"Screen_screen_0-86c5e870-ea0c-4843-bcd2-2ed548966fe8.json",
+		"ISS-ef2f08c6-2c50-41b0-b4c8-b37c9b4aa9f7.json",
+		"Cube-decaa2fe-c440-4d93-8286-4d14fa764aaa.json",
+		"Body_body_0-757c848b-324c-4247-bfbc-54f6084b3103.json",
+		"Screen_screen_0-74eb0afa-762d-4737-9a1a-a4cad24ca7ae.json",
+		"TOPEXXX-3adf2faf-e470-46c3-89ca-efe795530ac9.json",
+		"Cube-c65879d9-ae62-4290-a3e2-f2961e0c3aa8.json",
+		"Body_body_0-4b83274b-3a2c-4302-b10c-fddfb7466bca.json",
+		"Screen_screen_0-02080dec-2b4c-4756-a853-c4b89d95f9b8.json",
+		"SUBLI-d4a85d8e-165e-4b53-a8c6-a5bae80358e6.json",
+		"Cube-cc023672-5e80-4654-8fe6-e140fb360893.json",
+		"Body_body_0-6a2dd9d9-df33-40aa-bc23-1ac8d4056f29.json",
+		"Screen_screen_0-88003c7f-6747-4cfa-8b60-e3f3bb311c67.json",
+		"AQUAAA-25e68311-8c96-4b11-85dc-a10c73cfbb7d.json",
+		"Cube-cda31d0d-0271-4d61-9dd2-fa840f215b61.json",
+		"Body_body_0-78581d0a-35df-478b-9936-8314ea79f4ff.json",
+		"Screen_screen_0-6b1142a0-7605-4f52-b18a-9d0c902477c6.json",
+		"TESSS-6ea057e7-615f-4024-bb31-6e232aca4ff1.json",
+		"Cube-55947ae1-ba06-40db-8ddb-eb53ff5d0eb5.json",
+		"Body_body_0-a76c0f74-d0c8-41c3-8d3e-05a912582a4a.json",
+		"Screen_screen_0-7a4600ba-434c-4581-b983-3a742f0a4c15.json"
+	],
+	"transformNodes": [
+		"player-078c2d5d-b690-4f72-bfb1-614c5eb90ad3.json",
+		"Brush-c44a154d-d5ca-4353-b226-fd950c9f8032.json",
+		"SkyAtmosphere-25a48899-8880-4c86-b1c6-bb7e1beb6fe1.json",
+		"DirectionalLight-20b38814-a78d-4cf1-9a82-cf99070a1ff4.json",
+		"DirectionalLight-f116a953-512a-4b3f-aac6-c0d6dbc0f8d3.json",
+		"ExponentialHeightFog-a7147012-63a1-4be0-8b11-6da176832264.json",
+		"GroupActor1-53af5fdd-eb11-46e7-a812-94baa490578f.json",
+		"BP_Statue_Abstract1-13e58631-db60-4477-96ff-a7166efa0e29.json",
+		"Lights-2b44d16f-e7f4-42df-b7df-c346eb64a4dc.json",
+		"SpotLight-3a455dcf-64f3-42b5-ba6e-8a0e867c203b.json",
+		"SpotLight-0fd25a60-2ab2-42e6-ba99-2e5bee8474c1.json",
+		"Meshes-0fb8710e-c7a8-40bb-94c9-054e1a31804d.json",
+		"FurnitureMesh-8f388c95-e628-43bd-9935-108f2d9106cd.json",
+		"SM_Statue_Abstract1-4ab1c087-e8e5-4e38-9f19-ea5ceccdf229.json",
+		"BP_Statue_Abstract2-72a4024f-1f24-4e1f-979d-b9e110f8a343.json",
+		"Lights-8a2c5510-1317-4ae4-a2fd-6476d35d0a05.json",
+		"SpotLight-9babefd9-c41c-425b-bfa7-dbfc53d9a707.json",
+		"SpotLight-d562480b-b5c4-4bea-bd54-96748d77922b.json",
+		"Meshes-e1171df4-60b6-400f-8cb4-ca01173efd69.json",
+		"FurnitureMesh-7a0fcf3d-54b5-4a35-86dd-cc95d2dd066c.json",
+		"SM_Statue_Abstract1-88b23bca-ca47-410a-a760-7594f5abff30.json",
+		"SM_Vending_Machine1-174bc2d5-5e4f-4b5f-a9c7-9d2ba117340d.json",
+		"DefaultPhysicsVolume0-0234ec54-209d-4b31-ad43-d68465b66b71.json",
+		"AbstractNavData-Default-7d872589-9ded-460c-9153-584239b10399.json",
+		"CombinedTransformGizmoActor0-dbec74dc-1196-4599-94ba-431ebf75a169.json",
+		"GizmoArrowComponent_0-6399742e-c43c-486b-add4-1d32e9442cf1.json",
+		"GizmoArrowComponent_1-dc27bcd3-a4c1-4ea4-ad02-159723013151.json",
+		"GizmoArrowComponent_2-c024d96a-2937-4004-82ce-de439763f6cf.json",
+		"GizmoRectangleComponent_0-0facb0b6-1701-4ef0-8c00-8115327e4d34.json",
+		"GizmoRectangleComponent_1-8e8c4426-144a-42dc-8501-b4e98ac23563.json",
+		"GizmoRectangleComponent_2-d5b3c9f5-0a08-436e-8e18-284c23d1baf4.json",
+		"GizmoCircleComponent_0-45e7c3f0-98ec-4d57-8ab4-a251ea3b65d7.json",
+		"GizmoCircleComponent_1-9ea0ba00-bc65-4e44-806d-de7da2935991.json",
+		"GizmoCircleComponent_2-ba9c99f1-71b4-43a4-9449-4a4acdd51324.json",
+		"GizmoCircleComponent_3-8d2b61c5-c755-4839-a2a5-13b1d2dce935.json",
+		"GizmoBoxComponent_0-5ad86061-6eaf-4230-8201-3d9da1277759.json",
+		"GizmoRectangleComponent_3-5caa1b23-4fa9-4ab7-b565-f9c85fd2514b.json",
+		"GizmoRectangleComponent_4-7b02c483-e3a3-42f1-89a1-77dc0db5ae39.json",
+		"GizmoRectangleComponent_5-f2c72eca-33c1-4451-9d70-42532bd55f2f.json",
+		"GizmoRectangleComponent_6-a3a0ab6f-4f14-4c6c-a626-d5ef1d9fbbfa.json",
+		"GizmoRectangleComponent_7-2ac36e6a-35b0-4bd7-aaa9-3c1366082f7d.json",
+		"GizmoRectangleComponent_8-ee3377b9-5b56-4090-80b7-d46d3511b13a.json",
+		"ROVER-3e2136e1-7616-4878-8380-2e0b520d096e.json",
+		"International_Space_Station_Module_007-156b3071-2c74-4011-afd4-7a19c5b323fc.json",
+		"International_Space_Station_Module_009-1a636e79-7155-4fc3-a587-f7c88435a67f.json",
+		"International_Space_Station_Module_010-f7b654ab-e528-4d69-be5c-44f0628e4ed0.json",
+		"International_Space_Station_Radiator_001-12830132-7434-4abf-a2e3-ad9f8a49bf77.json",
+		"International_Space_Station_Radiator_002-88ef052c-0f96-4f71-9317-c77698ca78cb.json",
+		"International_Space_Station_Radiator_003-af014a65-9304-4e32-8531-8558a3513842.json",
+		"International_Space_Station_Radiator_004-a3084e5e-f29d-445d-ac85-ea0afb58b161.json",
+		"International_Space_Station_Radiator_005-8bbe2bf3-44e2-45b2-b939-5c233b52f6e5.json",
+		"International_Space_Station_Radiator_006-1ff5c3aa-85f1-4027-988a-dfd0939e7737.json",
+		"International_Space_Station_Solar_Array_001-aaab2117-e6a3-42e3-8a6c-9814867744df.json",
+		"International_Space_Station_Solar_Array_002-eb197a02-b61d-4859-b3be-0983b708e385.json",
+		"International_Space_Station_Solar_Array_003-7632b2a2-dd9b-440f-ad75-0a824eaaf30c.json",
+		"International_Space_Station_Solar_Array_004-c8c0d8ff-6cc4-45bb-99ae-b311604839b2.json",
+		"International_Space_Station_Solar_Array_005-44e5981a-4729-42e5-a88c-8ab10c70e60c.json",
+		"International_Space_Station_Solar_Array_006-40d10aea-29d8-40d9-a0e2-bc9f6c4b40f7.json",
+		"International_Space_Station_Solar_Array_007-10aee46d-05f0-470b-bc63-13359a22e665.json",
+		"International_Space_Station_Solar_Array_008-f399ac5f-79d9-4b89-9b7c-7fb7f7ece7c4.json",
+		"International_Space_Station_Strut_Inner-dc4121a0-3cd3-4b71-88af-658cad0a9c3e.json",
+		"International_Space_Station_Strut_Outer-67115cdd-2537-449c-8532-3b33432a7c9f.json",
+		"CombinedTransformGizmoActor0-e341f571-f754-4194-948f-b41496a2ee5f.json",
+		"GizmoArrowComponent_0-ba03a61c-8207-458e-863e-a0d4006ac49b.json",
+		"GizmoArrowComponent_1-64b4f321-3fdb-4298-97bc-a3a2fa9a5e1d.json",
+		"GizmoArrowComponent_2-da833059-e838-47a6-9615-61703e8c8148.json",
+		"GizmoRectangleComponent_0-90d728a6-b720-4063-86fc-d16912012c46.json",
+		"GizmoRectangleComponent_1-a90a7277-53ca-41f8-b931-c75369a7dbaf.json",
+		"GizmoRectangleComponent_2-f86ce2d8-882a-4618-a8a5-3b766db8d662.json",
+		"GizmoCircleComponent_0-75602103-95c1-45c3-8720-f0e6b321193f.json",
+		"GizmoCircleComponent_1-efba63ca-f90e-434a-84e2-eb1cd817806b.json",
+		"GizmoCircleComponent_2-e961e408-53bc-4aae-b1bd-c524397bc8fd.json",
+		"GizmoCircleComponent_3-427eaedd-64b1-4a41-a812-0adda6284e3f.json",
+		"GizmoBoxComponent_0-3c30c39d-c484-4da8-bc05-ffcec33c3051.json",
+		"GizmoRectangleComponent_3-08d6464d-c570-4a36-bf3e-61c34fc00d7a.json",
+		"GizmoRectangleComponent_4-97a3cc70-fac5-492c-a508-c271608a0915.json",
+		"GizmoRectangleComponent_5-f0355eb5-f8ce-49eb-8541-8c469b9d7acf.json",
+		"GizmoRectangleComponent_6-758dc5fa-dfca-4e36-abb2-3844f676bcef.json",
+		"GizmoRectangleComponent_7-7d3470bd-708d-4988-85de-082145b8a0b8.json",
+		"GizmoRectangleComponent_8-b2306558-81ff-4d7c-b585-356e7a4935a3.json",
+		"Brush-385f5f06-f1da-4b8d-a37f-f5e0a4f4d410.json",
+		"DefaultPhysicsVolume0-7187aded-d84a-46ee-a93e-520d16dc2342.json",
+		"telescoperemodel-75da20aa-4d5d-4477-ab3d-ee5beccd78bc.json",
+		"SM_FireExtinguisher_Wall-a3e4fe58-f9ba-4de9-b00e-75123e8519ca.json",
+		"SM_Rect_Sofa1-da40e9ca-a5af-4eac-b688-d2c66232f368.json",
+		"Brush-80d71c52-2862-4fb0-b247-ac28353b5c1c.json",
+		"SkyAtmosphere-9a40cf89-076f-4afa-a79b-e54689695734.json",
+		"DirectionalLight-17f0d812-acfe-488a-a069-228d37247d58.json",
+		"DirectionalLight-fa4c3fb9-9e25-44db-86a5-73492c1cc623.json",
+		"ExponentialHeightFog-3d87a281-7a5c-4ba3-b707-9029c35e2d16.json",
+		"saturn-7e301014-81f7-431b-ad3a-c1ee8dbf6ccf.json",
+		"Sketchfab_model-4789167f-2a05-4ce0-b514-38aad79f614f.json",
+		"56fb5d81d5a845599d5e60534f293915_fbx-64a80eec-cc2e-41a1-81c3-10ab5e63136c.json",
+		"Object_2-43e427bb-af73-4a28-9384-f0753ce04980.json",
+		"RootNode1-02c4180e-7fe2-4c44-86d2-c64d60fd27c5.json",
+		"Saturn-Rings-06c798b0-8dd7-466d-8b15-170f1f801af3.json",
+		"Saturn-Rings_Material-#63_0-cf0cb7fc-6918-439b-ad04-8caf723f67c5.json",
+		"Saturn-12130da6-af77-4972-a044-8288ae786be7.json",
+		"Saturn_Material-#50_0-1891d2c4-a92a-4010-a86a-fa9c5ad35ff7.json",
+		"Saturn-Clouds-fbb1d6ea-c0d0-49d5-9d08-c6955d67f660.json",
+		"Saturn-Clouds_Material-#62_0-d37903d5-b2a1-429c-b6a1-55cc7230ea07.json",
+		"Sphere-Mimas-e5d0f0a2-5323-4a46-86d4-2aa6d59ed67a.json",
+		"Sphere-Mimas_Material-#64_0-8dbb9440-5e08-4344-b233-ef81745a62ad.json",
+		"Sphere-Enceladus-f32e3a31-631d-48af-929d-078394b48410.json",
+		"Sphere-Enceladus_Material-#64_0-c6dfbcad-b27c-4c19-b85e-bf7dca2b64b1.json",
+		"Sphere-Dione-d1fc4ead-c470-4245-89a3-0689a2b8d243.json",
+		"Sphere-Dione_Material-#64_0-caf6eef1-0962-4627-91a2-959f8209a419.json",
+		"Sphere-Rhea-4b941c47-e944-4b04-9d16-fc828972fb52.json",
+		"Sphere-Rhea_Material-#64_0-e4a93f64-1bfb-4132-b894-e5f482a99d4c.json",
+		"Sphere-Tethys-15da6d69-946b-40b1-b40c-e63997d89232.json",
+		"Sphere-Tethys_Material-#64_0-c2755cd1-f7ae-4eb1-8690-b75da5809278.json",
+		"saturn-e44f3e80-680e-40c8-9320-a3a6e3d1f9a2.json",
+		"DefaultPhysicsVolume0-02ed3c87-ca45-4286-972d-953a638af2dd.json",
+		"AbstractNavData-Default-03d23a29-639c-41d7-8e45-d365ad081ce7.json",
+		"Sketchfab_model-55f703ec-31f1-4abe-97a2-3f3300b7872f.json",
+		"20d2007dc3084289958615381050d1e7.fbx-a706193e-3da7-4dc8-87f4-0037dedd1c4c.json",
+		"RootNode-b6002c78-e486-4d87-bf1d-e4ae513c768f.json",
+		"Info_panel-d46f5a3b-af1f-48dd-a466-e5efa03d45ca.json",
+		"Body-c8a5622c-63d6-43b9-a85e-2edef0af8d6f.json",
+		"Screen-b4cd7ad2-2aeb-4b8e-b825-5d13347d7862.json",
+		"Sketchfab_model-72944d6a-db8e-4ec4-8218-75fb42df79bf.json",
+		"20d2007dc3084289958615381050d1e7.fbx-0f8a9366-29da-4d73-a6f1-1f82f2e57a88.json",
+		"RootNode-8877d588-94ce-4282-8901-935cb5d9669d.json",
+		"Info_panel-7e712839-5ffc-46a2-aab6-477ef2ad5b3b.json",
+		"Body-8b8228d9-e23d-41b6-8da0-a1643065fecc.json",
+		"Screen-6e24ffc4-7617-4c6c-a496-a3c51930b4b4.json",
+		"Sketchfab_model-646d5594-6c7d-499a-8d6b-9e3287c5cfd4.json",
+		"20d2007dc3084289958615381050d1e7.fbx-0edf74d5-615d-412e-8902-1ef6c2ab8b29.json",
+		"RootNode-9157cbf8-fa48-4781-994b-68936dc5573e.json",
+		"Info_panel-f6c8589e-2e4c-49fc-a98d-2a09d5a0371b.json",
+		"Body-295490d9-ce90-48bd-9a4e-44e0abb0bb41.json",
+		"Screen-61a3dffd-505a-4a3d-857c-128d32a0d71a.json",
+		"Sketchfab_model-2c87ac76-3d54-46dd-b8cb-957872acf03f.json",
+		"20d2007dc3084289958615381050d1e7.fbx-23029b38-1b56-4787-b496-c56bf795ca3b.json",
+		"RootNode-9c82e065-8e15-44c9-ab7c-afc0579d5f6d.json",
+		"Info_panel-1a346622-9c9e-4a52-bdd3-caa0cd3c710c.json",
+		"Body-b361b23e-c628-40a6-af5a-58a2d843b543.json",
+		"Screen-1f8ab838-7aae-4c42-9e2f-4cdf6383fcf8.json",
+		"Sketchfab_model-08cd07a2-1253-411a-b8eb-1e26829a35e9.json",
+		"20d2007dc3084289958615381050d1e7.fbx-f0763b82-c67c-4376-9b46-d74256bb9610.json",
+		"RootNode-f39fc19b-36e0-4a2d-ba7d-ee4f74405f8f.json",
+		"Info_panel-692bcf3b-0808-4fc8-887c-2f2366476e5e.json",
+		"Body-82c25679-3a12-4414-8572-0a5870430df0.json",
+		"Screen-2827b9b2-fc9f-4638-b233-96f2f202184f.json",
+		"Sketchfab_model-9e12bcee-94d3-41e6-8bbe-ed2c2362428e.json",
+		"20d2007dc3084289958615381050d1e7.fbx-25c05f5f-8946-4305-b243-84879ef84029.json",
+		"RootNode-a25f588e-4e86-4641-8b86-3d8b2e13fcd5.json",
+		"Info_panel-0028dc3e-2589-4647-84e1-565e1222b8f9.json",
+		"Body-b893c0c3-d19b-44b2-8c92-1f7bc395394d.json",
+		"Screen-c51ddb2e-1374-48be-ab55-4b76e3a65baf.json",
+		"Sketchfab_model-3d66d769-b78b-4427-837e-a5c11588a1d5.json",
+		"20d2007dc3084289958615381050d1e7.fbx-644504be-291b-45a2-97ba-f73beb7cce66.json",
+		"RootNode-d7b5145f-88fa-4589-bd9d-5e3f16c38615.json",
+		"Info_panel-4f502328-6df3-4f06-b88e-5906dc0b57ff.json",
+		"Body-107f53d5-ba9d-4d99-9f9f-dc7a62941102.json",
+		"Screen-9a1e87aa-d9ce-43cd-8fa6-3399e6e3ff8f.json"
+	],
+	"particleSystems": [],
+	"lights": [
+		{
+			"json": "sun-1ec7dcec-2a97-4bdc-9883-014f10a29bca.json",
+			"shadowGenerator": "sun-1ec7dcec-2a97-4bdc-9883-014f10a29bca.json"
+		},
+		{
+			"json": "SpotLight-SpotLight.json"
+		},
+		{
+			"json": "SpotLight-SpotLight.json"
+		},
+		{
+			"json": "DirectionalLight-DirectionalLight.json"
+		},
+		{
+			"json": "DirectionalLight-DirectionalLight.json"
+		},
+		{
+			"json": "DirectionalLight-DirectionalLight.json"
+		},
+		{
+			"json": "DirectionalLight-DirectionalLight.json"
+		}
+	],
+	"sounds": [],
+	"morphTargetManagers": [],
+	"reflectionProbes": [],
+	"scene": {
+		"autoClear": true,
+		"clearColor": [
+			0,
+			0,
+			0,
+			1
+		],
+		"ambientColor": [
+			1,
+			1,
+			1
+		],
+		"gravity": [
+			0,
+			-9.8,
+			0
+		],
+		"collisionsEnabled": true,
+		"fogEnabled": true,
+		"physicsEnabled": true,
+		"physicsGravity": [
+			0,
+			-981,
+			0
+		],
+		"physicsEngine": "CannonJSPlugin",
+		"imageProcessingConfiguration": {
+			"tags": null,
+			"colorCurves": {
+				"tags": null,
+				"_globalHue": 200,
+				"_globalDensity": 80,
+				"_globalSaturation": 80,
+				"_globalExposure": 0,
+				"_highlightsHue": 20,
+				"_highlightsDensity": 80,
+				"_highlightsSaturation": -80,
+				"_highlightsExposure": 0,
+				"_midtonesHue": 30,
+				"_midtonesDensity": 0,
+				"_midtonesSaturation": 0,
+				"_midtonesExposure": 0
+			},
+			"_colorCurvesEnabled": false,
+			"_colorGradingEnabled": false,
+			"_colorGradingWithGreenDepth": true,
+			"_colorGradingBGR": true,
+			"_exposure": 1,
+			"_toneMappingEnabled": false,
+			"_contrast": 1,
+			"vignetteStretch": 0,
+			"vignetteCenterX": 0,
+			"vignetteCenterY": 0,
+			"vignetteWeight": 1.5,
+			"vignetteColor": [
+				0,
+				0,
+				0,
+				0
+			],
+			"vignetteCameraFov": 0.5,
+			"_vignetteBlendMode": 0,
+			"_vignetteEnabled": false,
+			"_ditheringEnabled": false,
+			"_ditheringIntensity": 0.00392156862745098,
+			"_skipFinalColorClamp": false,
+			"_applyByPostProcess": true,
+			"_isEnabled": true
+		},
+		"animations": [],
+		"postProcessesEnabled": true,
+		"metadata": {
+			"script": {
+				"name": "None"
+			},
+			"postProcesses": {
+				"ssao": {
+					"enabled": true,
+					"json": {
+						"tags": null,
+						"totalStrength": 1.5,
+						"maxZ": 10000,
+						"minZAspect": 0.2,
+						"epsilon": 0.02,
+						"samples": 32,
+						"textureSamples": 1,
+						"_forceGeometryBuffer": false,
+						"_ratio": {
+							"ssaoRatio": 0.5,
+							"blurRatio": 0.5
+						},
+						"_textureType": 0,
+						"radius": 50,
+						"base": 0,
+						"bypassBlur": false,
+						"expensiveBlur": true,
+						"bilateralSamples": 16,
+						"bilateralSoften": 0,
+						"bilateralTolerance": 0,
+						"_name": "ssao",
+						"customType": "SSAO2RenderingPipeline"
+					}
+				},
+				"ssr": {
+					"enabled": false,
+					"json": {
+						"tags": null,
+						"samples": 1,
+						"maxDistance": 1000,
+						"step": 1,
+						"thickness": 0.5,
+						"strength": 1,
+						"reflectionSpecularFalloffExponent": 1,
+						"maxSteps": 1000,
+						"roughnessFactor": 0.2,
+						"selfCollisionNumSkip": 1,
+						"reflectivityThreshold": 0.04,
+						"_ssrDownsample": 0,
+						"ssrDownsample": 0,
+						"blurDispersionStrength": 0.03,
+						"blurDownsample": 0,
+						"enableSmoothReflections": false,
+						"environmentTextureIsProbe": false,
+						"attenuateScreenBorders": true,
+						"attenuateIntersectionDistance": true,
+						"attenuateIntersectionIterations": true,
+						"attenuateFacingCamera": false,
+						"attenuateBackfaceReflection": false,
+						"clipToFrustum": true,
+						"enableAutomaticThicknessComputation": false,
+						"backfaceDepthTextureDownsample": 0,
+						"backfaceForceDepthWriteTransparentMeshes": true,
+						"isEnabled": true,
+						"inputTextureColorIsInGammaSpace": true,
+						"generateOutputInGammaSpace": true,
+						"debug": false,
+						"_name": "ssr",
+						"customType": "SSRRenderingPipeline"
+					}
+				},
+				"screenSpaceReflections": {
+					"enabled": false
+				},
+				"default": {
+					"enabled": true,
+					"json": {
+						"serializedFromEditor": true,
+						"imageProcessing": {
+							"enabled": true,
+							"exposure": 1,
+							"contrast": 1,
+							"fromLinearSpace": true,
+							"toneMappingEnabled": false,
+							"colorCurvesEnabled": false,
+							"colorCurves": {
+								"tags": null,
+								"_globalHue": 200,
+								"_globalDensity": 80,
+								"_globalSaturation": 80,
+								"_globalExposure": 0,
+								"_highlightsHue": 20,
+								"_highlightsDensity": 80,
+								"_highlightsSaturation": -80,
+								"_highlightsExposure": 0,
+								"_midtonesHue": 30,
+								"_midtonesDensity": 0,
+								"_midtonesSaturation": 0,
+								"_midtonesExposure": 0
+							},
+							"colorGradingEnabled": false
+						},
+						"bloom": {
+							"enabled": false,
+							"bloomScale": 1,
+							"bloomWeight": 1,
+							"bloomKernel": 512,
+							"bloomThreshold": 0.8
+						},
+						"sharpen": {
+							"enabled": true,
+							"edgeAmount": 0.3,
+							"colorAmount": 1
+						},
+						"depthOfField": {
+							"enabled": false,
+							"fStop": 1.4,
+							"focalLength": 150,
+							"focusDistance": 2000,
+							"depthOfFieldBlurLevel": 0
+						},
+						"chromaticAberration": {
+							"enabled": false,
+							"aberrationAmount": 30,
+							"radialIntensity": 0,
+							"direction": [
+								0.707,
+								0.707
+							],
+							"centerPosition": [
+								0.5,
+								0.5
+							]
+						},
+						"grain": {
+							"enabled": false,
+							"animated": false,
+							"intensity": 30
+						},
+						"glowLayer": {
+							"enabled": false
+						},
+						"vignette": {
+							"enabled": false,
+							"vignetteWeight": 1.5,
+							"vignetteBlendMode": 0,
+							"vignetteColor": [
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						"fxaa": {
+							"enabled": true
+						}
+					}
+				},
+				"motionBlur": {
+					"enabled": false
+				}
+			}
+		},
+		"environmentTexture": {
+			"tags": null,
+			"url": "scene/night.env",
+			"boundingBoxPosition": [
+				0,
+				0,
+				0
+			],
+			"rotationY": 0,
+			"files": [],
+			"textureMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"name": "textures/night.env",
+			"metadata": {
+				"editorName": "night.env",
+				"editorId": "6e526de2-4a56-464c-b355-bbb92921a811"
+			},
+			"hasAlpha": false,
+			"getAlphaFromRGB": false,
+			"level": 1,
+			"coordinatesIndex": 0,
+			"optimizeUVAllocation": true,
+			"coordinatesMode": 3,
+			"wrapU": 0,
+			"wrapV": 0,
+			"wrapR": 1,
+			"anisotropicFilteringLevel": 1,
+			"isCube": true,
+			"is3D": false,
+			"is2DArray": false,
+			"gammaSpace": false,
+			"invertZ": false,
+			"lodLevelInAlpha": false,
+			"lodGenerationOffset": 0,
+			"lodGenerationScale": 0.8,
+			"linearSpecularLOD": false,
+			"isRenderTarget": false,
+			"animations": []
+		},
+		"environmentIntensity": 1,
+		"shadowGenerators": [
+			{
+				"className": "CascadedShadowGenerator",
+				"lightId": "1ec7dcec-2a97-4bdc-9883-014f10a29bca",
+				"id": "1ec7dcec-2a97-4bdc-9883-014f10a29bca",
+				"mapSize": 1024,
+				"forceBackFacesOnly": false,
+				"darkness": 0,
+				"transparencyShadow": false,
+				"frustumEdgeFalloff": 0.09999999999999999,
+				"bias": 0.005,
+				"normalBias": 0.005,
+				"usePercentageCloserFiltering": true,
+				"useContactHardeningShadow": false,
+				"contactHardeningLightSizeUVRatio": 0.1,
+				"filteringQuality": 0,
+				"useExponentialShadowMap": false,
+				"useBlurExponentialShadowMap": false,
+				"useCloseExponentialShadowMap": false,
+				"useBlurCloseExponentialShadowMap": false,
+				"usePoissonSampling": false,
+				"depthScale": 50,
+				"blurBoxOffset": 1,
+				"blurKernel": 1,
+				"blurScale": 2,
+				"useKernelBlur": false,
+				"renderList": [
+					"f57b49d3-e402-417c-9f93-0e1271df67a5"
+				],
+				"numCascades": 4,
+				"debug": false,
+				"stabilizeCascades": true,
+				"lambda": 0.99,
+				"cascadeBlendPercentage": 0.2,
+				"depthClamp": true,
+				"autoCalcDepthBounds": false,
+				"shadowMaxZ": 10000,
+				"penumbraDarkness": 1,
+				"freezeShadowCastersBoundingInfo": false,
+				"minDistance": 0,
+				"maxDistance": 1
+			}
+		],
+		"sounds": []
+	},
+	"assets": {
+		"meshes": [],
+		"graphs": [],
+		"prefabs": []
+	},
+	"cinematics": [],
+	"project": {
+		"camera": {
+			"tags": null,
+			"ellipsoid": [
+				0.5,
+				1,
+				0.5
+			],
+			"ellipsoidOffset": [
+				0,
+				0,
+				0
+			],
+			"checkCollisions": false,
+			"applyGravity": false,
+			"rotation": [
+				0.23841171444127512,
+				-5.861597269376106,
+				0
+			],
+			"speed": 40,
+			"position": [
+				763.674260431025,
+				46.592918628539735,
+				317.0746278340097
+			],
+			"upVector": [
+				0,
+				1,
+				0
+			],
+			"fov": 0.8,
+			"projectionPlaneTilt": 0,
+			"minZ": 1,
+			"maxZ": 10000,
+			"inertia": 0.5,
+			"mode": 0,
+			"layerMask": 268435455,
+			"fovMode": 0,
+			"cameraRigMode": 0,
+			"name": "Editor Camera",
+			"id": "2bc577c2-0c1a-428e-91cc-100d81f7e0de",
+			"state": "",
+			"metadata": {
+				"script": {
+					"name": "None"
+				},
+				"detached": false
+			},
+			"uniqueId": 8,
+			"type": "UniversalCamera",
+			"inputsmgr": {
+				"FreeCameraKeyboardMoveInput": {
+					"tags": null,
+					"keysUp": [
+						87
+					],
+					"keysUpward": [
+						33
+					],
+					"keysDown": [
+						83
+					],
+					"keysDownward": [
+						34
+					],
+					"keysLeft": [
+						65
+					],
+					"keysRight": [
+						68
+					],
+					"rotationSpeed": 0.5,
+					"keysRotateLeft": [],
+					"keysRotateRight": [],
+					"keysRotateUp": [],
+					"keysRotateDown": []
+				},
+				"FreeCameraMouseInput": {
+					"tags": null,
+					"buttons": [
+						0,
+						1,
+						2
+					],
+					"angularSensibility": 500
+				}
+			},
+			"animations": [],
+			"ranges": [],
+			"isEnabled": true
+		}
+	},
+	"postProcesses": {
+		"custom": [],
+		"ssao": {
+			"enabled": true,
+			"json": {
+				"tags": null,
+				"totalStrength": 1.5,
+				"maxZ": 10000,
+				"minZAspect": 0.2,
+				"epsilon": 0.02,
+				"samples": 32,
+				"textureSamples": 1,
+				"_forceGeometryBuffer": false,
+				"_ratio": {
+					"ssaoRatio": 0.5,
+					"blurRatio": 0.5
+				},
+				"_textureType": 0,
+				"radius": 50,
+				"base": 0,
+				"bypassBlur": false,
+				"expensiveBlur": true,
+				"bilateralSamples": 16,
+				"bilateralSoften": 0,
+				"bilateralTolerance": 0,
+				"_name": "ssao",
+				"customType": "SSAO2RenderingPipeline"
+			}
+		},
+		"ssr": {
+			"enabled": false,
+			"json": {
+				"tags": null,
+				"samples": 1,
+				"maxDistance": 1000,
+				"step": 1,
+				"thickness": 0.5,
+				"strength": 1,
+				"reflectionSpecularFalloffExponent": 1,
+				"maxSteps": 1000,
+				"roughnessFactor": 0.2,
+				"selfCollisionNumSkip": 1,
+				"reflectivityThreshold": 0.04,
+				"_ssrDownsample": 0,
+				"ssrDownsample": 0,
+				"blurDispersionStrength": 0.03,
+				"blurDownsample": 0,
+				"enableSmoothReflections": false,
+				"environmentTextureIsProbe": false,
+				"attenuateScreenBorders": true,
+				"attenuateIntersectionDistance": true,
+				"attenuateIntersectionIterations": true,
+				"attenuateFacingCamera": false,
+				"attenuateBackfaceReflection": false,
+				"clipToFrustum": true,
+				"enableAutomaticThicknessComputation": false,
+				"backfaceDepthTextureDownsample": 0,
+				"backfaceForceDepthWriteTransparentMeshes": true,
+				"isEnabled": true,
+				"inputTextureColorIsInGammaSpace": true,
+				"generateOutputInGammaSpace": true,
+				"debug": false,
+				"_name": "ssr",
+				"customType": "SSRRenderingPipeline"
+			}
+		},
+		"screenSpaceReflections": {
+			"enabled": false
+		},
+		"default": {
+			"enabled": true,
+			"json": {
+				"serializedFromEditor": true,
+				"imageProcessing": {
+					"enabled": true,
+					"exposure": 1,
+					"contrast": 1,
+					"fromLinearSpace": true,
+					"toneMappingEnabled": false,
+					"colorCurvesEnabled": false,
+					"colorCurves": {
+						"tags": null,
+						"_globalHue": 200,
+						"_globalDensity": 80,
+						"_globalSaturation": 80,
+						"_globalExposure": 0,
+						"_highlightsHue": 20,
+						"_highlightsDensity": 80,
+						"_highlightsSaturation": -80,
+						"_highlightsExposure": 0,
+						"_midtonesHue": 30,
+						"_midtonesDensity": 0,
+						"_midtonesSaturation": 0,
+						"_midtonesExposure": 0
+					},
+					"colorGradingEnabled": false
+				},
+				"bloom": {
+					"enabled": false,
+					"bloomScale": 1,
+					"bloomWeight": 1,
+					"bloomKernel": 512,
+					"bloomThreshold": 0.8
+				},
+				"sharpen": {
+					"enabled": true,
+					"edgeAmount": 0.3,
+					"colorAmount": 1
+				},
+				"depthOfField": {
+					"enabled": false,
+					"fStop": 1.4,
+					"focalLength": 150,
+					"focusDistance": 2000,
+					"depthOfFieldBlurLevel": 0
+				},
+				"chromaticAberration": {
+					"enabled": false,
+					"aberrationAmount": 30,
+					"radialIntensity": 0,
+					"direction": [
+						0.707,
+						0.707
+					],
+					"centerPosition": [
+						0.5,
+						0.5
+					]
+				},
+				"grain": {
+					"enabled": false,
+					"animated": false,
+					"intensity": 30
+				},
+				"glowLayer": {
+					"enabled": false
+				},
+				"vignette": {
+					"enabled": false,
+					"vignetteWeight": 1.5,
+					"vignetteBlendMode": 0,
+					"vignetteColor": [
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				"fxaa": {
+					"enabled": true
+				}
+			}
+		},
+		"motionBlur": {
+			"enabled": false
+		}
+	},
+	"physicsEnabled": true
+}

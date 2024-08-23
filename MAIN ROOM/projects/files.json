@@ -1,0 +1,29 @@
+{
+	"char/1 (Base Color).png": {
+		"autoLod": {
+			"disabled": false
+		}
+	},
+	"textures/1.The Submillimeter Wave Astronomy Satellite (SWAS), a NASA space mission, was dedicated to exploring the universe in the submillimeter wavelength range, a relatively uncharted territory in astron (2).png": {
+		"autoLod": {
+			"disabled": false
+		},
+		"ktxCompression": {
+			"astc": {
+				"quality": "automatic"
+			},
+			"dxt": {
+				"type": "automatic"
+			},
+			"pvrtc": {
+				"quality": "automatic"
+			},
+			"etc1": {
+				"quality": "automatic"
+			},
+			"etc2": {
+				"quality": "automatic"
+			}
+		}
+	}
+}
