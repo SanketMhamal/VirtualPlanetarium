@@ -1,0 +1,160 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Object_2",
+			"id": "1878aaae-5490-4312-9bae-a1dbfe8a1900",
+			"uniqueId": 1773,
+			"type": "Mesh",
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "7bb10ffe-a8a4-454b-942b-cb4cdc2cb1e1",
+			"isUnIndexed": false,
+			"geometryId": "328c6bd7-9c2b-4168-923d-3076fffb5410",
+			"subMeshes": null,
+			"materialId": "6fdf8191-0d05-44f6-82dc-66684c322024",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 2.220446049250313e-16,
+					"6": 1,
+					"7": 0,
+					"8": 0,
+					"9": -1,
+					"10": 2.220446049250313e-16,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Object_2",
+					"name": "Object_2",
+					"sceneFileName": "darth/darth_vader.glb"
+				},
+				"isPickable": false,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/328c6bd7-9c2b-4168-923d-3076fffb5410.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				0.15230600535869598,
+				0.19474700093269348,
+				1.8489609956741333
+			],
+			"boundingBoxMinimum": [
+				-0.16103500127792358,
+				-0.13202700018882751,
+				1.4712539911270142
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 11313,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 11313,
+					"stride": 3,
+					"offset": 45252,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 7542,
+					"stride": 2,
+					"offset": 90504,
+					"dataType": 1
+				},
+				"tangetsAttrDesc": {
+					"count": 15084,
+					"stride": 3,
+					"offset": 120672,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 17457,
+					"stride": 1,
+					"offset": 181008,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 250836,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"tangents": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

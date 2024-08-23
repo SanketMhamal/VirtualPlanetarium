@@ -1,0 +1,24 @@
+{
+	"CHAR/1 (Base Color).png": {
+		"autoLod": {
+			"disabled": false
+		},
+		"ktxCompression": {
+			"astc": {
+				"quality": "automatic"
+			},
+			"dxt": {
+				"type": "automatic"
+			},
+			"pvrtc": {
+				"quality": "automatic"
+			},
+			"etc1": {
+				"quality": "automatic"
+			},
+			"etc2": {
+				"quality": "automatic"
+			}
+		}
+	}
+}

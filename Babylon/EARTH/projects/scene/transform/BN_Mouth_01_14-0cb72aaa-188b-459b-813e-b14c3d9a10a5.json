@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		1.0648841857910156,
+		0.7174572944641113,
+		0.000022649765014648438
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.7762506008148193,
+		0.6304243206977844,
+		0.00034416679409332573,
+		-0.00034521144698373973
+	],
+	"scaling": [
+		1.0000008344650269,
+		0.9999991655349731,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "BN_Mouth_01_14",
+	"id": "0cb72aaa-188b-459b-813e-b14c3d9a10a5",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 1861,
+	"parentId": "75e94aa6-de54-482f-a190-2232a0171ba3",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

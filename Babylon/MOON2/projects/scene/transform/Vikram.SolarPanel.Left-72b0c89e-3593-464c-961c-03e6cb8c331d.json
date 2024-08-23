@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		0.8764603734016418,
+		1.6977213621139526,
+		-0.158369779586792
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-1.234724114135494e-15,
+		1.979853806167869e-8,
+		0.14735569438666016,
+		0.9890835637746825
+	],
+	"scaling": [
+		0.9999999280305105,
+		0.9999999280305097,
+		1.0000000000000007
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Vikram.SolarPanel.Left",
+	"id": "72b0c89e-3593-464c-961c-03e6cb8c331d",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 584,
+	"parentId": "8ec77214-f9e4-4165-a4b6-e4e79e99e53b",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

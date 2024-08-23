@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		2.2951669692993164,
+		0.44922828674316406,
+		-0.4057680368423462
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.0210417490452528,
+		0.02952888421714306,
+		0.14129135012626648,
+		0.9893038272857666
+	],
+	"scaling": [
+		1,
+		0.9999999403953552,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Bip01-Spine_5",
+	"id": "c1e35809-8041-4c9a-b61c-d4c423231e23",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 1851,
+	"parentId": "47f93ccd-3d40-43fe-94bf-730c2ce3c3f8",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

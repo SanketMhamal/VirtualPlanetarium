@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		3.4972267150878906,
+		0.0000019073486328125,
+		-4.440892098500626e-16
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.01938587613403797,
+		-0.0005494977231137455,
+		0.14039941132068634,
+		0.9899049997329712
+	],
+	"scaling": [
+		1.0000001192092896,
+		0.9999998807907104,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Bip01-Head_12",
+	"id": "75e94aa6-de54-482f-a190-2232a0171ba3",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 1859,
+	"parentId": "26088394-7b4a-4705-afae-2b5d841804b3",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

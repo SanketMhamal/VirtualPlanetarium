@@ -1,0 +1,7612 @@
+{
+	"name": "Armature|mixamo.com|Layer0.001",
+	"from": 0,
+	"to": 4.000000208616257,
+	"targetedAnimations": [
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel0_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.00003301718970760703,
+							0.00005162134766578674,
+							-99.7918701171875
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.00003301718970760703,
+							0.00005162134766578674,
+							-99.7918701171875
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.00003301718970760703,
+							0.00005162134766578674,
+							-99.7918701171875
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "64899273-424f-4d08-97ac-1c3ab2c5f1f3"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel1_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.7071068286895752,
+							0.000029790684493491426,
+							0.00003226998160243966,
+							0.7071068286895752
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.7071068286895752,
+							0.000029790684493491426,
+							0.00003226998160243966,
+							0.7071068286895752
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.7071068286895752,
+							0.000029790684493491426,
+							0.00003226998160243966,
+							0.7071068286895752
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "64899273-424f-4d08-97ac-1c3ab2c5f1f3"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel2_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "64899273-424f-4d08-97ac-1c3ab2c5f1f3"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel3_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.0008597853593528271,
+							9.92346477508545,
+							-1.2273353338241577
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.0008597853593528271,
+							9.92346477508545,
+							-1.2273353338241577
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.0008597853593528271,
+							9.92346477508545,
+							-1.2273353338241577
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "7aeeca91-e8c9-452f-a889-598d9f19f849"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel4_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.0607302226126194,
+							2.298368784181548e-8,
+							0.000005870009772479534,
+							0.9981542229652405
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.0607302226126194,
+							2.298368784181548e-8,
+							0.000005870009772479534,
+							0.9981542229652405
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.0607302226126194,
+							2.298368784181548e-8,
+							0.000005870009772479534,
+							0.9981542229652405
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "7aeeca91-e8c9-452f-a889-598d9f19f849"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel5_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							0.9999999403953552,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							0.9999999403953552,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							0.9999999403953552,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "7aeeca91-e8c9-452f-a889-598d9f19f849"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel6_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1.826838125218444e-9,
+							11.731990814208984,
+							-4.3921733094975934e-7
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1.826838125218444e-9,
+							11.731990814208984,
+							-4.3921733094975934e-7
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1.826838125218444e-9,
+							11.731990814208984,
+							-4.3921733094975934e-7
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "092c8797-ea6d-4c8a-8bcb-a98d8d7d00a0"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel7_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.0001961383386515081,
+							3.2096547641913276e-12,
+							-0.00000931616250454681,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.0001961383386515081,
+							3.2096547641913276e-12,
+							-0.00000931616250454681,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.0001961383386515081,
+							3.2096547641913276e-12,
+							-0.00000931616250454681,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "092c8797-ea6d-4c8a-8bcb-a98d8d7d00a0"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel8_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "092c8797-ea6d-4c8a-8bcb-a98d8d7d00a0"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel9_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							5.254853774339097e-10,
+							13.458827018737793,
+							-0.000001153091034211684
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							5.254853774339097e-10,
+							13.458827018737793,
+							-0.000001153091034211684
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							5.254853774339097e-10,
+							13.458827018737793,
+							-0.000001153091034211684
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "1aa79be5-3bbc-45ae-9978-f963e43cd8f5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel10_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.057711731642484665,
+							0.0000021958205707051093,
+							0.000003285132834207616,
+							0.9983333349227905
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.057711731642484665,
+							0.0000021958205707051093,
+							0.000003285132834207616,
+							0.9983333349227905
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.057711731642484665,
+							0.0000021958205707051093,
+							0.000003285132834207616,
+							0.9983333349227905
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "1aa79be5-3bbc-45ae-9978-f963e43cd8f5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel11_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "1aa79be5-3bbc-45ae-9978-f963e43cd8f5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel12_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.000025481054763076827,
+							15.02777099609375,
+							0.8779066801071167
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.000025481054763076827,
+							15.02777099609375,
+							0.8779066801071167
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.000025481054763076827,
+							15.02777099609375,
+							0.8779066801071167
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "743a714b-1326-4580-94a2-cfe3efc91ad7"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel13_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.0028276601806282997,
+							1.781634301895041e-12,
+							-2.933719933650991e-11,
+							0.9999960064888
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.0028276601806282997,
+							1.781634301895041e-12,
+							-2.933719933650991e-11,
+							0.9999960064888
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.0028276601806282997,
+							1.781634301895041e-12,
+							-2.933719933650991e-11,
+							0.9999960064888
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "743a714b-1326-4580-94a2-cfe3efc91ad7"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel14_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							0.9999999403953552
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "743a714b-1326-4580-94a2-cfe3efc91ad7"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel15_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.000002561282371971174,
+							10.32183837890625,
+							3.1424293518066406
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.000002561282371971174,
+							10.32183837890625,
+							3.1424293518066406
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.000002561282371971174,
+							10.32183837890625,
+							3.1424293518066406
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "842c5667-7083-4054-ab30-5234b6aedc70"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel16_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-6.061822155345453e-9,
+							1.4715556247504868e-13,
+							1.4551004498541964e-11,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-6.061822155345453e-9,
+							1.4715556247504868e-13,
+							1.4551004498541964e-11,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-6.061822155345453e-9,
+							1.4715556247504868e-13,
+							1.4551004498541964e-11,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "842c5667-7083-4054-ab30-5234b6aedc70"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel17_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							0.9999999403953552,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							0.9999999403953552,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							0.9999999403953552,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "842c5667-7083-4054-ab30-5234b6aedc70"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel18_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.000154516426846385,
+							18.47467041015625,
+							6.6364006996154785
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.000154516426846385,
+							18.47467041015625,
+							6.6364006996154785
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.000154516426846385,
+							18.47467041015625,
+							6.6364006996154785
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "87d91ce0-f9eb-4d3e-bc11-2b099b2bc097"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel19_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1.726049858596923e-16,
+							-1.6517580218085998e-13,
+							5.969896682577781e-16,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1.726049858596923e-16,
+							-1.6517580218085998e-13,
+							5.969896682577781e-16,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1.726049858596923e-16,
+							-1.6517580218085998e-13,
+							5.969896682577781e-16,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "87d91ce0-f9eb-4d3e-bc11-2b099b2bc097"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel20_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "87d91ce0-f9eb-4d3e-bc11-2b099b2bc097"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel21_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							6.105824947357178,
+							9.106289863586426,
+							0.7570629119873047
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							6.105824947357178,
+							9.106289863586426,
+							0.7570629119873047
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							6.105824947357178,
+							9.106289863586426,
+							0.7570629119873047
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "3c1c0544-6a25-496e-8406-f206f0c03d2f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel22_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.45386916399002075,
+							0.5448208451271057,
+							-0.551166832447052,
+							0.4397593140602112
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.45386916399002075,
+							0.5448208451271057,
+							-0.551166832447052,
+							0.4397593140602112
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.45386916399002075,
+							0.5448208451271057,
+							-0.551166832447052,
+							0.4397593140602112
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "3c1c0544-6a25-496e-8406-f206f0c03d2f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel23_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1.0000001192092896,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1.0000001192092896,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1.0000001192092896,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "3c1c0544-6a25-496e-8406-f206f0c03d2f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel24_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-3.1295286362365005e-7,
+							12.922286987304688,
+							0.0000036796272979700007
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-3.1295286362365005e-7,
+							12.922286987304688,
+							0.0000036796272979700007
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-3.1295286362365005e-7,
+							12.922286987304688,
+							0.0000036796272979700007
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5090ce84-93a8-4fb8-8ac6-ddcf3d647f67"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel25_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.010471311397850513,
+							-0.0010649256873875856,
+							0.10114939510822296,
+							0.9948155879974365
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.010471311397850513,
+							-0.0010649256873875856,
+							0.10114939510822296,
+							0.9948155879974365
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.010471311397850513,
+							-0.0010649256873875856,
+							0.10114939510822296,
+							0.9948155879974365
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5090ce84-93a8-4fb8-8ac6-ddcf3d647f67"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel26_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999999403953552,
+							0.9999998211860657,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999999403953552,
+							0.9999998211860657,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999999403953552,
+							0.9999998211860657,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5090ce84-93a8-4fb8-8ac6-ddcf3d647f67"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel27_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							5.812918857373006e-8,
+							27.404682159423828,
+							-0.000007876261406636331
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							5.812918857373006e-8,
+							27.404682159423828,
+							-0.000007876261406636331
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							5.812918857373006e-8,
+							27.404682159423828,
+							-0.000007876261406636331
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "64eb656e-16ea-42de-8ce6-d37c92575ea8"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel28_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							5.901276267650246e-7,
+							-6.646506278684683e-8,
+							-7.684016978259933e-9,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							5.901276267650246e-7,
+							-6.646506278684683e-8,
+							-7.684016978259933e-9,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							5.901276267650246e-7,
+							-6.646506278684683e-8,
+							-7.684016978259933e-9,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "64eb656e-16ea-42de-8ce6-d37c92575ea8"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel29_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "64eb656e-16ea-42de-8ce6-d37c92575ea8"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel30_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-6.282659228418197e-7,
+							27.61445426940918,
+							-0.0000063997235884016845
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-6.282659228418197e-7,
+							27.61445426940918,
+							-0.0000063997235884016845
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-6.282659228418197e-7,
+							27.61445426940918,
+							-0.0000063997235884016845
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "4ac8cb7a-d6f6-4457-9fa4-b60b795e3640"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel31_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							7.662756047466246e-7,
+							1.144531580621333e-7,
+							5.4842907104557526e-8,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							7.662756047466246e-7,
+							1.144531580621333e-7,
+							5.4842907104557526e-8,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							7.662756047466246e-7,
+							1.144531580621333e-7,
+							5.4842907104557526e-8,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "4ac8cb7a-d6f6-4457-9fa4-b60b795e3640"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel32_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "4ac8cb7a-d6f6-4457-9fa4-b60b795e3640"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel33_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-3.002977132797241,
+							3.788830041885376,
+							2.1671621799468994
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-3.002977132797241,
+							3.788830041885376,
+							2.1671621799468994
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-3.002977132797241,
+							3.788830041885376,
+							2.1671621799468994
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "7fcf1313-9a05-4dc6-b67f-cf6b83ac727c"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel34_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.2518942654132843,
+							-0.05946439132094383,
+							0.22192373871803284,
+							0.9400869011878967
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.2518942654132843,
+							-0.05946439132094383,
+							0.22192373871803284,
+							0.9400869011878967
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.2518942654132843,
+							-0.05946439132094383,
+							0.22192373871803284,
+							0.9400869011878967
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "7fcf1313-9a05-4dc6-b67f-cf6b83ac727c"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel35_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999998211860657,
+							0.9999999403953552,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999998211860657,
+							0.9999999403953552,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999998211860657,
+							0.9999999403953552,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "7fcf1313-9a05-4dc6-b67f-cf6b83ac727c"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel36_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.000002026521315201535,
+							4.744971752166748,
+							0.000012081433851562906
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.000002026521315201535,
+							4.744971752166748,
+							0.000012081433851562906
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.000002026521315201535,
+							4.744971752166748,
+							0.000012081433851562906
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "6ae22d77-252b-400e-a1f9-08f14ec8c3b6"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel37_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							4.305852598918136e-7,
+							2.800236131861311e-7,
+							-6.146516540184166e-8,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							4.305852598918136e-7,
+							2.800236131861311e-7,
+							-6.146516540184166e-8,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							4.305852598918136e-7,
+							2.800236131861311e-7,
+							-6.146516540184166e-8,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "6ae22d77-252b-400e-a1f9-08f14ec8c3b6"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel38_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							0.9999998807907104
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							0.9999998807907104
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							0.9999998807907104
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "6ae22d77-252b-400e-a1f9-08f14ec8c3b6"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel39_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.0000023841926122258883,
+							4.382139205932617,
+							0.000002344957010791404
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.0000023841926122258883,
+							4.382139205932617,
+							0.000002344957010791404
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.0000023841926122258883,
+							4.382139205932617,
+							0.000002344957010791404
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "de6a696b-338c-4aaa-91c5-017192691b07"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel40_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							7.256518301801407e-7,
+							-1.5606743675178336e-9,
+							-1.9371509552001953e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							7.256518301801407e-7,
+							-1.5606743675178336e-9,
+							-1.9371509552001953e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							7.256518301801407e-7,
+							-1.5606743675178336e-9,
+							-1.9371509552001953e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "de6a696b-338c-4aaa-91c5-017192691b07"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel41_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1.0000001192092896,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1.0000001192092896,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1.0000001192092896,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "de6a696b-338c-4aaa-91c5-017192691b07"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel42_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.000005558152679441264,
+							3.459078311920166,
+							0.000014650073353550397
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.000005558152679441264,
+							3.459078311920166,
+							0.000014650073353550397
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.000005558152679441264,
+							3.459078311920166,
+							0.000014650073353550397
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "fc7f8197-522b-4a19-853e-0c84cfcda409"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel43_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.009146247059106827,
+							0.12563756108283997,
+							0.07207267731428146,
+							0.9894125461578369
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.009146247059106827,
+							0.12563756108283997,
+							0.07207267731428146,
+							0.9894125461578369
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.009146247059106827,
+							0.12563756108283997,
+							0.07207267731428146,
+							0.9894125461578369
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "fc7f8197-522b-4a19-853e-0c84cfcda409"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel44_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999999403953552,
+							0.9999999403953552,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999999403953552,
+							0.9999999403953552,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999999403953552,
+							0.9999999403953552,
+							0.9999999403953552
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "fc7f8197-522b-4a19-853e-0c84cfcda409"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel45_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-2.822044610977173,
+							12.266634941101074,
+							0.2318343222141266
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-2.822044610977173,
+							12.266634941101074,
+							0.2318343222141266
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-2.822044610977173,
+							12.266634941101074,
+							0.2318343222141266
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "ba7cb6f2-c83e-4e54-98ec-af3aaef151a1"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel46_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-1.6409025249686238e-7,
+							1.1652903708636586e-7,
+							-2.3723842446088383e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-1.6409025249686238e-7,
+							1.1652903708636586e-7,
+							-2.3723842446088383e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-1.6409025249686238e-7,
+							1.1652903708636586e-7,
+							-2.3723842446088383e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "ba7cb6f2-c83e-4e54-98ec-af3aaef151a1"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel47_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "ba7cb6f2-c83e-4e54-98ec-af3aaef151a1"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel48_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-1.3715558111471182e-7,
+							3.891979217529297,
+							-0.000007489556082873605
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-1.3715558111471182e-7,
+							3.891979217529297,
+							-0.000007489556082873605
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-1.3715558111471182e-7,
+							3.891979217529297,
+							-0.000007489556082873605
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "b723c9d3-9154-48a8-b096-e03c9014a0da"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel49_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.0000016729259186831769,
+							-1.4193133779372147e-8,
+							-1.684667410017937e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.0000016729259186831769,
+							-1.4193133779372147e-8,
+							-1.684667410017937e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.0000016729259186831769,
+							-1.4193133779372147e-8,
+							-1.684667410017937e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "b723c9d3-9154-48a8-b096-e03c9014a0da"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel50_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "b723c9d3-9154-48a8-b096-e03c9014a0da"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel51_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-6.155220688697227e-8,
+							3.4151699542999268,
+							-0.00001521872945886571
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-6.155220688697227e-8,
+							3.4151699542999268,
+							-0.00001521872945886571
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-6.155220688697227e-8,
+							3.4151699542999268,
+							-0.00001521872945886571
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "53b828e6-36a8-416d-b3d0-82f72cc36f99"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel52_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-2.6258845764459693e-8,
+							9.227742125972327e-9,
+							1.1353573370342929e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-2.6258845764459693e-8,
+							9.227742125972327e-9,
+							1.1353573370342929e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-2.6258845764459693e-8,
+							9.227742125972327e-9,
+							1.1353573370342929e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "53b828e6-36a8-416d-b3d0-82f72cc36f99"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel53_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "53b828e6-36a8-416d-b3d0-82f72cc36f99"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel54_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-2.0287680513320083e-7,
+							3.0780029296875,
+							-0.000007942639967950527
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-2.0287680513320083e-7,
+							3.0780029296875,
+							-0.000007942639967950527
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-2.0287680513320083e-7,
+							3.0780029296875,
+							-0.000007942639967950527
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "36c544ac-47f7-4862-812b-68ca6d21dfe1"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel55_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.000002387750555499224,
+							0.004001531284302473,
+							0.00002270528784720227,
+							0.9999920129776001
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.000002387750555499224,
+							0.004001531284302473,
+							0.00002270528784720227,
+							0.9999920129776001
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.000002387750555499224,
+							0.004001531284302473,
+							0.00002270528784720227,
+							0.9999920129776001
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "36c544ac-47f7-4862-812b-68ca6d21dfe1"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel56_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "36c544ac-47f7-4862-812b-68ca6d21dfe1"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel57_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.000019182643882231787,
+							12.775543212890625,
+							-8.983273573903716e-7
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.000019182643882231787,
+							12.775543212890625,
+							-8.983273573903716e-7
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.000019182643882231787,
+							12.775543212890625,
+							-8.983273573903716e-7
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "f08da85a-bc20-463b-939d-4f9afe9c0b30"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel58_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.000001490227077738382,
+							8.757006497717157e-8,
+							3.728160322680196e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.000001490227077738382,
+							8.757006497717157e-8,
+							3.728160322680196e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.000001490227077738382,
+							8.757006497717157e-8,
+							3.728160322680196e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "f08da85a-bc20-463b-939d-4f9afe9c0b30"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel59_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "f08da85a-bc20-463b-939d-4f9afe9c0b30"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel60_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-3.7206692127256247e-7,
+							3.6139748096466064,
+							0.000009669882274465635
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-3.7206692127256247e-7,
+							3.6139748096466064,
+							0.000009669882274465635
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-3.7206692127256247e-7,
+							3.6139748096466064,
+							0.000009669882274465635
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "b00eced7-cc4f-4a71-a0cb-86b0fe1256fb"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel61_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							2.8882152491860325e-7,
+							-5.6664433145670046e-8,
+							-1.1626876528225694e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							2.8882152491860325e-7,
+							-5.6664433145670046e-8,
+							-1.1626876528225694e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							2.8882152491860325e-7,
+							-5.6664433145670046e-8,
+							-1.1626876528225694e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "b00eced7-cc4f-4a71-a0cb-86b0fe1256fb"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel62_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "b00eced7-cc4f-4a71-a0cb-86b0fe1256fb"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel63_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.000027706482796929777,
+							3.4597766399383545,
+							0.000007136628482840024
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.000027706482796929777,
+							3.4597766399383545,
+							0.000007136628482840024
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.000027706482796929777,
+							3.4597766399383545,
+							0.000007136628482840024
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "ec4999d6-03ae-436e-878c-db7fe5def27b"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel64_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							5.685272981281742e-7,
+							1.1508213049182814e-7,
+							-4.1275649564909145e-9,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							5.685272981281742e-7,
+							1.1508213049182814e-7,
+							-4.1275649564909145e-9,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							5.685272981281742e-7,
+							1.1508213049182814e-7,
+							-4.1275649564909145e-9,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "ec4999d6-03ae-436e-878c-db7fe5def27b"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel65_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "ec4999d6-03ae-436e-878c-db7fe5def27b"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel66_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.000030732877348782495,
+							3.680196762084961,
+							0.0000047658263611083385
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.000030732877348782495,
+							3.680196762084961,
+							0.0000047658263611083385
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.000030732877348782495,
+							3.680196762084961,
+							0.0000047658263611083385
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "db8f048c-7d68-4009-b77a-8b3e965f9e5f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel67_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.0000011506887176437886,
+							0.004579382482916117,
+							-0.0006541387992911041,
+							0.9999893307685852
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.0000011506887176437886,
+							0.004579382482916117,
+							-0.0006541387992911041,
+							0.9999893307685852
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.0000011506887176437886,
+							0.004579382482916117,
+							-0.0006541387992911041,
+							0.9999893307685852
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "db8f048c-7d68-4009-b77a-8b3e965f9e5f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel68_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							0.9999999403953552,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							0.9999999403953552,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							0.9999999403953552,
+							0.9999999403953552
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "db8f048c-7d68-4009-b77a-8b3e965f9e5f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel69_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							2.21662974357605,
+							12.147014617919922,
+							-0.009993286803364754
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							2.21662974357605,
+							12.147014617919922,
+							-0.009993286803364754
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							2.21662974357605,
+							12.147014617919922,
+							-0.009993286803364754
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "87d32b90-ff37-497c-abd5-28606ad78b9d"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel70_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.0000015881204262768733,
+							1.8216309172203182e-7,
+							4.576875767270394e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.0000015881204262768733,
+							1.8216309172203182e-7,
+							4.576875767270394e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.0000015881204262768733,
+							1.8216309172203182e-7,
+							4.576875767270394e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "87d32b90-ff37-497c-abd5-28606ad78b9d"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel71_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							0.9999998807907104,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							0.9999998807907104,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							0.9999998807907104,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "87d32b90-ff37-497c-abd5-28606ad78b9d"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel72_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							3.0825876251583395e-7,
+							3.6011815071105957,
+							0.000014689532690681517
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							3.0825876251583395e-7,
+							3.6011815071105957,
+							0.000014689532690681517
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							3.0825876251583395e-7,
+							3.6011815071105957,
+							0.000014689532690681517
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "cbc26837-edbc-46a0-bfb5-bceb8242cd12"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel73_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							8.824487167657935e-7,
+							-3.239532375687304e-8,
+							-1.2037249064178468e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							8.824487167657935e-7,
+							-3.239532375687304e-8,
+							-1.2037249064178468e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							8.824487167657935e-7,
+							-3.239532375687304e-8,
+							-1.2037249064178468e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "cbc26837-edbc-46a0-bfb5-bceb8242cd12"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel74_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "cbc26837-edbc-46a0-bfb5-bceb8242cd12"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel75_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-6.678009185634437e-7,
+							3.307321071624756,
+							0.000006964568910916569
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-6.678009185634437e-7,
+							3.307321071624756,
+							0.000006964568910916569
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-6.678009185634437e-7,
+							3.307321071624756,
+							0.000006964568910916569
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "0c9d61c4-14b2-446b-953b-20456fe272c3"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel76_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							3.6765322874998674e-7,
+							2.6284499199391576e-7,
+							8.405003626421603e-8,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							3.6765322874998674e-7,
+							2.6284499199391576e-7,
+							8.405003626421603e-8,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							3.6765322874998674e-7,
+							2.6284499199391576e-7,
+							8.405003626421603e-8,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "0c9d61c4-14b2-446b-953b-20456fe272c3"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel77_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "0c9d61c4-14b2-446b-953b-20456fe272c3"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel78_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.000024085120458039455,
+							3.6601243019104004,
+							0.000019065419110120274
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.000024085120458039455,
+							3.6601243019104004,
+							0.000019065419110120274
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.000024085120458039455,
+							3.6601243019104004,
+							0.000019065419110120274
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "90420dba-fbbb-46ae-a2b7-e215ba0a9328"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel79_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.000008891718607628718,
+							0.007396176923066378,
+							0.0007705603493377566,
+							0.999972403049469
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.000008891718607628718,
+							0.007396176923066378,
+							0.0007705603493377566,
+							0.999972403049469
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.000008891718607628718,
+							0.007396176923066378,
+							0.0007705603493377566,
+							0.999972403049469
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "90420dba-fbbb-46ae-a2b7-e215ba0a9328"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel80_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999999403953552,
+							1,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999999403953552,
+							1,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999999403953552,
+							1,
+							0.9999999403953552
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "90420dba-fbbb-46ae-a2b7-e215ba0a9328"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel81_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							4.725831985473633,
+							10.908211708068848,
+							0.22613544762134552
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							4.725831985473633,
+							10.908211708068848,
+							0.22613544762134552
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							4.725831985473633,
+							10.908211708068848,
+							0.22613544762134552
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "936856a6-7e4c-43e8-9103-8357a114c30d"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel82_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.0000013828150713379728,
+							2.5545546122884843e-7,
+							-1.9992091893072939e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.0000013828150713379728,
+							2.5545546122884843e-7,
+							-1.9992091893072939e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.0000013828150713379728,
+							2.5545546122884843e-7,
+							-1.9992091893072939e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "936856a6-7e4c-43e8-9103-8357a114c30d"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel83_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999998211860657,
+							0.9999998807907104,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999998211860657,
+							0.9999998807907104,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999998211860657,
+							0.9999998807907104,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "936856a6-7e4c-43e8-9103-8357a114c30d"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel84_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1.4696645678213827e-7,
+							4.136661529541016,
+							0.000006700664016534574
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1.4696645678213827e-7,
+							4.136661529541016,
+							0.000006700664016534574
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1.4696645678213827e-7,
+							4.136661529541016,
+							0.000006700664016534574
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "be5e1dc5-8902-4f7e-bf70-d2c610794ef1"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel85_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.0000016043277355493046,
+							-3.535458290571114e-7,
+							2.325620584997523e-8,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.0000016043277355493046,
+							-3.535458290571114e-7,
+							2.325620584997523e-8,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.0000016043277355493046,
+							-3.535458290571114e-7,
+							2.325620584997523e-8,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "be5e1dc5-8902-4f7e-bf70-d2c610794ef1"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel86_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999997615814209,
+							0.9999997615814209,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999997615814209,
+							0.9999997615814209,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999997615814209,
+							0.9999997615814209,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "be5e1dc5-8902-4f7e-bf70-d2c610794ef1"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel87_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							3.0062142286624294e-7,
+							2.594825506210327,
+							-0.000025322795409010723
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							3.0062142286624294e-7,
+							2.594825506210327,
+							-0.000025322795409010723
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							3.0062142286624294e-7,
+							2.594825506210327,
+							-0.000025322795409010723
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "9f4308a1-ac1a-4d37-9b03-986d0812ad43"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel88_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.0000017438538861824782,
+							5.5902842177602e-7,
+							8.449807751276239e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.0000017438538861824782,
+							5.5902842177602e-7,
+							8.449807751276239e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.0000017438538861824782,
+							5.5902842177602e-7,
+							8.449807751276239e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "9f4308a1-ac1a-4d37-9b03-986d0812ad43"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel89_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "9f4308a1-ac1a-4d37-9b03-986d0812ad43"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel90_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-2.7676344416249776e-7,
+							2.923887252807617,
+							0.000015511783203692175
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-2.7676344416249776e-7,
+							2.923887252807617,
+							0.000015511783203692175
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-2.7676344416249776e-7,
+							2.923887252807617,
+							0.000015511783203692175
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "f7ba096b-313e-4988-b36f-1c7d939a1292"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel91_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.0000028599429242603946,
+							0.004099585581570864,
+							-0.0005753812729381025,
+							0.9999914169311523
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.0000028599429242603946,
+							0.004099585581570864,
+							-0.0005753812729381025,
+							0.9999914169311523
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.0000028599429242603946,
+							0.004099585581570864,
+							-0.0005753812729381025,
+							0.9999914169311523
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "f7ba096b-313e-4988-b36f-1c7d939a1292"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel92_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1.0000001192092896,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1.0000001192092896,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1.0000001192092896,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "f7ba096b-313e-4988-b36f-1c7d939a1292"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel93_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-6.105697154998779,
+							9.106389045715332,
+							0.7570759654045105
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-6.105697154998779,
+							9.106389045715332,
+							0.7570759654045105
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-6.105697154998779,
+							9.106389045715332,
+							0.7570759654045105
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "071ecde4-c266-4b80-a9ed-081a33295238"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel94_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.45380350947380066,
+							-0.5448756217956543,
+							0.5511122345924377,
+							0.4398275315761566
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.45380350947380066,
+							-0.5448756217956543,
+							0.5511122345924377,
+							0.4398275315761566
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.45380350947380066,
+							-0.5448756217956543,
+							0.5511122345924377,
+							0.4398275315761566
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "071ecde4-c266-4b80-a9ed-081a33295238"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel95_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1.0000003576278687,
+							0.9999998807907104
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1.0000003576278687,
+							0.9999998807907104
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1.0000003576278687,
+							0.9999998807907104
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "071ecde4-c266-4b80-a9ed-081a33295238"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel96_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.000001269403810510994,
+							12.922289848327637,
+							0.00001827780215535313
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.000001269403810510994,
+							12.922289848327637,
+							0.00001827780215535313
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.000001269403810510994,
+							12.922289848327637,
+							0.00001827780215535313
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "45a4cc41-d2f6-45ea-975b-24cac099d21f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel97_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.010435796342790127,
+							0.0010612794430926442,
+							-0.10114988684654236,
+							0.9948159456253052
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.010435796342790127,
+							0.0010612794430926442,
+							-0.10114988684654236,
+							0.9948159456253052
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.010435796342790127,
+							0.0010612794430926442,
+							-0.10114988684654236,
+							0.9948159456253052
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "45a4cc41-d2f6-45ea-975b-24cac099d21f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel98_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999998211860657,
+							0.9999999403953552,
+							0.9999998807907104
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999998211860657,
+							0.9999999403953552,
+							0.9999998807907104
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999998211860657,
+							0.9999999403953552,
+							0.9999998807907104
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "45a4cc41-d2f6-45ea-975b-24cac099d21f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel99_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1.5917680684651714e-7,
+							27.4046630859375,
+							-0.0000074428726293263026
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1.5917680684651714e-7,
+							27.4046630859375,
+							-0.0000074428726293263026
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1.5917680684651714e-7,
+							27.4046630859375,
+							-0.0000074428726293263026
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "affa8b18-4211-42f0-897f-452ce0868bd5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel100_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1.949271393186791e-7,
+							9.399012412814045e-8,
+							2.6580529777220363e-8,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1.949271393186791e-7,
+							9.399012412814045e-8,
+							2.6580529777220363e-8,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1.949271393186791e-7,
+							9.399012412814045e-8,
+							2.6580529777220363e-8,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "affa8b18-4211-42f0-897f-452ce0868bd5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel101_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1.0000001192092896
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1.0000001192092896
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1.0000001192092896
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "affa8b18-4211-42f0-897f-452ce0868bd5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel102_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.000013474384104483761,
+							27.614463806152344,
+							0.000022893556888448074
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.000013474384104483761,
+							27.614463806152344,
+							0.000022893556888448074
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.000013474384104483761,
+							27.614463806152344,
+							0.000022893556888448074
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "378bc081-6abe-4c19-a218-bede6a6b6704"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel103_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-2.3674223825764784e-7,
+							-1.7643398564359813e-7,
+							-1.1682953982017352e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-2.3674223825764784e-7,
+							-1.7643398564359813e-7,
+							-1.1682953982017352e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-2.3674223825764784e-7,
+							-1.7643398564359813e-7,
+							-1.1682953982017352e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "378bc081-6abe-4c19-a218-bede6a6b6704"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel104_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "378bc081-6abe-4c19-a218-bede6a6b6704"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel105_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							3.002972364425659,
+							3.788794994354248,
+							2.16715407371521
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							3.002972364425659,
+							3.788794994354248,
+							2.16715407371521
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							3.002972364425659,
+							3.788794994354248,
+							2.16715407371521
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5860e007-a035-40c2-b41d-142e3fcdeea5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel106_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.25189632177352905,
+							0.05946445092558861,
+							-0.22192445397377014,
+							0.9400860667228699
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.25189632177352905,
+							0.05946445092558861,
+							-0.22192445397377014,
+							0.9400860667228699
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.25189632177352905,
+							0.05946445092558861,
+							-0.22192445397377014,
+							0.9400860667228699
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5860e007-a035-40c2-b41d-142e3fcdeea5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel107_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999999403953552,
+							0.9999999403953552,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999999403953552,
+							0.9999999403953552,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999999403953552,
+							0.9999999403953552,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5860e007-a035-40c2-b41d-142e3fcdeea5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel108_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.0000035762827792495955,
+							4.744959354400635,
+							-0.00000969811935647158
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.0000035762827792495955,
+							4.744959354400635,
+							-0.00000969811935647158
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.0000035762827792495955,
+							4.744959354400635,
+							-0.00000969811935647158
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "69f58d1e-e17f-4083-b7a8-46239f5f5885"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel109_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.0000010240709116260405,
+							-1.646966723001242e-7,
+							-6.034983925928827e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.0000010240709116260405,
+							-1.646966723001242e-7,
+							-6.034983925928827e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.0000010240709116260405,
+							-1.646966723001242e-7,
+							-6.034983925928827e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "69f58d1e-e17f-4083-b7a8-46239f5f5885"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel110_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							0.9999999403953552,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							0.9999999403953552,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							0.9999999403953552,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "69f58d1e-e17f-4083-b7a8-46239f5f5885"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel111_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.00000256303201240371,
+							4.382144927978516,
+							-0.000013975418369227555
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.00000256303201240371,
+							4.382144927978516,
+							-0.000013975418369227555
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.00000256303201240371,
+							4.382144927978516,
+							-0.000013975418369227555
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "03658ded-c425-4d0d-9f37-caaada477c49"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel112_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-2.420571831862617e-7,
+							6.554804485858767e-7,
+							3.334134817123413e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-2.420571831862617e-7,
+							6.554804485858767e-7,
+							3.334134817123413e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-2.420571831862617e-7,
+							6.554804485858767e-7,
+							3.334134817123413e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "03658ded-c425-4d0d-9f37-caaada477c49"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel113_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999999403953552,
+							0.9999998807907104,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999999403953552,
+							0.9999998807907104,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999999403953552,
+							0.9999998807907104,
+							0.9999999403953552
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "03658ded-c425-4d0d-9f37-caaada477c49"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel114_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.000009799968211154919,
+							3.4590768814086914,
+							-0.00003135995575576089
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.000009799968211154919,
+							3.4590768814086914,
+							-0.00003135995575576089
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.000009799968211154919,
+							3.4590768814086914,
+							-0.00003135995575576089
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "dbbef982-81f5-40e4-880d-1a594295235a"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel115_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.009232320822775364,
+							-0.12713101506233215,
+							-0.07232818007469177,
+							0.9892022609710693
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.009232320822775364,
+							-0.12713101506233215,
+							-0.07232818007469177,
+							0.9892022609710693
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.009232320822775364,
+							-0.12713101506233215,
+							-0.07232818007469177,
+							0.9892022609710693
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "dbbef982-81f5-40e4-880d-1a594295235a"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel116_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1.000000238418579,
+							1.000000238418579,
+							1.0000001192092896
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1.000000238418579,
+							1.000000238418579,
+							1.0000001192092896
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1.000000238418579,
+							1.000000238418579,
+							1.0000001192092896
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "dbbef982-81f5-40e4-880d-1a594295235a"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel117_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							2.82204270362854,
+							12.26661205291748,
+							0.23183123767375946
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							2.82204270362854,
+							12.26661205291748,
+							0.23183123767375946
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							2.82204270362854,
+							12.26661205291748,
+							0.23183123767375946
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "9be864f8-d5a1-4163-afe6-48a74edefad2"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel118_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-7.949972768983571e-7,
+							-7.981751082297706e-8,
+							-4.7457143637075205e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-7.949972768983571e-7,
+							-7.981751082297706e-8,
+							-4.7457143637075205e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-7.949972768983571e-7,
+							-7.981751082297706e-8,
+							-4.7457143637075205e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "9be864f8-d5a1-4163-afe6-48a74edefad2"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel119_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "9be864f8-d5a1-4163-afe6-48a74edefad2"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel120_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-7.229171927747302e-8,
+							3.8919694423675537,
+							0.000006079875674913637
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-7.229171927747302e-8,
+							3.8919694423675537,
+							0.000006079875674913637
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-7.229171927747302e-8,
+							3.8919694423675537,
+							0.000006079875674913637
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "21627931-27f1-42f7-8359-a89a80d5c953"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel121_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.0000014623589095208445,
+							8.170354703906924e-8,
+							-1.0463285349260332e-8,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.0000014623589095208445,
+							8.170354703906924e-8,
+							-1.0463285349260332e-8,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.0000014623589095208445,
+							8.170354703906924e-8,
+							-1.0463285349260332e-8,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "21627931-27f1-42f7-8359-a89a80d5c953"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel122_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "21627931-27f1-42f7-8359-a89a80d5c953"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel123_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-2.520876307698927e-7,
+							3.415166139602661,
+							-0.0000057911356634576805
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-2.520876307698927e-7,
+							3.415166139602661,
+							-0.0000057911356634576805
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-2.520876307698927e-7,
+							3.415166139602661,
+							-0.0000057911356634576805
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "153f1b22-1fcd-4191-ad9b-a79d47701ad4"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel124_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-1.525437909322136e-7,
+							-1.9493600067477246e-9,
+							-1.0625855395574035e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-1.525437909322136e-7,
+							-1.9493600067477246e-9,
+							-1.0625855395574035e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-1.525437909322136e-7,
+							-1.9493600067477246e-9,
+							-1.0625855395574035e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "153f1b22-1fcd-4191-ad9b-a79d47701ad4"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel125_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "153f1b22-1fcd-4191-ad9b-a79d47701ad4"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel126_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-1.5456083701792522e-7,
+							3.078004837036133,
+							-0.000006860273970232811
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-1.5456083701792522e-7,
+							3.078004837036133,
+							-0.000006860273970232811
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-1.5456083701792522e-7,
+							3.078004837036133,
+							-0.000006860273970232811
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "bb26bcaa-75f7-430a-9b7f-1cde0f86924f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel127_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.00007257523247972131,
+							-0.006709252949804068,
+							0.0013747218763455749,
+							0.9999765753746033
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.00007257523247972131,
+							-0.006709252949804068,
+							0.0013747218763455749,
+							0.9999765753746033
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.00007257523247972131,
+							-0.006709252949804068,
+							0.0013747218763455749,
+							0.9999765753746033
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "bb26bcaa-75f7-430a-9b7f-1cde0f86924f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel128_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "bb26bcaa-75f7-430a-9b7f-1cde0f86924f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel129_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.000017399843272869475,
+							12.775524139404297,
+							0.000010329223187000025
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.000017399843272869475,
+							12.775524139404297,
+							0.000010329223187000025
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.000017399843272869475,
+							12.775524139404297,
+							0.000010329223187000025
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5927863f-15bd-4f93-8cda-16a9c0ee7c47"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel130_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							3.204942231604946e-7,
+							-1.9841033704892652e-8,
+							-5.192281378185726e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							3.204942231604946e-7,
+							-1.9841033704892652e-8,
+							-5.192281378185726e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							3.204942231604946e-7,
+							-1.9841033704892652e-8,
+							-5.192281378185726e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5927863f-15bd-4f93-8cda-16a9c0ee7c47"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel131_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5927863f-15bd-4f93-8cda-16a9c0ee7c47"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel132_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							6.573759492312092e-7,
+							3.6139774322509766,
+							-0.000005865606908628251
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							6.573759492312092e-7,
+							3.6139774322509766,
+							-0.000005865606908628251
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							6.573759492312092e-7,
+							3.6139774322509766,
+							-0.000005865606908628251
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "00ca66c0-7927-4f39-8889-5aecce74fdf4"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel133_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-1.6961220694611256e-7,
+							9.617502172432069e-8,
+							1.557763482651353e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-1.6961220694611256e-7,
+							9.617502172432069e-8,
+							1.557763482651353e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-1.6961220694611256e-7,
+							9.617502172432069e-8,
+							1.557763482651353e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "00ca66c0-7927-4f39-8889-5aecce74fdf4"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel134_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "00ca66c0-7927-4f39-8889-5aecce74fdf4"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel135_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.000028510256015579216,
+							3.4597644805908203,
+							-0.000007629024821653729
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.000028510256015579216,
+							3.4597644805908203,
+							-0.000007629024821653729
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.000028510256015579216,
+							3.4597644805908203,
+							-0.000007629024821653729
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5ddb588c-68f7-4715-be6c-0f7991d5eafa"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel136_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-5.68527354971593e-7,
+							-1.4272029602580005e-7,
+							-2.3508842872388414e-8,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-5.68527354971593e-7,
+							-1.4272029602580005e-7,
+							-2.3508842872388414e-8,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-5.68527354971593e-7,
+							-1.4272029602580005e-7,
+							-2.3508842872388414e-8,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5ddb588c-68f7-4715-be6c-0f7991d5eafa"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel137_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5ddb588c-68f7-4715-be6c-0f7991d5eafa"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel138_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.000028708038371405564,
+							3.6801974773406982,
+							-0.0000049274608500127215
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.000028708038371405564,
+							3.6801974773406982,
+							-0.0000049274608500127215
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.000028708038371405564,
+							3.6801974773406982,
+							-0.0000049274608500127215
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "765e9c7f-3385-4842-9ac0-053392ae085e"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel139_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.00005082745701656677,
+							-0.006695293355733156,
+							-0.0017083226703107357,
+							0.9999762177467346
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.00005082745701656677,
+							-0.006695293355733156,
+							-0.0017083226703107357,
+							0.9999762177467346
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.00005082745701656677,
+							-0.006695293355733156,
+							-0.0017083226703107357,
+							0.9999762177467346
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "765e9c7f-3385-4842-9ac0-053392ae085e"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel140_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999999403953552,
+							1,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999999403953552,
+							1,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999999403953552,
+							1,
+							0.9999999403953552
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "765e9c7f-3385-4842-9ac0-053392ae085e"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel141_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-2.2166318893432617,
+							12.14699649810791,
+							-0.01000135950744152
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-2.2166318893432617,
+							12.14699649810791,
+							-0.01000135950744152
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-2.2166318893432617,
+							12.14699649810791,
+							-0.01000135950744152
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "8600ab72-e159-4b38-b29f-1eb890bb0b62"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel142_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							5.373096314542636e-7,
+							-1.1464490512480552e-7,
+							4.0291757841259823e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							5.373096314542636e-7,
+							-1.1464490512480552e-7,
+							4.0291757841259823e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							5.373096314542636e-7,
+							-1.1464490512480552e-7,
+							4.0291757841259823e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "8600ab72-e159-4b38-b29f-1eb890bb0b62"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel143_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "8600ab72-e159-4b38-b29f-1eb890bb0b62"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel144_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-3.5936389508606226e-7,
+							3.601198196411133,
+							-0.000011981564057350624
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-3.5936389508606226e-7,
+							3.601198196411133,
+							-0.000011981564057350624
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-3.5936389508606226e-7,
+							3.601198196411133,
+							-0.000011981564057350624
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "d30ddfca-e505-44b1-99e7-144fa5534a9e"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel145_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-7.497205842810217e-7,
+							-1.327086796010235e-8,
+							6.904244287397887e-8,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-7.497205842810217e-7,
+							-1.327086796010235e-8,
+							6.904244287397887e-8,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-7.497205842810217e-7,
+							-1.327086796010235e-8,
+							6.904244287397887e-8,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "d30ddfca-e505-44b1-99e7-144fa5534a9e"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel146_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "d30ddfca-e505-44b1-99e7-144fa5534a9e"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel147_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-8.435845302301459e-7,
+							3.307319402694702,
+							0.000010756780284282286
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-8.435845302301459e-7,
+							3.307319402694702,
+							0.000010756780284282286
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-8.435845302301459e-7,
+							3.307319402694702,
+							0.000010756780284282286
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "3833d04e-a036-4f83-92ae-98c532323243"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel148_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							3.3420249678783875e-8,
+							6.818835629474052e-8,
+							2.3209076971397735e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							3.3420249678783875e-8,
+							6.818835629474052e-8,
+							2.3209076971397735e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							3.3420249678783875e-8,
+							6.818835629474052e-8,
+							2.3209076971397735e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "3833d04e-a036-4f83-92ae-98c532323243"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel149_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "3833d04e-a036-4f83-92ae-98c532323243"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel150_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.00002370369475102052,
+							3.660114288330078,
+							0.000006297360869211843
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.00002370369475102052,
+							3.660114288330078,
+							0.000006297360869211843
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.00002370369475102052,
+							3.660114288330078,
+							0.000006297360869211843
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5d1b9175-1c1f-42b8-997e-52bba853803f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel151_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.000060653514083242044,
+							-0.0076133450493216515,
+							-0.00030036215321160853,
+							0.9999709725379944
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.000060653514083242044,
+							-0.0076133450493216515,
+							-0.00030036215321160853,
+							0.9999709725379944
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.000060653514083242044,
+							-0.0076133450493216515,
+							-0.00030036215321160853,
+							0.9999709725379944
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5d1b9175-1c1f-42b8-997e-52bba853803f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel152_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							0.9999999403953552,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							0.9999999403953552,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							0.9999999403953552,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5d1b9175-1c1f-42b8-997e-52bba853803f"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel153_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-4.725833415985107,
+							10.90819263458252,
+							0.2261243313550949
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-4.725833415985107,
+							10.90819263458252,
+							0.2261243313550949
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-4.725833415985107,
+							10.90819263458252,
+							0.2261243313550949
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "8b350526-d8f3-4422-86ce-48b7cb4c879c"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel154_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1.9147002205954777e-7,
+							-1.3746350191468082e-7,
+							3.7825003573743743e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1.9147002205954777e-7,
+							-1.3746350191468082e-7,
+							3.7825003573743743e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1.9147002205954777e-7,
+							-1.3746350191468082e-7,
+							3.7825003573743743e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "8b350526-d8f3-4422-86ce-48b7cb4c879c"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel155_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "8b350526-d8f3-4422-86ce-48b7cb4c879c"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel156_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							6.555031291100022e-7,
+							4.13664436340332,
+							7.622695079589903e-7
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							6.555031291100022e-7,
+							4.13664436340332,
+							7.622695079589903e-7
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							6.555031291100022e-7,
+							4.13664436340332,
+							7.622695079589903e-7
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "26091227-db8c-43a6-83a3-d2185ecf9e46"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel157_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-1.1118441278767932e-8,
+							2.61692036929162e-8,
+							-1.1052497939090244e-7,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-1.1118441278767932e-8,
+							2.61692036929162e-8,
+							-1.1052497939090244e-7,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-1.1118441278767932e-8,
+							2.61692036929162e-8,
+							-1.1052497939090244e-7,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "26091227-db8c-43a6-83a3-d2185ecf9e46"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel158_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "26091227-db8c-43a6-83a3-d2185ecf9e46"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel159_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-7.520695248786069e-7,
+							2.594852924346924,
+							-0.000012875348147645127
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-7.520695248786069e-7,
+							2.594852924346924,
+							-0.000012875348147645127
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-7.520695248786069e-7,
+							2.594852924346924,
+							-0.000012875348147645127
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "8bc24341-8545-4fc0-b458-ce19b9220b50"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel160_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1.9601858980422548e-7,
+							2.2925418008412635e-8,
+							-3.928560232679956e-8,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1.9601858980422548e-7,
+							2.2925418008412635e-8,
+							-3.928560232679956e-8,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1.9601858980422548e-7,
+							2.2925418008412635e-8,
+							-3.928560232679956e-8,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "8bc24341-8545-4fc0-b458-ce19b9220b50"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel161_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "8bc24341-8545-4fc0-b458-ce19b9220b50"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel162_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-1.2520658287940023e-7,
+							2.923888921737671,
+							0.000003410570798223489
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-1.2520658287940023e-7,
+							2.923888921737671,
+							0.000003410570798223489
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-1.2520658287940023e-7,
+							2.923888921737671,
+							0.000003410570798223489
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "999cdd1b-4734-455f-9d8e-be9f83ee72a5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel163_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.00008301744674099609,
+							-0.008498836308717728,
+							0.002206194680184126,
+							0.9999614357948303
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.00008301744674099609,
+							-0.008498836308717728,
+							0.002206194680184126,
+							0.9999614357948303
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.00008301744674099609,
+							-0.008498836308717728,
+							0.002206194680184126,
+							0.9999614357948303
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "999cdd1b-4734-455f-9d8e-be9f83ee72a5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel164_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999999403953552,
+							1,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999999403953552,
+							1,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999999403953552,
+							1,
+							0.9999999403953552
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "999cdd1b-4734-455f-9d8e-be9f83ee72a5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel165_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							9.123873710632324,
+							-6.657186508178711,
+							-0.05540315806865692
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							9.123873710632324,
+							-6.657186508178711,
+							-0.05540315806865692
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							9.123873710632324,
+							-6.657186508178711,
+							-0.05540315806865692
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "eff7ca0b-675c-4f4f-b6d9-58896d165a40"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel166_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.000020336168745416217,
+							0.006339882966130972,
+							-0.9999755024909973,
+							0.0029697229620069265
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.000020336168745416217,
+							0.006339882966130972,
+							-0.9999755024909973,
+							0.0029697229620069265
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.000020336168745416217,
+							0.006339882966130972,
+							-0.9999755024909973,
+							0.0029697229620069265
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "eff7ca0b-675c-4f4f-b6d9-58896d165a40"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel167_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999999403953552,
+							0.9999998807907104,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999999403953552,
+							0.9999998807907104,
+							0.9999999403953552
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999999403953552,
+							0.9999998807907104,
+							0.9999999403953552
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "eff7ca0b-675c-4f4f-b6d9-58896d165a40"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel168_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							7.47547161950024e-8,
+							40.599430084228516,
+							3.4865482234636147e-7
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							7.47547161950024e-8,
+							40.599430084228516,
+							3.4865482234636147e-7
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							7.47547161950024e-8,
+							40.599430084228516,
+							3.4865482234636147e-7
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "ab2f463f-dc70-44b1-91b1-4f467982c469"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel169_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.018134094774723053,
+							0.00018271614680998027,
+							-0.005920139141380787,
+							0.999817967414856
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.018134094774723053,
+							0.00018271614680998027,
+							-0.005920139141380787,
+							0.999817967414856
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.018134094774723053,
+							0.00018271614680998027,
+							-0.005920139141380787,
+							0.999817967414856
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "ab2f463f-dc70-44b1-91b1-4f467982c469"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel170_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "ab2f463f-dc70-44b1-91b1-4f467982c469"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel171_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							7.733684270760932e-8,
+							42.099021911621094,
+							-0.0000019981687273684656
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							7.733684270760932e-8,
+							42.099021911621094,
+							-0.0000019981687273684656
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							7.733684270760932e-8,
+							42.099021911621094,
+							-0.0000019981687273684656
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "92e6c09b-560b-4aba-94d2-62dad23689be"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel172_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.5405577421188354,
+							0.014366050250828266,
+							0.024950947612524033,
+							0.8408141136169434
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.5405577421188354,
+							0.014366050250828266,
+							0.024950947612524033,
+							0.8408141136169434
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.5405577421188354,
+							0.014366050250828266,
+							0.024950947612524033,
+							0.8408141136169434
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "92e6c09b-560b-4aba-94d2-62dad23689be"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel173_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1.0000001192092896,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1.0000001192092896,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1.0000001192092896,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "92e6c09b-560b-4aba-94d2-62dad23689be"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel174_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							8.290507480523956e-7,
+							15.721563339233398,
+							0.0000014236391052691033
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							8.290507480523956e-7,
+							15.721563339233398,
+							0.0000014236391052691033
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							8.290507480523956e-7,
+							15.721563339233398,
+							0.0000014236391052691033
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "da307daf-0d47-4d48-92f9-f6abbe6695c1"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel175_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.22769208252429962,
+							-0.032521627843379974,
+							-0.015365502797067165,
+							0.9730686545372009
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.22769208252429962,
+							-0.032521627843379974,
+							-0.015365502797067165,
+							0.9730686545372009
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.22769208252429962,
+							-0.032521627843379974,
+							-0.015365502797067165,
+							0.9730686545372009
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "da307daf-0d47-4d48-92f9-f6abbe6695c1"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel176_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999998807907104,
+							0.9999997615814209,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999998807907104,
+							0.9999997615814209,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999998807907104,
+							0.9999997615814209,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "da307daf-0d47-4d48-92f9-f6abbe6695c1"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel177_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1.117563819263978e-8,
+							9.999999046325684,
+							-4.3213387357354804e-7
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1.117563819263978e-8,
+							9.999999046325684,
+							-4.3213387357354804e-7
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1.117563819263978e-8,
+							9.999999046325684,
+							-4.3213387357354804e-7
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "67afb20c-e974-47b6-98b3-1bba67ec52f5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel178_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1.682201222763524e-8,
+							4.774483031155796e-8,
+							-4.298635758459568e-8,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1.682201222763524e-8,
+							4.774483031155796e-8,
+							-4.298635758459568e-8,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1.682201222763524e-8,
+							4.774483031155796e-8,
+							-4.298635758459568e-8,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "67afb20c-e974-47b6-98b3-1bba67ec52f5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel179_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999999403953552,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999999403953552,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999999403953552,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "67afb20c-e974-47b6-98b3-1bba67ec52f5"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel180_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-9.125032424926758,
+							-6.6555986404418945,
+							-0.05535256862640381
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-9.125032424926758,
+							-6.6555986404418945,
+							-0.05535256862640381
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-9.125032424926758,
+							-6.6555986404418945,
+							-0.05535256862640381
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "a4c98d0b-aee1-482c-9de4-9a73f1e774f7"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel181_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.00001826124389481265,
+							-0.0063333469443023205,
+							0.9999752640724182,
+							0.0030572572723031044
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.00001826124389481265,
+							-0.0063333469443023205,
+							0.9999752640724182,
+							0.0030572572723031044
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.00001826124389481265,
+							-0.0063333469443023205,
+							0.9999752640724182,
+							0.0030572572723031044
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "a4c98d0b-aee1-482c-9de4-9a73f1e774f7"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel182_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999999403953552,
+							1.0000001192092896,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999999403953552,
+							1.0000001192092896,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999999403953552,
+							1.0000001192092896,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "a4c98d0b-aee1-482c-9de4-9a73f1e774f7"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel183_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.0000011540900004547439,
+							40.599456787109375,
+							5.318182729752152e-7
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.0000011540900004547439,
+							40.599456787109375,
+							5.318182729752152e-7
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.0000011540900004547439,
+							40.599456787109375,
+							5.318182729752152e-7
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "76e9d5dc-3589-43cf-9af8-9e7296aeb64e"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel184_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-0.018147068098187447,
+							-0.00018286544946022332,
+							0.005920154508203268,
+							0.9998177886009216
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-0.018147068098187447,
+							-0.00018286544946022332,
+							0.005920154508203268,
+							0.9998177886009216
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-0.018147068098187447,
+							-0.00018286544946022332,
+							0.005920154508203268,
+							0.9998177886009216
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "76e9d5dc-3589-43cf-9af8-9e7296aeb64e"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel185_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1.0000001192092896,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1.0000001192092896,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1.0000001192092896,
+							1.0000001192092896,
+							1.0000001192092896
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "76e9d5dc-3589-43cf-9af8-9e7296aeb64e"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel186_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-9.704027661427972e-7,
+							42.0990104675293,
+							3.894132305504172e-7
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-9.704027661427972e-7,
+							42.0990104675293,
+							3.894132305504172e-7
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-9.704027661427972e-7,
+							42.0990104675293,
+							3.894132305504172e-7
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5eeba037-e112-4f5e-9494-61cb8c4e595e"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel187_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.5405633449554443,
+							-0.014366298913955688,
+							-0.024951724335551262,
+							0.8408104777336121
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.5405633449554443,
+							-0.014366298913955688,
+							-0.024951724335551262,
+							0.8408104777336121
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.5405633449554443,
+							-0.014366298913955688,
+							-0.024951724335551262,
+							0.8408104777336121
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5eeba037-e112-4f5e-9494-61cb8c4e595e"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel188_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1.0000001192092896,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1.0000001192092896,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1.0000001192092896,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "5eeba037-e112-4f5e-9494-61cb8c4e595e"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel189_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-4.2415331336087547e-7,
+							15.7215576171875,
+							-6.052095500308496e-7
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-4.2415331336087547e-7,
+							15.7215576171875,
+							-6.052095500308496e-7
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-4.2415331336087547e-7,
+							15.7215576171875,
+							-6.052095500308496e-7
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "26cf4029-076a-47d2-a566-531b2fc6878d"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel190_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.22770854830741882,
+							0.03211963549256325,
+							0.015257845632731915,
+							0.9730798602104187
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.22770854830741882,
+							0.03211963549256325,
+							0.015257845632731915,
+							0.9730798602104187
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.22770854830741882,
+							0.03211963549256325,
+							0.015257845632731915,
+							0.9730798602104187
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "26cf4029-076a-47d2-a566-531b2fc6878d"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel191_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							0.9999998211860657,
+							1,
+							1.0000003576278687
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							0.9999998211860657,
+							1,
+							1.0000003576278687
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							0.9999998211860657,
+							1,
+							1.0000003576278687
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "26cf4029-076a-47d2-a566-531b2fc6878d"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel192_0",
+				"property": "position",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-3.4645194091353915e-7,
+							10.000003814697266,
+							4.470343029083779e-8
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-3.4645194091353915e-7,
+							10.000003814697266,
+							4.470343029083779e-8
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-3.4645194091353915e-7,
+							10.000003814697266,
+							4.470343029083779e-8
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "10b86166-6709-4369-a305-9727d42b4214"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel193_0",
+				"property": "rotationQuaternion",
+				"framePerSecond": 60,
+				"dataType": 2,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							-7.66886021352775e-9,
+							1.2747479516406202e-8,
+							-2.8594517864632962e-9,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							-7.66886021352775e-9,
+							1.2747479516406202e-8,
+							-2.8594517864632962e-9,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							-7.66886021352775e-9,
+							1.2747479516406202e-8,
+							-2.8594517864632962e-9,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "10b86166-6709-4369-a305-9727d42b4214"
+		},
+		{
+			"animation": {
+				"name": "Armature|mixamo.com|Layer0.001_channel194_0",
+				"property": "scaling",
+				"framePerSecond": 60,
+				"dataType": 1,
+				"loopBehavior": 1,
+				"blendingSpeed": 0.01,
+				"keys": [
+					{
+						"frame": 0,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 2.0000001043081284,
+						"values": [
+							1,
+							1,
+							1
+						]
+					},
+					{
+						"frame": 4.000000208616257,
+						"values": [
+							1,
+							1,
+							1
+						]
+					}
+				],
+				"ranges": []
+			},
+			"targetId": "10b86166-6709-4369-a305-9727d42b4214"
+		}
+	]
+}

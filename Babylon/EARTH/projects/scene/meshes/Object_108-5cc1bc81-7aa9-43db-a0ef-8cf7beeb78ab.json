@@ -1,0 +1,149 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Object_108",
+			"id": "5cc1bc81-7aa9-43db-a0ef-8cf7beeb78ab",
+			"uniqueId": 625,
+			"type": "Mesh",
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "d279a07c-bd4f-45a8-a844-4884f4609a0d",
+			"isUnIndexed": false,
+			"geometryId": "2ef28c1e-b189-47f0-8a3b-72bfd38e341e",
+			"subMeshes": null,
+			"materialId": "f5245366-72a2-4ef4-9152-c295f8a86a64",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -108.2291488647461,
+					"1": 4.289058685302734,
+					"2": -7.7820963859558105,
+					"3": 0,
+					"4": 8.950836181640625,
+					"5": 4.347079277038574,
+					"6": -94.1659164428711,
+					"7": 0,
+					"8": 0.7679679989814758,
+					"9": 553.7875366210938,
+					"10": 0.7994484901428223,
+					"11": 0,
+					"12": -45.62667465209961,
+					"13": -10679.3779296875,
+					"14": 1171.93505859375,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Object_108",
+					"name": "Object_108",
+					"sceneFileName": "earth/bear_doing_jungle_camping.glb"
+				},
+				"isPickable": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/2ef28c1e-b189-47f0-8a3b-72bfd38e341e.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				0.80402010679245,
+				0,
+				0.5
+			],
+			"boundingBoxMinimum": [
+				-0.80402010679245,
+				0,
+				-0.5
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 12,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 12,
+					"stride": 3,
+					"offset": 48,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 8,
+					"stride": 2,
+					"offset": 96,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 6,
+					"stride": 1,
+					"offset": 128,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 152,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		-0.0000057220458984375,
+		0.00000762939453125,
+		4.256902694702148
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.31646662950515747,
+		0.9460318088531494,
+		0.055234625935554504,
+		-0.04268268123269081
+	],
+	"scaling": [
+		1,
+		1.0000001192092896,
+		0.9999998807907104
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Bip01-L-Thigh_38",
+	"id": "1b834072-3a4b-42f8-8c13-b1355d261682",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 1884,
+	"parentId": "47f93ccd-3d40-43fe-94bf-730c2ce3c3f8",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

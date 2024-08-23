@@ -1,0 +1,108 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "CHANDRAYAN",
+			"id": "cb0fb6a3-b313-43de-9dc1-42ba1c64164c",
+			"uniqueId": 543,
+			"type": "Mesh",
+			"position": [
+				252.98959350585938,
+				14.56222915649414,
+				-204.24703979492188
+			],
+			"rotationQuaternion": [
+				0.0013859135387876544,
+				-0.02206906094062674,
+				0.9997481160019214,
+				-0.0038393154950753304
+			],
+			"scaling": [
+				30.00000593754805,
+				-30.000005255295186,
+				29.999999016259096
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": true,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": null,
+			"isUnIndexed": false,
+			"materialId": "default material",
+			"physicsMass": 0,
+			"physicsFriction": 0.2,
+			"physicsRestitution": 0,
+			"physicsImpostor": 2,
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "__root__",
+					"name": "__root__",
+					"sceneFileName": "SHIP/isro_chandrayyan-3_mission_lander_module_vikram.glb"
+				},
+				"isPickable": false,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0,
+				"_waitingParentId": null
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"parentId": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

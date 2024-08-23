@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		0.8041476011276245,
+		2.116419553756714,
+		0.8041655421257019
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.15013270064644468,
+		-0.20592331604048722,
+		-0.5749550141087449,
+		0.7774847276604371
+	],
+	"scaling": [
+		1.0000000074320035,
+		1.0000000191297216,
+		0.9999999972367832
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Vikram.BodyPart.LDV",
+	"id": "c64e1c90-223c-4111-a954-f17545ef712b",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 605,
+	"parentId": "8ec77214-f9e4-4165-a4b6-e4e79e99e53b",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

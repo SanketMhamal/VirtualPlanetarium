@@ -1,0 +1,509 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "LOW_POLY_ASTRONAUGHT",
+			"id": "948ba33e-fa21-4664-9b9a-144458ada5bb",
+			"uniqueId": 985,
+			"type": "Mesh",
+			"position": [
+				30.0250435,
+				0.715945661,
+				-16.1216202
+			],
+			"rotationQuaternion": [
+				0,
+				-0.819152057,
+				0,
+				0.57357645
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+			"isUnIndexed": false,
+			"geometryId": "9dea51df-c7c4-410e-8595-ca5f938c3f6c",
+			"subMeshes": null,
+			"materialId": "be4546bf-80bd-43d4-a651-8a29a09566fc",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 0.3420201241970062,
+					"1": 0,
+					"2": 0.9396925568580627,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0.9396925568580627,
+					"9": 0,
+					"10": -0.3420201241970062,
+					"11": 0,
+					"12": 25.418535232543945,
+					"13": -0.7159456610679626,
+					"14": 22.70039176940918,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "LOW_POLY_ASTRONAUGHT",
+					"name": "LOW_POLY_ASTRONAUGHT",
+					"sceneFileName": "SATELLITE/satelite.glb"
+				},
+				"isPickable": false
+			},
+			"instances": [
+				{
+					"name": "LOW_POLY_ASTRONAUGHT2",
+					"id": "5bd38d8f-42fb-4d2c-a774-455e2b59dd8a",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						0.699999988079071,
+						0.6660783886909485,
+						-8.200000762939453
+					],
+					"scaling": [
+						0.9999999668119285,
+						1,
+						0.9999999668119285
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						-0.3420201664604653,
+						0,
+						0.9396926123655308
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": -0.3420201241970062,
+							"1": 0,
+							"2": -0.9396925568580627,
+							"3": 0,
+							"4": 0,
+							"5": 1,
+							"6": 0,
+							"7": 0,
+							"8": 0.9396925568580627,
+							"9": 0,
+							"10": -0.3420201241970062,
+							"11": 0,
+							"12": 25.418535232543945,
+							"13": -0.7159456610679626,
+							"14": 22.70039176940918,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "LOW_POLY_ASTRONAUGHT3",
+					"id": "2a4d12e8-6d44-43e1-8066-8f077a7d854e",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						16.1999989,
+						1,
+						-30.5999985
+					],
+					"scaling": [
+						1,
+						1,
+						1
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": -0.3420201241970062,
+							"1": 0,
+							"2": -0.9396925568580627,
+							"3": 0,
+							"4": 0,
+							"5": 1,
+							"6": 0,
+							"7": 0,
+							"8": 0.9396925568580627,
+							"9": 0,
+							"10": -0.3420201241970062,
+							"11": 0,
+							"12": 25.418535232543945,
+							"13": -0.7159456610679626,
+							"14": 22.70039176940918,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "LOW_POLY_ASTRONAUGHT4",
+					"id": "1f54758d-a56d-4d68-92af-b2741de3391b",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						24.2999992,
+						1,
+						-30.5
+					],
+					"scaling": [
+						1,
+						1,
+						1
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0.42261833,
+						0,
+						0.906307876
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": -0.3420201241970062,
+							"1": 0,
+							"2": -0.9396925568580627,
+							"3": 0,
+							"4": 0,
+							"5": 1,
+							"6": 0,
+							"7": 0,
+							"8": 0.9396925568580627,
+							"9": 0,
+							"10": -0.3420201241970062,
+							"11": 0,
+							"12": 25.418535232543945,
+							"13": -0.7159456610679626,
+							"14": 22.70039176940918,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "LOW_POLY_ASTRONAUGHT5",
+					"id": "d65fbdb2-8b6c-48c3-99de-43d8081217c7",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						27.7999992,
+						1,
+						-27
+					],
+					"scaling": [
+						1,
+						1,
+						1
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0.642787635,
+						0,
+						0.766044438
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": -0.3420201241970062,
+							"1": 0,
+							"2": -0.9396925568580627,
+							"3": 0,
+							"4": 0,
+							"5": 1,
+							"6": 0,
+							"7": 0,
+							"8": 0.9396925568580627,
+							"9": 0,
+							"10": -0.3420201241970062,
+							"11": 0,
+							"12": 25.418535232543945,
+							"13": -0.7159456610679626,
+							"14": 22.70039176940918,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "LOW_POLY_ASTRONAUGHT6",
+					"id": "aa96eed2-29af-4910-936c-c41370ab29d7",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						28.6999989,
+						0.399999976,
+						-2.5
+					],
+					"scaling": [
+						1,
+						1,
+						1
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0.173648193,
+						0,
+						0.984807849
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": -0.3420201241970062,
+							"1": 0,
+							"2": -0.9396925568580627,
+							"3": 0,
+							"4": 0,
+							"5": 1,
+							"6": 0,
+							"7": 0,
+							"8": 0.9396925568580627,
+							"9": 0,
+							"10": -0.3420201241970062,
+							"11": 0,
+							"12": 25.418535232543945,
+							"13": -0.7159456610679626,
+							"14": 22.70039176940918,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "LOW_POLY_ASTRONAUGHT7",
+					"id": "18666a16-553e-4f8e-b54a-e1f728cc938a",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						17.6999989,
+						0.899999976,
+						2.0999999
+					],
+					"scaling": [
+						1,
+						1,
+						1
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						0.173648193,
+						0,
+						0.984807849
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": -0.3420201241970062,
+							"1": 0,
+							"2": -0.9396925568580627,
+							"3": 0,
+							"4": 0,
+							"5": 1,
+							"6": 0,
+							"7": 0,
+							"8": 0.9396925568580627,
+							"9": 0,
+							"10": -0.3420201241970062,
+							"11": 0,
+							"12": 25.418535232543945,
+							"13": -0.7159456610679626,
+							"14": 22.70039176940918,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "LOW_POLY_ASTRONAUGHT8",
+					"id": "e9abff5d-cc4c-4d58-9cd1-97e1ac6851dc",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						7.79999971,
+						0.899999976,
+						2.20000005
+					],
+					"scaling": [
+						1,
+						1,
+						1
+					],
+					"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+					"rotationQuaternion": [
+						0,
+						-0.342020154,
+						0,
+						0.939692616
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": -0.3420201241970062,
+							"1": 0,
+							"2": -0.9396925568580627,
+							"3": 0,
+							"4": 0,
+							"5": 1,
+							"6": 0,
+							"7": 0,
+							"8": 0.9396925568580627,
+							"9": 0,
+							"10": -0.3420201241970062,
+							"11": 0,
+							"12": 25.418535232543945,
+							"13": -0.7159456610679626,
+							"14": 22.70039176940918,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				}
+			],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/9dea51df-c7c4-410e-8595-ca5f938c3f6c.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				1.4909765720367432,
+				5.92874002456665,
+				0.6710375547409058
+			],
+			"boundingBoxMinimum": [
+				-1.4909765720367432,
+				-2.6535336973964163e-17,
+				-0.995441198348999
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 1620,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 1620,
+					"stride": 3,
+					"offset": 6480,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 1080,
+					"stride": 2,
+					"offset": 12960,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 1080,
+					"stride": 2,
+					"offset": 17280,
+					"dataType": 1
+				},
+				"tangetsAttrDesc": {
+					"count": 2160,
+					"stride": 3,
+					"offset": 21600,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 2310,
+					"stride": 1,
+					"offset": 30240,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 39480,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"tangents": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

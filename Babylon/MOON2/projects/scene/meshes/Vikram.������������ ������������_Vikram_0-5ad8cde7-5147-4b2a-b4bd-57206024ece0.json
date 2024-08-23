@@ -1,0 +1,156 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Vikram.������������ ������������_Vikram_0",
+			"id": "5ad8cde7-5147-4b2a-b4bd-57206024ece0",
+			"uniqueId": 561,
+			"type": "Mesh",
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "78d6ce97-636b-40d2-8a30-0ef72e4ea755",
+			"isUnIndexed": false,
+			"geometryId": "929d84cd-12f6-4315-b03b-11c609a1d067",
+			"subMeshes": null,
+			"materialId": "a45d0db3-7ebc-49b5-9cf4-7645b7f43b02",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": -0.00020962953567504883,
+					"13": -1.0953848361968994,
+					"14": 0.8241308331489563,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Vikram.������������ ������������_Vikram_0",
+					"name": "Vikram.������������ ������������_Vikram_0",
+					"sceneFileName": "SHIP/isro_chandrayyan-3_mission_lander_module_vikram.glb"
+				},
+				"isPickable": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/929d84cd-12f6-4315-b03b-11c609a1d067.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				0.9281414151191711,
+				0.046999961137771606,
+				1.7561404705047607
+			],
+			"boundingBoxMinimum": [
+				-0.9344943165779114,
+				-0.04699983447790146,
+				-0.13190680742263794
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 672,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 672,
+					"stride": 3,
+					"offset": 2688,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 448,
+					"stride": 2,
+					"offset": 5376,
+					"dataType": 1
+				},
+				"tangetsAttrDesc": {
+					"count": 896,
+					"stride": 3,
+					"offset": 7168,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 576,
+					"stride": 1,
+					"offset": 10752,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 13056,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"tangents": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		0,
+		0,
+		0
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+	"scaling": [
+		1,
+		1,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "monkey2",
+	"id": "552b53f6-9b1b-4fc7-9dbe-6e98bda2fb96",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 2049,
+	"parentId": "edfdf9d9-1f93-45af-bf30-cc3fb4145ded",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

@@ -1,0 +1,153 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Sphere008_neptune rings_0",
+			"id": "ceb4184a-c4f6-41c5-b2c4-072322572927",
+			"uniqueId": 129,
+			"type": "Mesh",
+			"position": [
+				-0.4482291638851166,
+				-0.00002511520688130986,
+				0.0000010162495982513065
+			],
+			"rotationQuaternion": [
+				4.76248145798997e-17,
+				1.0744405479023169e-16,
+				-2.1592635235379017e-8,
+				0.9999999999999998
+			],
+			"scaling": [
+				1.0000000000000009,
+				1.0000000000000009,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "3650cd11-072e-4efa-bca2-4e46bd03be6b",
+			"isUnIndexed": false,
+			"geometryId": "5eff0a11-3735-4415-b702-70b3dce2c919",
+			"subMeshes": null,
+			"materialId": "a4d65b2c-5d6e-4c7f-8dcd-b0f89cd7ed19",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -147.9558868408203,
+					"1": 53.85153579711914,
+					"2": -2.944220796052832e-7,
+					"3": 0,
+					"4": 2.944220796052832e-7,
+					"5": 8.089181164905312e-7,
+					"6": 157.45135498046875,
+					"7": 0,
+					"8": -53.85153579711914,
+					"9": -147.9558868408203,
+					"10": 8.089181164905312e-7,
+					"11": 0,
+					"12": 3.3658976554870605,
+					"13": 1.5244420766830444,
+					"14": -54.09122848510742,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Sphere008_neptune rings_0",
+					"name": "Sphere008_neptune rings_0",
+					"sceneFileName": "solar system/solar_system_custom.glb"
+				},
+				"isPickable": false,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/5eff0a11-3735-4415-b702-70b3dce2c919.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				24.732725143432617,
+				24.89006233215332,
+				25.24256134033203
+			],
+			"boundingBoxMinimum": [
+				-26.41873550415039,
+				-25.104175567626953,
+				-29.130603790283203
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 7662,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 7662,
+					"stride": 3,
+					"offset": 30648,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 5108,
+					"stride": 2,
+					"offset": 61296,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 14280,
+					"stride": 1,
+					"offset": 81728,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 138848,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		1.062891960144043,
+		0.24909445643424988,
+		1.0950909852981567
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+	"scaling": [
+		1,
+		1,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "MSL_0",
+	"id": "f3f4a76a-a86f-478d-9b53-9419f4c2800c",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 1045,
+	"parentId": "26d6094b-c14b-411b-86c6-adac179c138d",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

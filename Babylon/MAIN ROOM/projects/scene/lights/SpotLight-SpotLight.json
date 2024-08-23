@@ -1,0 +1,54 @@
+{
+	"tags": null,
+	"angle": 2.10968756,
+	"innerAngle": 0,
+	"exponent": 1,
+	"projectionTextureLightNear": 0.000001,
+	"projectionTextureLightFar": 1000,
+	"projectionTextureUpDirection": {
+		"_isDirty": true,
+		"_x": 0,
+		"_y": 1,
+		"_z": 0
+	},
+	"diffuse": [
+		0.00802319311,
+		0.401977777,
+		1
+	],
+	"specular": [
+		1,
+		1,
+		1
+	],
+	"falloffType": 2,
+	"intensity": 60.6765366,
+	"range": 4.06752443,
+	"intensityMode": 0,
+	"radius": 0.00001,
+	"_renderPriority": 0,
+	"shadowEnabled": true,
+	"excludeWithLayerMask": 0,
+	"includeOnlyWithLayerMask": 0,
+	"lightmapMode": 0,
+	"position": [
+		0,
+		0,
+		0
+	],
+	"direction": [
+		0,
+		0,
+		-1
+	],
+	"name": "SpotLight",
+	"id": "SpotLight",
+	"state": "",
+	"metadata": {},
+	"uniqueId": 264,
+	"type": 2,
+	"parentId": "d562480b-b5c4-4bea-bd54-96748d77922b",
+	"animations": [],
+	"ranges": [],
+	"isEnabled": true
+}

@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		-2.7161998748779297,
+		-1.3777217864990234,
+		2.220446049250313e-16
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.016200706362724304,
+		-0.9968015551567078,
+		0.006148782558739185,
+		0.07801530510187149
+	],
+	"scaling": [
+		1.0000001192092896,
+		1,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "BN_Tail_01_34",
+	"id": "d1bd76ec-ddcc-4eb5-926c-26f911921c08",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 1880,
+	"parentId": "47f93ccd-3d40-43fe-94bf-730c2ce3c3f8",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

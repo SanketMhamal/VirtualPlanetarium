@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		2.8246262073516846,
+		0.4084756076335907,
+		1.7288562059402466
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+	"scaling": [
+		0.2857697904109955,
+		0.2857697904109955,
+		0.2857697904109955
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "fire6:Group20972_13",
+	"id": "25c305f7-58d5-498a-b0c7-d6a3b7210fa4",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 465,
+	"parentId": "c8641fd2-2e6e-479e-b76d-1c900bb988cf",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

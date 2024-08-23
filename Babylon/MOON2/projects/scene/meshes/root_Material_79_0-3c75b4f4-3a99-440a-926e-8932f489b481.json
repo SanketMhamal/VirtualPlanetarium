@@ -1,0 +1,141 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "root_Material_79_0",
+			"id": "3c75b4f4-3a99-440a-926e-8932f489b481",
+			"uniqueId": 986,
+			"type": "Mesh",
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "b70728c8-f4c9-42ef-8bfa-69380d4dd6eb",
+			"isUnIndexed": false,
+			"geometryId": "a8bceeae-fad9-408e-85cc-8233fee45512",
+			"subMeshes": null,
+			"materialId": "9382aac8-1f61-4983-9bcc-1f127965ef00",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -535.5618286132812,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 0.00003786833622143604,
+					"6": 479.5137023925781,
+					"7": 0,
+					"8": 0,
+					"9": -635.3251953125,
+					"10": 0.0000285812457150314,
+					"11": 0,
+					"12": -702.5939331054688,
+					"13": 549.0328369140625,
+					"14": -948.9461059570312,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "root_Material_79_0",
+					"name": "root_Material_79_0",
+					"sceneFileName": "SHIP/flag_of_india.glb"
+				},
+				"isPickable": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/a8bceeae-fad9-408e-85cc-8233fee45512.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				18.60824203491211,
+				25.09929847717285,
+				18.60824203491211
+			],
+			"boundingBoxMinimum": [
+				-18.60824203491211,
+				-25.09929847717285,
+				-18.60824203491211
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 4614,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 4614,
+					"stride": 3,
+					"offset": 18456,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 9216,
+					"stride": 1,
+					"offset": 36912,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 73776,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

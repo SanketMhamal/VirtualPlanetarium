@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		8.882463455200195,
+		0.0000019073486328125,
+		0
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		5.837299088540249e-9,
+		3.2466598298697136e-8,
+		0.4402485191822052,
+		0.897875964641571
+	],
+	"scaling": [
+		1,
+		0.9999999403953552,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Bip01-L-HorseLink_40",
+	"id": "4b8a19a6-ff0c-465d-bc00-16a8d3143f66",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 1886,
+	"parentId": "b91dd504-1bea-403b-b361-837648e364d9",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

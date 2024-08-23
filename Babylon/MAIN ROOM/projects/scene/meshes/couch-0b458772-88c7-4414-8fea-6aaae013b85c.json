@@ -1,0 +1,3689 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "couch",
+			"id": "0b458772-88c7-4414-8fea-6aaae013b85c",
+			"uniqueId": 2032,
+			"type": "Mesh",
+			"position": [
+				10.5,
+				1.69999993,
+				4.5
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				14,
+				14.0000038,
+				14.0000038
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": true,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+			"isUnIndexed": false,
+			"geometryId": "ec90a8fe-4a29-4694-ad19-cf4b98d5fbc0",
+			"subMeshes": null,
+			"materialId": "17c0de0e-da7e-4aab-a60d-10456f0eafe8",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -0.0714285746216774,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 0.07142855226993561,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 0.07142855226993561,
+					"11": 0,
+					"12": -0.75,
+					"13": -0.12142853438854218,
+					"14": -0.32142847776412964,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "couch",
+					"name": "couch",
+					"sceneFileName": "AUDITORIUM/aUDITORIUM.glb"
+				},
+				"isPickable": false,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [
+				{
+					"name": "couch2",
+					"id": "7d6fdafa-fe12-4ec9-90f8-70fd2392d4aa",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						10.5,
+						1.69999993,
+						6.39999962
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch3",
+					"id": "b503392c-de79-404f-9803-ef21cf3ea46e",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						10.5,
+						1.69999993,
+						8.30000019
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch5",
+					"id": "e6c23270-ab94-4d70-8154-6eefddbcf59b",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						10.5,
+						1.69999993,
+						2.5999999
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch4",
+					"id": "18082322-27c4-4cb8-86a1-e4f9a18e3c72",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						10.3999996,
+						1.69999993,
+						-6.19999981
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch6",
+					"id": "c2555c81-75d2-4d27-9f6d-1099b9d624c9",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						10.3999996,
+						1.69999993,
+						-4.29999971
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch7",
+					"id": "cc67a1d3-35de-47ab-b444-13887954a536",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						10.3999996,
+						1.69999993,
+						-2.39999986
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch8",
+					"id": "8c7d0827-f705-47f8-b25b-3504c2886fe4",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						10.3999996,
+						1.69999993,
+						-8.09999943
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch9",
+					"id": "cc8269b4-74e3-4c01-8a29-221882a4a1e1",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						10.3999996,
+						1.69999993,
+						-17.1000004
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch10",
+					"id": "2b12a1e3-f78d-4134-be86-e3ea9d6e772a",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						10.3999996,
+						1.69999993,
+						-15.1999998
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch11",
+					"id": "b259550a-497c-4769-b07b-92e658354588",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						10.3999996,
+						1.69999993,
+						-13.2999992
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch12",
+					"id": "bc9e3ae0-bb79-4c14-8523-124bb707c4f0",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						10.3999996,
+						1.69999993,
+						-19
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch13",
+					"id": "cee11bb5-e44f-43e5-8ef0-8c35e08f1e98",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						8.30000019,
+						1.69999993,
+						4.5999999
+					],
+					"scaling": [
+						14,
+						14.0000029,
+						14.0000029
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch14",
+					"id": "cc7d2e6f-3614-4027-b9f1-eeca0f21cb36",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						8.30000019,
+						1.69999993,
+						6.5
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch15",
+					"id": "daa42b9a-404e-4e57-bb7e-f487f27793a9",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						8.30000019,
+						1.69999993,
+						8.39999962
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch16",
+					"id": "524d59a6-bb05-44ba-b4ad-017156b6231d",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						8.30000019,
+						1.69999993,
+						2.70000005
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch17",
+					"id": "210be81e-718d-4569-8d48-64ee4289c514",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						8.19999981,
+						1.69999993,
+						-6.0999999
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch18",
+					"id": "05b2037e-890b-4b4b-a477-a1a14e9050c4",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						8.19999981,
+						1.69999993,
+						-4.19999981
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch19",
+					"id": "58846bd2-f8bf-4b16-b121-32b83b70a0ad",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						8.19999981,
+						1.69999993,
+						-2.29999995
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch20",
+					"id": "09678a4b-7c14-48bd-8b8e-774cd1af4436",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						8.19999981,
+						1.69999993,
+						-8
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch21",
+					"id": "fb457dbf-bcb3-445b-9858-4ed37b8101ea",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						8.19999981,
+						1.69999993,
+						-17
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch22",
+					"id": "f1117175-d47b-4774-8391-189ab66552f0",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						8.19999981,
+						1.69999993,
+						-15.0999994
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch23",
+					"id": "fb242db7-9278-4e88-ba92-e576b9dfbab5",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						8.19999981,
+						1.69999993,
+						-13.1999998
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch24",
+					"id": "8c49b1b2-e178-4228-bc99-b68c31e6a057",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						8.19999981,
+						1.69999993,
+						-18.8999996
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch25",
+					"id": "c2a4653b-f197-4a49-85b5-213e17dd6ab8",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						2.39999986,
+						2.70000005,
+						4.5
+					],
+					"scaling": [
+						14,
+						14.0000029,
+						14.0000029
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch26",
+					"id": "e6083f80-8a3b-42a2-bdf7-93521e4105fd",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						2.39999986,
+						2.70000005,
+						6.39999962
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch27",
+					"id": "1ba17717-dd56-4ead-b135-e6e55d816201",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						2.39999986,
+						2.70000005,
+						8.30000019
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch28",
+					"id": "7edb835f-cc03-4710-8af0-44c0bbd9a3ab",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						2.39999986,
+						2.70000005,
+						2.5999999
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch29",
+					"id": "38fb3af2-09c0-405d-812a-ccc2507e02fe",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						2.29999995,
+						2.70000005,
+						-6.19999981
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch30",
+					"id": "b5d90e72-e3ac-4efb-a9e3-a25349a0ebeb",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						2.29999995,
+						2.70000005,
+						-4.29999971
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch31",
+					"id": "b771dbda-3ea6-4339-8c29-1e8eacaa2ca3",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						2.29999995,
+						2.70000005,
+						-2.39999986
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch32",
+					"id": "4e60c01a-3412-447d-bd18-5c0fed5d815d",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						2.29999995,
+						2.70000005,
+						-8.09999943
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch33",
+					"id": "f6520dfe-bba6-41ed-90bf-0271cdbf7965",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						2.29999995,
+						2.70000005,
+						-17.1000004
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch34",
+					"id": "7ce04ec0-b3f3-44f7-8d65-d058ab55af74",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						2.29999995,
+						2.70000005,
+						-15.1999998
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch35",
+					"id": "afcbd20a-4d32-4d8e-94c3-94ea60a95f84",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						2.29999995,
+						2.70000005,
+						-13.2999992
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch36",
+					"id": "1ee19fde-b706-4a43-9a16-26fe9195b088",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						2.29999995,
+						2.70000005,
+						-19
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch37",
+					"id": "87e20789-c9db-4e17-b971-125799be10fb",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						4.19999981,
+						2.70000005,
+						4.4000001
+					],
+					"scaling": [
+						14,
+						14.0000029,
+						14.0000029
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch38",
+					"id": "384b0a19-36b3-4c22-a0ae-b1a02c7489a1",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						4.19999981,
+						2.70000005,
+						6.29999971
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch39",
+					"id": "90c03a9c-4410-4bd3-a94b-624a6302b6df",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						4.19999981,
+						2.70000005,
+						8.19999981
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch40",
+					"id": "3c56c5f6-b321-4211-8551-bd0b215b6f88",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						4.19999981,
+						2.70000005,
+						2.5
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch41",
+					"id": "2d236333-33d1-478c-a8cc-b9440028d9f6",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						4.0999999,
+						2.70000005,
+						-6.29999971
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch42",
+					"id": "8938575a-2f07-4825-9c45-d7874b3a76e2",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						4.0999999,
+						2.70000005,
+						-4.4000001
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch43",
+					"id": "ec596a8d-0f4d-47b7-8f93-78dc2a7ec1f0",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						4.0999999,
+						2.70000005,
+						-2.5
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch44",
+					"id": "acc38422-08be-42db-b770-c9334c0935f7",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						4.0999999,
+						2.70000005,
+						-8.19999981
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch45",
+					"id": "612a43b9-6d91-44c8-8611-62ea3c51c1fa",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						4.0999999,
+						2.70000005,
+						-17.1999989
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch46",
+					"id": "792fd290-4515-497a-af1b-bd72aa61fc96",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						4.0999999,
+						2.70000005,
+						-15.2999992
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch47",
+					"id": "e679c316-bd33-4e77-bffc-c9137a1c8fd7",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						4.0999999,
+						2.70000005,
+						-13.3999996
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch48",
+					"id": "8dc5d54b-1857-40be-9f1a-8da58a877837",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						4.0999999,
+						2.70000005,
+						-19.1000004
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch49",
+					"id": "4a013e6d-7025-42b2-a769-11c076def100",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-2.39999986,
+						3.69999981,
+						4.5999999
+					],
+					"scaling": [
+						14,
+						14.0000029,
+						14.0000029
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch50",
+					"id": "c3b7d02a-af89-487a-b4c7-1b99dc7457ce",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-2.39999986,
+						3.69999981,
+						6.5
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch51",
+					"id": "712c51e6-acc7-4c83-8f63-495346c6ed7a",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-2.39999986,
+						3.69999981,
+						8.39999962
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch52",
+					"id": "57f707df-4d3c-4e4c-8899-984f69eb6760",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-2.39999986,
+						3.69999981,
+						2.70000005
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch53",
+					"id": "fd0596ba-1d03-41b8-a4f7-e552e58443b8",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-2.5,
+						3.69999981,
+						-6.0999999
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch54",
+					"id": "6761d4e5-55a1-4132-8b50-3d880a1e81e9",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-2.5,
+						3.69999981,
+						-4.19999981
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch55",
+					"id": "a353e2fa-035d-4510-addf-b1a3c0b3e013",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-2.5,
+						3.69999981,
+						-2.29999995
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch56",
+					"id": "f07adc3f-60a3-44e8-beda-4c2dcaa094c5",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-2.5,
+						3.69999981,
+						-8
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch57",
+					"id": "d885a09f-5342-4c5f-8797-89c0d44420ce",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-2.5,
+						3.69999981,
+						-17
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch58",
+					"id": "eeb70c4d-0f68-4c19-a9c8-aadb35363ee5",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-2.5,
+						3.69999981,
+						-15.0999994
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch59",
+					"id": "5f9b2564-e015-4304-8252-b6333ae5ce74",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-2.5,
+						3.69999981,
+						-13.1999998
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch60",
+					"id": "926848d2-1a81-4fd6-b581-3b97b41b9684",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-2.5,
+						3.69999981,
+						-18.8999996
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch61",
+					"id": "97950917-f423-438c-b2e3-68072fc75ba7",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-0.599999964,
+						3.69999981,
+						4.5
+					],
+					"scaling": [
+						14,
+						14.0000029,
+						14.0000029
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch62",
+					"id": "0a6aa135-8298-429c-aa19-41b3f061a494",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-0.599999964,
+						3.69999981,
+						6.39999962
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch63",
+					"id": "8375d002-3d88-4ebc-9e07-2e59b9c1f497",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-0.599999964,
+						3.69999981,
+						8.30000019
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch64",
+					"id": "ec8836ce-9e62-4f76-a39c-09f6e6a0c203",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-0.599999964,
+						3.69999981,
+						2.5999999
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch65",
+					"id": "d7bd7bdb-d0ca-4e8a-b299-2cd85deecf6c",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-0.699999988,
+						3.69999981,
+						-6.19999981
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch66",
+					"id": "68e94909-599f-4560-95dd-502ec31ac9c4",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-0.699999988,
+						3.69999981,
+						-4.29999971
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch67",
+					"id": "46dc6f63-139c-43db-a990-55772884881b",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-0.699999988,
+						3.69999981,
+						-2.39999986
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch68",
+					"id": "67b7ef21-3a69-4ecb-8952-bac3cb51ad36",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-0.699999988,
+						3.69999981,
+						-8.09999943
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch69",
+					"id": "578135c4-1449-4199-ba63-df896def99cc",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-0.699999988,
+						3.69999981,
+						-17.1000004
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch70",
+					"id": "d12bedca-fc6d-4e9d-8255-4ffdcfd56ae3",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-0.699999988,
+						3.69999981,
+						-15.1999998
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch71",
+					"id": "f4aabfc4-8967-4502-98d0-1863782eae34",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-0.699999988,
+						3.69999981,
+						-13.2999992
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				},
+				{
+					"name": "couch72",
+					"id": "683106c8-321d-4f1b-8702-36654d67c3af",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": false,
+					"position": [
+						-0.699999988,
+						3.69999981,
+						-19
+					],
+					"scaling": [
+						14,
+						14.0000038,
+						14.0000038
+					],
+					"parentId": "44350a28-5f83-4b5d-b7e8-aad56afd7be7",
+					"rotationQuaternion": [
+						0,
+						0,
+						0,
+						1
+					],
+					"metadata": {
+						"basePoseMatrix": {
+							"0": 0.0714285746216774,
+							"1": 0,
+							"2": 0,
+							"3": 0,
+							"4": 0,
+							"5": 0.07142855226993561,
+							"6": 0,
+							"7": 0,
+							"8": 0,
+							"9": 0,
+							"10": 0.07142855226993561,
+							"11": 0,
+							"12": -0.75,
+							"13": -0.12142853438854218,
+							"14": -0.32142847776412964,
+							"15": 1
+						},
+						"isPickable": false
+					},
+					"animations": [],
+					"ranges": []
+				}
+			],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/ec90a8fe-4a29-4694-ad19-cf4b98d5fbc0.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				0.029098685830831528,
+				0.062486860901117325,
+				0.08981505036354065
+			],
+			"boundingBoxMinimum": [
+				-0.03751925379037857,
+				-0.0001744506589602679,
+				-0.07349243015050888
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 1020,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 1020,
+					"stride": 3,
+					"offset": 4080,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 680,
+					"stride": 2,
+					"offset": 8160,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 680,
+					"stride": 2,
+					"offset": 10880,
+					"dataType": 1
+				},
+				"tangetsAttrDesc": {
+					"count": 1360,
+					"stride": 3,
+					"offset": 13600,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 1002,
+					"stride": 1,
+					"offset": 19040,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 23048,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"tangents": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

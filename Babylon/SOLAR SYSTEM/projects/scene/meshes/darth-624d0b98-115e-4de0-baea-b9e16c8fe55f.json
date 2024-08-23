@@ -1,0 +1,103 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "darth",
+			"id": "624d0b98-115e-4de0-baea-b9e16c8fe55f",
+			"uniqueId": 1770,
+			"type": "Mesh",
+			"position": [
+				0.4510185420513153,
+				5.35472297668457,
+				-0.9349642395973206
+			],
+			"rotationQuaternion": [
+				0.9983755858019052,
+				0,
+				-0.05697534269052292,
+				0
+			],
+			"scaling": [
+				0.9999998228260251,
+				-1,
+				0.9999998228260251
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": null,
+			"isUnIndexed": false,
+			"materialId": "default material",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "__root__",
+					"name": "__root__",
+					"sceneFileName": "darth/darth_vader.glb"
+				},
+				"isPickable": false,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"parentId": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

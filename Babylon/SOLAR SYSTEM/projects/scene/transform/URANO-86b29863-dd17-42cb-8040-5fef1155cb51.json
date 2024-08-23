@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		2.5960772037506104,
+		11.899025917053223,
+		44.30677032470703
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.7417667743340454,
+		0.03210668627235076,
+		-0.03560188440731561,
+		0.668942224537203
+	],
+	"scaling": [
+		0.1475023043891096,
+		0.1475023020881032,
+		0.14750230551183513
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "URANO",
+	"id": "86b29863-dd17-42cb-8040-5fef1155cb51",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 135,
+	"parentId": "19e05be4-8993-4d08-8ee3-4fce900ac426",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

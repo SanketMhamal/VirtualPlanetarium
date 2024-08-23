@@ -1,0 +1,104 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "alien",
+			"id": "b6e51838-391a-4846-a56b-664b429ab671",
+			"uniqueId": 684,
+			"type": "Mesh",
+			"position": [
+				-221.1569366455078,
+				181.3376922607422,
+				74.0113296508789
+			],
+			"rotationQuaternion": [
+				0.7339888896333986,
+				0,
+				0.6791614755672842,
+				0
+			],
+			"scaling": [
+				50.00000320849599,
+				-50,
+				50.00000320849599
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": null,
+			"isUnIndexed": false,
+			"materialId": "default material",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "__root__",
+					"name": "__root__",
+					"sceneFileName": "alien/alien (2).glb"
+				},
+				"isPickable": false,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0,
+				"_waitingParentId": null
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"parentId": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		-17.148696899414062,
+		12.113520622253418,
+		8.764083862304688
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.24254096013876197,
+		0.680413698066927,
+		0.06371242063773214,
+		0.688586820065931
+	],
+	"scaling": [
+		1.0000001310254674,
+		-1.0000001073769433,
+		1.000000247371485
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "asteroides",
+	"id": "7fbcef03-1bd1-4120-bffb-7147765230cc",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 159,
+	"parentId": "19e05be4-8993-4d08-8ee3-4fce900ac426",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

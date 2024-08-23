@@ -1,0 +1,167 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "SM_Rect_Sofa1_primitive1",
+			"id": "3cafb4f4-764f-4c1b-b747-a3c654a1bb6a",
+			"uniqueId": 2667,
+			"type": "Mesh",
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": true,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "da40e9ca-a5af-4eac-b688-d2c66232f368",
+			"isUnIndexed": false,
+			"geometryId": "2b9f7015-a2e1-4421-b394-209fd7f8fc62",
+			"subMeshes": null,
+			"materialId": "e9b69a0b-6156-4322-bc50-1d7332f372e0",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -0.34202009439468384,
+					"1": 0,
+					"2": 0.9396926164627075,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0.9396926164627075,
+					"9": 0,
+					"10": 0.34202009439468384,
+					"11": 0,
+					"12": -11.994197845458984,
+					"13": -0.29999998211860657,
+					"14": 25.64427947998047,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "SM_Rect_Sofa1_primitive1",
+					"name": "SM_Rect_Sofa1_primitive1",
+					"sceneFileName": "TELESCOPE/oBSERVATORY.glb"
+				},
+				"isPickable": false,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/2b9f7015-a2e1-4421-b394-209fd7f8fc62.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				0.8753868937492371,
+				1.0565516948699951,
+				0.47739848494529724
+			],
+			"boundingBoxMinimum": [
+				-0.959152340888977,
+				0.3005813956260681,
+				-0.39503049850463867
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 2055,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 2055,
+					"stride": 3,
+					"offset": 8220,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 1370,
+					"stride": 2,
+					"offset": 16440,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 1370,
+					"stride": 2,
+					"offset": 21920,
+					"dataType": 1
+				},
+				"tangetsAttrDesc": {
+					"count": 2740,
+					"stride": 3,
+					"offset": 27400,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 3102,
+					"stride": 1,
+					"offset": 38360,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 50768,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"tangents": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

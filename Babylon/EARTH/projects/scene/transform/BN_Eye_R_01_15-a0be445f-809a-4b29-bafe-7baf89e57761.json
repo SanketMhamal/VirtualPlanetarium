@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		2.2802696228027344,
+		1.245384693145752,
+		-0.752342700958252
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.4629340171813965,
+		-0.4696260094642639,
+		-0.2685006558895111,
+		-0.7021758556365967
+	],
+	"scaling": [
+		1.0000005960464478,
+		0.9999995827674866,
+		1.0000001192092896
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "BN_Eye_R_01_15",
+	"id": "a0be445f-809a-4b29-bafe-7baf89e57761",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 1862,
+	"parentId": "75e94aa6-de54-482f-a190-2232a0171ba3",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

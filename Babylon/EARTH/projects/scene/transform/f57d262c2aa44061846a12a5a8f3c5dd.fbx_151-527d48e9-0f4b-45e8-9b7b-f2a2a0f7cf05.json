@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		0,
+		0,
+		0
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.7071067811865475,
+		0,
+		0,
+		0.7071067811865476
+	],
+	"scaling": [
+		1,
+		1,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "f57d262c2aa44061846a12a5a8f3c5dd.fbx_151",
+	"id": "527d48e9-0f4b-45e8-9b7b-f2a2a0f7cf05",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 462,
+	"parentId": "e2300f02-ca38-49a3-b4f9-982791648b00",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		3.3950061798095703,
+		-0.002841949462890625,
+		-0.00017905235290527344
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.030890224501490593,
+		-0.002385985106229782,
+		-0.09026367217302322,
+		0.995435893535614
+	],
+	"scaling": [
+		1.0000001192092896,
+		0.9999999403953552,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Bip01-Neck3_10",
+	"id": "7e895815-341d-4d24-b1b2-df4c0d7c74ee",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 1857,
+	"parentId": "46efc88b-3d5f-4b17-92f4-9518c7c270fb",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

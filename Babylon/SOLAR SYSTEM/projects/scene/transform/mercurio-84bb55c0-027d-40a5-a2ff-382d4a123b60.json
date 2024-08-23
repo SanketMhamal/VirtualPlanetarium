@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		0,
+		-0.0001087188720703125,
+		-0.0007171630859375
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.03513733795383781,
+		0,
+		0,
+		0.9993824989414437
+	],
+	"scaling": [
+		0.03622870519757271,
+		0.036228700607510184,
+		0.036228700607510184
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "mercurio",
+	"id": "84bb55c0-027d-40a5-a2ff-382d4a123b60",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 163,
+	"parentId": "ba4eaf9e-033b-40a5-803f-9251261fd7cb",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

@@ -1,0 +1,153 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Object_5",
+			"id": "c884befa-4090-433a-921d-5550b65eaa1b",
+			"uniqueId": 283,
+			"type": "Mesh",
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "848deb78-3e6a-47f4-b09d-8650b5d2bd1f",
+			"isUnIndexed": false,
+			"geometryId": "5ddbd48d-359f-4df7-a9d1-b564ac9c5972",
+			"subMeshes": null,
+			"materialId": "7cdb53df-2f19-4b7c-9ead-92c56c261c6d",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 2.220446049250313e-16,
+					"6": 177.73336791992188,
+					"7": 0,
+					"8": 0,
+					"9": -1,
+					"10": 3.9464735461774286e-14,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Object_5",
+					"name": "Object_5",
+					"sceneFileName": "MARS/jezero_crater_mars.glb"
+				},
+				"isPickable": false,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/5ddbd48d-359f-4df7-a9d1-b564ac9c5972.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				50,
+				56.93359375,
+				-513.770751953125
+			],
+			"boundingBoxMinimum": [
+				-50,
+				-56.93359375,
+				-3440.7490234375
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 120696,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 120696,
+					"stride": 3,
+					"offset": 482784,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 80464,
+					"stride": 2,
+					"offset": 965568,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 238986,
+					"stride": 1,
+					"offset": 1287424,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 2243368,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		-2.436124086380005,
+		12.590590476989746,
+		16.46709632873535
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+	"scaling": [
+		0.031956933438777924,
+		0.031956933438777924,
+		0.031956933438777924
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "pPlane135_lambert6_0_233",
+	"id": "496a18b4-2d2f-4977-bebe-b4f8b967ddf5",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 478,
+	"parentId": "78340d1b-cff5-4a74-8c62-190639fb8358",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

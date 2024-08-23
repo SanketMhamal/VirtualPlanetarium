@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		0.10629081726074219,
+		0.07546043395996094,
+		0.003200531005859375
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		-0.11783301754152592,
+		-0.11757445989265544,
+		0.004527103128376873,
+		0.9860380973821169
+	],
+	"scaling": [
+		0.14750229456845376,
+		0.14750229471382081,
+		0.14750231023083413
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "SATURN",
+	"id": "7b22fa1e-2ae4-4844-954e-7cd67aac1f0e",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 149,
+	"parentId": "11ce210b-494a-4714-abcb-8eff2907830e",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

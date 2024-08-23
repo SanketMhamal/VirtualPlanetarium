@@ -1,0 +1,55 @@
+{
+	"tags": null,
+	"position": [
+		10.449913024902344,
+		0.0000019073486328125,
+		-4.76837158203125e-7
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.05318867787718773,
+		-0.08276557177305222,
+		-0.7382574081420898,
+		0.6673056483268738
+	],
+	"scaling": [
+		1,
+		0.9999999403953552,
+		0.9999999403953552
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Bip01-L-Foot_41",
+	"id": "7c928fba-9389-4bde-98aa-3e8357dea4ed",
+	"state": "",
+	"metadata": {},
+	"type": "TransformNode",
+	"uniqueId": 1887,
+	"parentId": "4b8a19a6-ff0c-465d-bc00-16a8d3143f66",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

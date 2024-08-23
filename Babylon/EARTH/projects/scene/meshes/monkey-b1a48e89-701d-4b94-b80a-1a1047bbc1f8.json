@@ -1,0 +1,107 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "monkey",
+			"id": "b1a48e89-701d-4b94-b80a-1a1047bbc1f8",
+			"uniqueId": 2044,
+			"type": "Mesh",
+			"position": [
+				-92.861572265625,
+				11.926178932189941,
+				43.34675598144531
+			],
+			"rotationQuaternion": [
+				-0.5715639148061773,
+				0,
+				0.8205575490429887,
+				0
+			],
+			"scaling": [
+				10.000002358450885,
+				-10,
+				10.000002358450885
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": true,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": null,
+			"isUnIndexed": false,
+			"materialId": "default material",
+			"physicsMass": 0,
+			"physicsFriction": 0.2,
+			"physicsRestitution": 0,
+			"physicsImpostor": 2,
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "__root__",
+					"name": "__root__",
+					"sceneFileName": "monkey/monkey.glb"
+				},
+				"isPickable": false,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"parentId": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

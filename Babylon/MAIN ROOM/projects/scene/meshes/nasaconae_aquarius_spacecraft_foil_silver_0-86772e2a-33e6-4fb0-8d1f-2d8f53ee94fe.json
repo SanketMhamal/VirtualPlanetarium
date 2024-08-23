@@ -1,0 +1,164 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "nasaconae_aquarius_spacecraft_foil_silver_0",
+			"id": "86772e2a-33e6-4fb0-8d1f-2d8f53ee94fe",
+			"uniqueId": 592,
+			"type": "Mesh",
+			"position": [
+				41,
+				7.10217047,
+				-7.27371883
+			],
+			"rotationQuaternion": [
+				0.57357645,
+				0,
+				0,
+				0.819152057
+			],
+			"scaling": [
+				2,
+				2,
+				2
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "0a6b7be4-2db0-4d3e-8950-feeb9d902670",
+			"isUnIndexed": false,
+			"geometryId": "411c454d-f762-4261-a611-f7458030fea6",
+			"subMeshes": null,
+			"materialId": "e363e514-4a2e-418a-aa8d-a6d722d00c4f",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -0.5,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 0.17101004719734192,
+					"6": -0.46984630823135376,
+					"7": 0,
+					"8": 0,
+					"9": 0.46984630823135376,
+					"10": 0.17101004719734192,
+					"11": 0,
+					"12": -20.5,
+					"13": 2.2029874324798584,
+					"14": 4.580807685852051,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "nasaconae_aquarius_spacecraft_foil_silver_0",
+					"name": "nasaconae_aquarius_spacecraft_foil_silver_0",
+					"sceneFileName": "SATELLITE/satelite.glb"
+				},
+				"isPickable": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/411c454d-f762-4261-a611-f7458030fea6.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				1.264159917831421,
+				2.2941505908966064,
+				1.2641600370407104
+			],
+			"boundingBoxMinimum": [
+				-2.1054399013519287,
+				-1.1366902589797974,
+				-1.264160394668579
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 6330,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 6330,
+					"stride": 3,
+					"offset": 25320,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 4220,
+					"stride": 2,
+					"offset": 50640,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 4220,
+					"stride": 2,
+					"offset": 67520,
+					"dataType": 1
+				},
+				"tangetsAttrDesc": {
+					"count": 8440,
+					"stride": 3,
+					"offset": 84400,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 6342,
+					"stride": 1,
+					"offset": 118160,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 143528,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"tangents": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

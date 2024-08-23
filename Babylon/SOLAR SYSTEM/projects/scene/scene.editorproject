@@ -1,0 +1,823 @@
+{
+	"animationGroups": [],
+	"cameras": [
+		"camera-05e93a47-ec25-41ad-a1df-16f279c32246.json"
+	],
+	"materials": [
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "materials/ground.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "materials/sky.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [],
+			"json": "materials/cube.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"1f35e67c-4f3f-448f-abff-d44a21ec651c"
+			],
+			"json": "solar system/tierra-tierra.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"8ce02557-2976-4e60-ad3d-2b42c474213a"
+			],
+			"json": "solar system/luna-luna.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"0f3229c6-b7a3-4d83-a2c9-d2ab12f56de6"
+			],
+			"json": "solar system/14_-_Default-14_-_Default.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"dbea1ca2-3d2f-401b-b417-61c878020dc8"
+			],
+			"json": "solar system/uranus-uranus.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"3d715216-6504-4750-83c9-64dc66d4c4a5"
+			],
+			"json": "solar system/pluto-pluto.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"b3c57272-61a0-4c03-92db-428716097858"
+			],
+			"json": "solar system/material_0-material_0.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"98cb5b05-8dcd-4060-b0ec-556b16485341",
+				"005647b9-79ee-46a7-a674-e5f6e3f8b68e",
+				"46d73256-d4c8-4297-8151-03e94c56bbe9",
+				"0d142266-a94c-4614-81be-e07df65b5ee9",
+				"20f9ec89-039f-4720-81d7-1f5d017ada7a",
+				"86e1c82c-478f-480b-ac72-9c1bfbae8570",
+				"1d11eb8e-12b4-49c0-a8f1-d0d8a9a8a304",
+				"5b40b585-c7f2-4efb-93cc-6c1c112ac6ef",
+				"f80e62d8-72c1-4975-86bd-bb7ad04e4745",
+				"292d5bf4-d040-4ee7-b1f8-6b63031793af",
+				"e0768c58-a409-4471-870e-b5bde8dc9719",
+				"8dac5a6e-c5b1-4c66-b4e8-bdad5e092f12"
+			],
+			"json": "solar system/Circle005__0-Circle005__0.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"ceb4184a-c4f6-41c5-b2c4-072322572927",
+				"b9a2d1bf-84a9-42fe-968e-5e9ab64eb218"
+			],
+			"json": "solar system/neptune_rings-neptune_rings.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"f02e5972-971c-4139-b80a-a0c82e79d1a2"
+			],
+			"json": "solar system/pluto_0-pluto_0.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"1f7438a2-03e0-4060-8ce2-a4ffc8fe86f4"
+			],
+			"json": "solar system/saturno-saturno.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"d243247c-6572-46ad-9a6d-0eed2d0d497f"
+			],
+			"json": "solar system/mercurio-mercurio.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"84376676-721e-4bf9-8b1f-b73c18e6806e"
+			],
+			"json": "solar system/venus-venus.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"6a927ea7-51d9-4248-9b80-4d34b53b386e"
+			],
+			"json": "materials/1.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"1878aaae-5490-4312-9bae-a1dbfe8a1900"
+			],
+			"json": "darth/Material.001-Material.001.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"8d0ca79d-eab7-4ca2-8baa-83fb62b29937"
+			],
+			"json": "darth/Material.002-Material.002.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"25e77ced-2eff-4dc5-ba6f-beab644318ec"
+			],
+			"json": "darth/Material.003-Material.003.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"00310aae-6131-40c7-8d3e-149a829767f1"
+			],
+			"json": "darth/Material.004-Material.004.material"
+		},
+		{
+			"isMultiMaterial": false,
+			"bindedMeshes": [
+				"503c3e61-7117-47f3-9dc9-c0a1980eb752"
+			],
+			"json": "darth/Material.005-Material.005.material"
+		}
+	],
+	"textures": [
+		"tierra (Diffuse).jpeg-6d65e393-0e40-44e9-95f9-ad114f5fbece.json",
+		"tierra (Specular Glossiness).jpeg-7941c4b8-41ce-4811-83a1-7c659fd67035.json",
+		"luna (Diffuse).jpeg-d5dacc55-83c6-4664-bfe1-daafc29a5611.json",
+		"luna (Specular Glossiness).jpeg-09ac3b49-329c-4028-aa01-78af74944621.json",
+		"14_-_Default (Diffuse).jpeg-afb17ef5-535a-4f47-8121-c79fa6f93720.json",
+		"14_-_Default (Specular Glossiness).jpeg-23fc75b0-c9af-4799-8df2-3adc48212ef2.json",
+		"uranus (Diffuse).jpeg-7cf4a207-d1c4-4469-aeec-c0b1902cbc60.json",
+		"uranus (Specular Glossiness).jpeg-6500e63d-ec40-44cd-9991-79e9c2f0992e.json",
+		"pluto (Diffuse).jpeg-8dbf6229-c920-40cb-abd8-33e0208d247f.json",
+		"pluto (Specular Glossiness).jpeg-749bb73c-9e76-40aa-b7cd-480bdc0b82ca.json",
+		"material_0 (Diffuse).jpeg-08a4d77e-c647-4fed-b140-79a4139bf6d1.json",
+		"material_0 (Specular Glossiness).jpeg-80b9ab76-170e-467e-9422-3d01713e0eac.json",
+		"neptune_rings (Diffuse).jpeg-bfdadfec-bb5e-4700-8eef-d7f21f066d93.json",
+		"neptune_rings (Emissive).jpeg-7955cd5e-74f7-4b9c-ac38-e771c17ea58b.json",
+		"neptune_rings (Specular Glossiness).png-9369d978-425f-4206-9dfe-088394b8385b.json",
+		"pluto_0 (Diffuse).jpeg-d10fa07f-5a84-460a-8975-df70a1333d45.json",
+		"pluto_0 (Specular Glossiness).jpeg-5ff02270-5e27-4e02-9c0b-08a2bc675af5.json",
+		"saturno (Diffuse).jpeg-56f3899e-d2b4-44eb-89bb-b1b76759d632.json",
+		"saturno (Specular Glossiness).jpeg-a0f4ee59-caef-4df4-bc5f-fe30ed71e03d.json",
+		"mercurio (Diffuse).jpeg-f46796b8-a875-41ee-9557-7d55cd75d8f8.json",
+		"mercurio (Specular Glossiness).jpeg-af2a9e82-cac9-4135-8e6b-ca3866b3bd54.json",
+		"venus (Diffuse).jpeg-02db38d7-3e48-48af-a33d-3b605205ef29.json",
+		"venus (Specular Glossiness).jpeg-5aeaf036-184b-4bb3-8ad0-390e46b12ec1.json",
+		"jayvee-villaganas-41wjKGeCb_g-unsplash.jpg-f696157a-f4a8-4167-9e2c-c120dccb8732.json",
+		"jayvee-villaganas-41wjKGeCb_g-unsplash.jpg-f696157a-f4a8-4167-9e2c-c120dccb8732.json",
+		"Material.001 (Normal).png-4270115a-0f75-462f-843f-a8e1cecf95aa.json",
+		"Material.001 (Base Color).png-67ede2be-aa5e-49e8-ae70-60615ea11398.json",
+		"Material.002 (Normal).png-5c88b5df-f1d6-41fd-8224-89cc681fafd5.json",
+		"Material.002 (Base Color).png-eb45abeb-3d97-416b-ae66-624fd9bc2259.json",
+		"Material.002 (Metallic Roughness).png-e9782507-f212-4d0a-8b54-92620e9b3cef.json",
+		"Material.003 (Normal).png-265cdb34-5808-4f15-95e3-a3e41250e5fe.json",
+		"Material.003 (Base Color).png-058fa80d-b289-4879-bfd7-317ff7e5526c.json",
+		"Material.004 (Normal).png-3fcb0362-f06c-4f2d-b821-2ca075d723b0.json",
+		"Material.004 (Base Color).png-d32d65f3-8920-4a58-a401-bcff1ea6d0e8.json",
+		"Material.005 (Normal).png-29490b78-bdc1-4eb7-af5b-9aa827f5d356.json",
+		"Material.005 (Base Color).png-5950b214-5531-4678-8b88-a2f4b7256764.json"
+	],
+	"meshes": [
+		"sky-6a927ea7-51d9-4248-9b80-4d34b53b386e.json",
+		"solar-d46981c9-ffdf-42b7-a5ba-f23b9e0bff2d.json",
+		"Sphere001_tierra_0-1f35e67c-4f3f-448f-abff-d44a21ec651c.json",
+		"Sphere002_luna_0-8ce02557-2976-4e60-ad3d-2b42c474213a.json",
+		"Sphere003_14 - Default_0-0f3229c6-b7a3-4d83-a2c9-d2ab12f56de6.json",
+		"Sphere009_uranus_0-dbea1ca2-3d2f-401b-b417-61c878020dc8.json",
+		"Sphere010_pluto_0-3d715216-6504-4750-83c9-64dc66d4c4a5.json",
+		"Sphere012_jupiter_0-b3c57272-61a0-4c03-92db-428716097858.json",
+		"Circle005__0-98cb5b05-8dcd-4060-b0ec-556b16485341.json",
+		"Circle006__0-005647b9-79ee-46a7-a674-e5f6e3f8b68e.json",
+		"Circle007__0-46d73256-d4c8-4297-8151-03e94c56bbe9.json",
+		"Circle008__0-0d142266-a94c-4614-81be-e07df65b5ee9.json",
+		"Circle009__0-20f9ec89-039f-4720-81d7-1f5d017ada7a.json",
+		"Circle010__0-86e1c82c-478f-480b-ac72-9c1bfbae8570.json",
+		"Circle011__0-1d11eb8e-12b4-49c0-a8f1-d0d8a9a8a304.json",
+		"Circle012__0-5b40b585-c7f2-4efb-93cc-6c1c112ac6ef.json",
+		"Circle013__0-f80e62d8-72c1-4975-86bd-bb7ad04e4745.json",
+		"Sphere008_neptune rings_0-ceb4184a-c4f6-41c5-b2c4-072322572927.json",
+		"Circle004_neptune rings_0-b9a2d1bf-84a9-42fe-968e-5e9ab64eb218.json",
+		"Sphere011_pluto_0-f02e5972-971c-4139-b80a-a0c82e79d1a2.json",
+		"Sphere005_saturno_0-1f7438a2-03e0-4060-8ce2-a4ffc8fe86f4.json",
+		"Tube001__0-e0768c58-a409-4471-870e-b5bde8dc9719.json",
+		"asteroides__0-8dac5a6e-c5b1-4c66-b4e8-bdad5e092f12.json",
+		"mercurio_mercurio_0-d243247c-6572-46ad-9a6d-0eed2d0d497f.json",
+		"Sphere006_venus_0-84376676-721e-4bf9-8b1f-b73c18e6806e.json",
+		"darth-624d0b98-115e-4de0-baea-b9e16c8fe55f.json",
+		"Object_2-1878aaae-5490-4312-9bae-a1dbfe8a1900.json",
+		"Object_3-8d0ca79d-eab7-4ca2-8baa-83fb62b29937.json",
+		"Object_4-25e77ced-2eff-4dc5-ba6f-beab644318ec.json",
+		"Object_5-00310aae-6131-40c7-8d3e-149a829767f1.json",
+		"Object_6-503c3e61-7117-47f3-9dc9-c0a1980eb752.json"
+	],
+	"transformNodes": [
+		"Sketchfab_model-5c2451ea-f808-412c-82dc-c5f543c893dc.json",
+		"c111347fd2ad46b78a60069812fc6963.fbx-15f7ce6e-0ad5-4240-82a7-7f3172a6478a.json",
+		"RootNode-19e05be4-8993-4d08-8ee3-4fce900ac426.json",
+		"Spot002-d6d2c1a3-4fd0-4f54-b85f-428ca3ba5038.json",
+		"Object_4-e4cf3999-f24c-407a-8955-73d748d887d2.json",
+		"Object_5-71a49dd6-d121-434f-b4c4-96b50a56b595.json",
+		"Sphere001-95a6e8f9-a45d-4e62-853b-35fb2a5e565c.json",
+		"Sphere002-2c6aaec7-0c6f-45dd-99ec-a2629750d7df.json",
+		"Sphere003-dbe5c0df-dbf2-4367-a4f6-6ee8a06b60a8.json",
+		"Sphere009-a85ee1ad-7832-42cb-96f9-42b2d8ca6c7c.json",
+		"Sphere010-79658d05-f31f-4a46-81a3-0dd768897903.json",
+		"Sphere012-628dd2a9-04ad-40e7-bc7a-d97750557378.json",
+		"Circle005-6b297155-e20c-4025-a3e3-4982805c6cfe.json",
+		"Circle006-4ca0f835-a1d7-4176-96cd-7d01861c9351.json",
+		"Circle007-0b58bc86-e605-422b-9605-d4703190815c.json",
+		"Circle008-f24feefd-d2ca-4431-b5e3-65bf1917ea1e.json",
+		"Circle009-d2323e3b-c713-4cd8-8b61-b0158a9418d8.json",
+		"Circle010-67c47682-5632-4430-8801-b218b3974750.json",
+		"Circle011-7d99fca1-84af-44e3-88d8-6911f88ff3b2.json",
+		"Circle012-e4a53641-a097-4ce3-afeb-58add568ef2b.json",
+		"Circle013-97e586a0-f3bd-4155-847d-513ae19b7413.json",
+		"Sphere008-3650cd11-072e-4efa-bca2-4e46bd03be6b.json",
+		"URANO-86b29863-dd17-42cb-8040-5fef1155cb51.json",
+		"Circle004-d3a3635b-0141-40f7-9330-4f06534fe031.json",
+		"Sphere011-6064e8b7-f27e-4fba-85df-a6767aadc55f.json",
+		"Circle014-bd7ffba2-e4f7-44f1-bad0-9ab3efbf969e.json",
+		"saturn-11ce210b-494a-4714-abcb-8eff2907830e.json",
+		"SATURN-7b22fa1e-2ae4-4844-954e-7cd67aac1f0e.json",
+		"Sphere005-021150e5-a1a2-4722-855a-3aff134b690f.json",
+		"Tube001-65e31e3d-928f-476b-9126-828d10a54845.json",
+		"asteroides-7fbcef03-1bd1-4120-bffb-7147765230cc.json",
+		"mercurio-ba4eaf9e-033b-40a5-803f-9251261fd7cb.json",
+		"mercurio-84bb55c0-027d-40a5-a2ff-382d4a123b60.json",
+		"venus-39a258a1-f781-45f7-b7fc-05f1ae6189e1.json",
+		"Sphere006-e3dccbe2-d2e9-47ef-b23a-07cf2c2c547c.json",
+		"Sketchfab_model-543b3de7-19dd-4155-b324-6b7e26690691.json",
+		"untitled1.obj.cleaner.materialmerger.gles-7bb10ffe-a8a4-454b-942b-cb4cdc2cb1e1.json"
+	],
+	"particleSystems": [],
+	"lights": [
+		{
+			"json": "sun-a76adafc-c695-43b9-bc2a-a5b1a01a6419.json",
+			"shadowGenerator": "sun-a76adafc-c695-43b9-bc2a-a5b1a01a6419.json"
+		}
+	],
+	"sounds": [],
+	"morphTargetManagers": [],
+	"reflectionProbes": [],
+	"scene": {
+		"autoClear": true,
+		"clearColor": [
+			0.2,
+			0.2,
+			0.3,
+			1
+		],
+		"ambientColor": [
+			1,
+			1,
+			1
+		],
+		"gravity": [
+			0,
+			-9.807,
+			0
+		],
+		"collisionsEnabled": true,
+		"fogEnabled": true,
+		"physicsEnabled": true,
+		"physicsGravity": [
+			0,
+			0,
+			0
+		],
+		"physicsEngine": "CannonJSPlugin",
+		"imageProcessingConfiguration": {
+			"tags": null,
+			"colorCurves": {
+				"tags": null,
+				"_globalHue": 200,
+				"_globalDensity": 80,
+				"_globalSaturation": 80,
+				"_globalExposure": 0,
+				"_highlightsHue": 20,
+				"_highlightsDensity": 80,
+				"_highlightsSaturation": -80,
+				"_highlightsExposure": 0,
+				"_midtonesHue": 30,
+				"_midtonesDensity": 0,
+				"_midtonesSaturation": 0,
+				"_midtonesExposure": 0
+			},
+			"_colorCurvesEnabled": false,
+			"_colorGradingEnabled": false,
+			"_colorGradingWithGreenDepth": true,
+			"_colorGradingBGR": true,
+			"_exposure": 1,
+			"_toneMappingEnabled": false,
+			"_contrast": 1,
+			"vignetteStretch": 0,
+			"vignetteCenterX": 0,
+			"vignetteCenterY": 0,
+			"vignetteWeight": 1.5,
+			"vignetteColor": [
+				0,
+				0,
+				0,
+				0
+			],
+			"vignetteCameraFov": 0.5,
+			"_vignetteBlendMode": 0,
+			"_vignetteEnabled": false,
+			"_ditheringEnabled": false,
+			"_ditheringIntensity": 0.00392156862745098,
+			"_skipFinalColorClamp": false,
+			"_applyByPostProcess": true,
+			"_isEnabled": true
+		},
+		"animations": [],
+		"postProcessesEnabled": true,
+		"metadata": {
+			"script": {
+				"name": "None"
+			},
+			"postProcesses": {
+				"ssao": {
+					"enabled": true,
+					"json": {
+						"tags": null,
+						"totalStrength": 1.5,
+						"maxZ": 1000,
+						"minZAspect": 0.2,
+						"epsilon": 0.02,
+						"samples": 16,
+						"textureSamples": 1,
+						"_forceGeometryBuffer": false,
+						"_ratio": {
+							"ssaoRatio": 0.5,
+							"blurRatio": 0.5
+						},
+						"_textureType": 0,
+						"radius": 1,
+						"base": 0,
+						"bypassBlur": false,
+						"expensiveBlur": true,
+						"bilateralSamples": 16,
+						"bilateralSoften": 0,
+						"bilateralTolerance": 0,
+						"_name": "ssao",
+						"customType": "SSAO2RenderingPipeline"
+					}
+				},
+				"ssr": {
+					"enabled": false,
+					"json": {
+						"tags": null,
+						"samples": 1,
+						"maxDistance": 1000,
+						"step": 1,
+						"thickness": 0.5,
+						"strength": 1,
+						"reflectionSpecularFalloffExponent": 1,
+						"maxSteps": 1000,
+						"roughnessFactor": 0.2,
+						"selfCollisionNumSkip": 1,
+						"reflectivityThreshold": 0.04,
+						"_ssrDownsample": 0,
+						"ssrDownsample": 0,
+						"blurDispersionStrength": 0.03,
+						"blurDownsample": 0,
+						"enableSmoothReflections": false,
+						"environmentTextureIsProbe": false,
+						"attenuateScreenBorders": true,
+						"attenuateIntersectionDistance": true,
+						"attenuateIntersectionIterations": true,
+						"attenuateFacingCamera": false,
+						"attenuateBackfaceReflection": false,
+						"clipToFrustum": true,
+						"enableAutomaticThicknessComputation": false,
+						"backfaceDepthTextureDownsample": 0,
+						"backfaceForceDepthWriteTransparentMeshes": true,
+						"isEnabled": true,
+						"inputTextureColorIsInGammaSpace": true,
+						"generateOutputInGammaSpace": true,
+						"debug": false,
+						"_name": "ssr",
+						"customType": "SSRRenderingPipeline"
+					}
+				},
+				"screenSpaceReflections": {
+					"enabled": false
+				},
+				"default": {
+					"enabled": true,
+					"json": {
+						"serializedFromEditor": true,
+						"imageProcessing": {
+							"enabled": true,
+							"exposure": 1,
+							"contrast": 1,
+							"fromLinearSpace": true,
+							"toneMappingEnabled": false,
+							"colorCurvesEnabled": false,
+							"colorCurves": {
+								"tags": null,
+								"_globalHue": 200,
+								"_globalDensity": 80,
+								"_globalSaturation": 80,
+								"_globalExposure": 0,
+								"_highlightsHue": 20,
+								"_highlightsDensity": 80,
+								"_highlightsSaturation": -80,
+								"_highlightsExposure": 0,
+								"_midtonesHue": 30,
+								"_midtonesDensity": 0,
+								"_midtonesSaturation": 0,
+								"_midtonesExposure": 0
+							},
+							"colorGradingEnabled": false
+						},
+						"bloom": {
+							"enabled": false,
+							"bloomScale": 0.5,
+							"bloomWeight": 0.15,
+							"bloomKernel": 64,
+							"bloomThreshold": 0.9
+						},
+						"sharpen": {
+							"enabled": true,
+							"edgeAmount": 0.3,
+							"colorAmount": 1
+						},
+						"depthOfField": {
+							"enabled": false,
+							"fStop": 1.4,
+							"focalLength": 150,
+							"focusDistance": 2000,
+							"depthOfFieldBlurLevel": 0
+						},
+						"chromaticAberration": {
+							"enabled": false,
+							"aberrationAmount": 30,
+							"radialIntensity": 0,
+							"direction": [
+								0.707,
+								0.707
+							],
+							"centerPosition": [
+								0.5,
+								0.5
+							]
+						},
+						"grain": {
+							"enabled": false,
+							"animated": false,
+							"intensity": 30
+						},
+						"glowLayer": {
+							"enabled": false
+						},
+						"vignette": {
+							"enabled": false,
+							"vignetteWeight": 1.5,
+							"vignetteBlendMode": 0,
+							"vignetteColor": [
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						"fxaa": {
+							"enabled": true
+						}
+					}
+				},
+				"motionBlur": {
+					"enabled": false
+				}
+			}
+		},
+		"environmentIntensity": 1,
+		"shadowGenerators": [
+			{
+				"className": "CascadedShadowGenerator",
+				"lightId": "a76adafc-c695-43b9-bc2a-a5b1a01a6419",
+				"id": "a76adafc-c695-43b9-bc2a-a5b1a01a6419",
+				"mapSize": 1024,
+				"forceBackFacesOnly": false,
+				"darkness": 0,
+				"transparencyShadow": false,
+				"frustumEdgeFalloff": 0,
+				"bias": 0.00005,
+				"normalBias": 0,
+				"usePercentageCloserFiltering": true,
+				"useContactHardeningShadow": false,
+				"contactHardeningLightSizeUVRatio": 0.1,
+				"filteringQuality": 0,
+				"useExponentialShadowMap": false,
+				"useBlurExponentialShadowMap": false,
+				"useCloseExponentialShadowMap": false,
+				"useBlurCloseExponentialShadowMap": false,
+				"usePoissonSampling": false,
+				"depthScale": 50,
+				"blurBoxOffset": 1,
+				"blurKernel": 1,
+				"blurScale": 2,
+				"useKernelBlur": false,
+				"renderList": [],
+				"numCascades": 4,
+				"debug": false,
+				"stabilizeCascades": false,
+				"lambda": 1,
+				"cascadeBlendPercentage": 0.2,
+				"depthClamp": true,
+				"autoCalcDepthBounds": false,
+				"shadowMaxZ": 5000,
+				"penumbraDarkness": 1,
+				"freezeShadowCastersBoundingInfo": false,
+				"minDistance": 0,
+				"maxDistance": 1
+			}
+		],
+		"sounds": []
+	},
+	"assets": {
+		"meshes": [],
+		"graphs": [],
+		"prefabs": []
+	},
+	"cinematics": [],
+	"project": {
+		"camera": {
+			"tags": null,
+			"ellipsoid": [
+				0.5,
+				1,
+				0.5
+			],
+			"ellipsoidOffset": [
+				0,
+				0,
+				0
+			],
+			"checkCollisions": false,
+			"applyGravity": false,
+			"rotation": [
+				0.5756050349697396,
+				-25.529461393970497,
+				0
+			],
+			"speed": 2,
+			"position": [
+				3.63464736952294,
+				10.59394501622993,
+				-11.266525222109365
+			],
+			"upVector": [
+				0,
+				1,
+				0
+			],
+			"fov": 0.8,
+			"projectionPlaneTilt": 0,
+			"minZ": 1,
+			"maxZ": 10000,
+			"inertia": 0.5,
+			"mode": 0,
+			"layerMask": 268435455,
+			"fovMode": 0,
+			"cameraRigMode": 0,
+			"name": "Editor Camera",
+			"id": "b5ff9af3-8573-45f3-b73f-fb766cfa4a7d",
+			"state": "",
+			"metadata": {
+				"script": {
+					"name": "None"
+				},
+				"detached": false
+			},
+			"uniqueId": 7,
+			"type": "EditorCamera",
+			"inputsmgr": {
+				"FreeCameraKeyboardMoveInput": {
+					"tags": null,
+					"keysUp": [
+						87
+					],
+					"keysUpward": [
+						69
+					],
+					"keysDown": [
+						83
+					],
+					"keysDownward": [
+						81
+					],
+					"keysLeft": [
+						65
+					],
+					"keysRight": [
+						68
+					],
+					"rotationSpeed": 0.5,
+					"keysRotateLeft": [],
+					"keysRotateRight": [],
+					"keysRotateUp": [],
+					"keysRotateDown": []
+				},
+				"FreeCameraMouseInput": {
+					"tags": null,
+					"buttons": [
+						0,
+						1,
+						2
+					],
+					"angularSensibility": 500
+				},
+				"FreeCameraMouseWheelInput": {
+					"tags": null,
+					"wheelXMoveRelative": 0,
+					"wheelYMoveRelative": 2,
+					"wheelPrecisionX": 3,
+					"wheelPrecisionY": 3,
+					"wheelPrecisionZ": 3
+				}
+			},
+			"animations": [],
+			"ranges": [],
+			"isEnabled": true
+		}
+	},
+	"postProcesses": {
+		"custom": [],
+		"ssao": {
+			"enabled": true,
+			"json": {
+				"tags": null,
+				"totalStrength": 1.5,
+				"maxZ": 1000,
+				"minZAspect": 0.2,
+				"epsilon": 0.02,
+				"samples": 16,
+				"textureSamples": 1,
+				"_forceGeometryBuffer": false,
+				"_ratio": {
+					"ssaoRatio": 0.5,
+					"blurRatio": 0.5
+				},
+				"_textureType": 0,
+				"radius": 1,
+				"base": 0,
+				"bypassBlur": false,
+				"expensiveBlur": true,
+				"bilateralSamples": 16,
+				"bilateralSoften": 0,
+				"bilateralTolerance": 0,
+				"_name": "ssao",
+				"customType": "SSAO2RenderingPipeline"
+			}
+		},
+		"ssr": {
+			"enabled": false,
+			"json": {
+				"tags": null,
+				"samples": 1,
+				"maxDistance": 1000,
+				"step": 1,
+				"thickness": 0.5,
+				"strength": 1,
+				"reflectionSpecularFalloffExponent": 1,
+				"maxSteps": 1000,
+				"roughnessFactor": 0.2,
+				"selfCollisionNumSkip": 1,
+				"reflectivityThreshold": 0.04,
+				"_ssrDownsample": 0,
+				"ssrDownsample": 0,
+				"blurDispersionStrength": 0.03,
+				"blurDownsample": 0,
+				"enableSmoothReflections": false,
+				"environmentTextureIsProbe": false,
+				"attenuateScreenBorders": true,
+				"attenuateIntersectionDistance": true,
+				"attenuateIntersectionIterations": true,
+				"attenuateFacingCamera": false,
+				"attenuateBackfaceReflection": false,
+				"clipToFrustum": true,
+				"enableAutomaticThicknessComputation": false,
+				"backfaceDepthTextureDownsample": 0,
+				"backfaceForceDepthWriteTransparentMeshes": true,
+				"isEnabled": true,
+				"inputTextureColorIsInGammaSpace": true,
+				"generateOutputInGammaSpace": true,
+				"debug": false,
+				"_name": "ssr",
+				"customType": "SSRRenderingPipeline"
+			}
+		},
+		"screenSpaceReflections": {
+			"enabled": false
+		},
+		"default": {
+			"enabled": true,
+			"json": {
+				"serializedFromEditor": true,
+				"imageProcessing": {
+					"enabled": true,
+					"exposure": 1,
+					"contrast": 1,
+					"fromLinearSpace": true,
+					"toneMappingEnabled": false,
+					"colorCurvesEnabled": false,
+					"colorCurves": {
+						"tags": null,
+						"_globalHue": 200,
+						"_globalDensity": 80,
+						"_globalSaturation": 80,
+						"_globalExposure": 0,
+						"_highlightsHue": 20,
+						"_highlightsDensity": 80,
+						"_highlightsSaturation": -80,
+						"_highlightsExposure": 0,
+						"_midtonesHue": 30,
+						"_midtonesDensity": 0,
+						"_midtonesSaturation": 0,
+						"_midtonesExposure": 0
+					},
+					"colorGradingEnabled": false
+				},
+				"bloom": {
+					"enabled": false,
+					"bloomScale": 0.5,
+					"bloomWeight": 0.15,
+					"bloomKernel": 64,
+					"bloomThreshold": 0.9
+				},
+				"sharpen": {
+					"enabled": true,
+					"edgeAmount": 0.3,
+					"colorAmount": 1
+				},
+				"depthOfField": {
+					"enabled": false,
+					"fStop": 1.4,
+					"focalLength": 150,
+					"focusDistance": 2000,
+					"depthOfFieldBlurLevel": 0
+				},
+				"chromaticAberration": {
+					"enabled": false,
+					"aberrationAmount": 30,
+					"radialIntensity": 0,
+					"direction": [
+						0.707,
+						0.707
+					],
+					"centerPosition": [
+						0.5,
+						0.5
+					]
+				},
+				"grain": {
+					"enabled": false,
+					"animated": false,
+					"intensity": 30
+				},
+				"glowLayer": {
+					"enabled": false
+				},
+				"vignette": {
+					"enabled": false,
+					"vignetteWeight": 1.5,
+					"vignetteBlendMode": 0,
+					"vignetteColor": [
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				"fxaa": {
+					"enabled": true
+				}
+			}
+		},
+		"motionBlur": {
+			"enabled": false
+		}
+	},
+	"physicsEnabled": true
+}
