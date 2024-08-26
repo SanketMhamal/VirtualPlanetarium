@@ -21,7 +21,7 @@ Welcome to the Space Explorer web application! This project aims to provide an i
 ![2](Images/2.jpg)
 ![3](Images/3.jpg)
 ![MARS](Images/MARS.jpg)
-![SATELLITE](Images/SATELLITE .jpg)
+![SATELLITE](Images/SATELLITE.jpg)
 ![SPACEROOM](Images/SPACEROOM.jpg)
 ![Screenshot(138)](Images/Screenshot(138).png)
 ![Screenshot(139)](Images/Screenshot(139).png)
